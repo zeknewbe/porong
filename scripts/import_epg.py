@@ -2,7 +2,7 @@ import xml.etree.ElementTree as ET
 import requests
 import os
 
-GITHUB_REPO_API = 'https://api.github.com/repos/zeknewbe/porong/contents/merged_epg.xml'
+GITHUB_REPO_API = 'https://api.github.com/repos/zeknewbe/porong/blob/main/merged_epg.xml'
 
 def fetch_xml(url):
     response = requests.get(url)
