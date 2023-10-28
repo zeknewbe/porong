@@ -2,7 +2,7 @@ name: Import EPG
 
 on:
   schedule:
-    - cron: '0 0/3 * * *'
+    - cron: '0 0/12 * * *'
   pull_request:
     branches:
       - main
@@ -33,7 +33,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python import_epg.py
+          python scripts/import_epg.py  # Corrected the path here
 
       - name: Commit & Push if there are changes
         run: |
