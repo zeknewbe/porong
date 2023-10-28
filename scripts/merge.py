@@ -22,4 +22,4 @@ if __name__ == '__main__':
     # Example usage
     files_to_merge = ['playlist1.m3u', 'playlist2.m3u', 'playlist3.m3u']
     output_filename = 'merged_playlist.m3u'
-    merge_m3u(porong/scripts, porong/scripts)
+    merge_m3u(porong/, porong/)
