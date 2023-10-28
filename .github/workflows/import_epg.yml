@@ -33,14 +33,15 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python scripts/import_epg.py  # Corrected the path here
+          python scripts/import_epg.py
 
       - name: Commit & Push if there are changes
         run: |
           git add -A
-          if git diff --staged; then
+          if git diff --quiet --staged; then
+            echo "No changes to commit"
+            exit 0
+          else
             git commit -m "links are updated"
             git push
-          else
-            echo "No changes to commit"
           fi
