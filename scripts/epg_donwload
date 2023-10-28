@@ -2,7 +2,7 @@ import xml.etree.ElementTree as ET
 import requests
 
 GITHUB_REPO_API = 'https://api.github.com/repos/zeknewbe/porong/main'
-TOKEN = 'YOUR_PERSONAL_ACCESS_TOKEN'
+TOKEN = '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'
 
 def fetch_xml(url):
     response = requests.get(url)
