@@ -2,7 +2,7 @@ name: M3U merger
 
 on:
   schedule:
-    - cron: '0 0/3 * * *'
+    - cron: '0 0/2 * * *'
   pull_request:
     branches:
       - main
