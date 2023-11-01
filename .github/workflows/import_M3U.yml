@@ -26,7 +26,7 @@ jobs:
       - name: Copy file if changed
         run: |
           SOURCE_FILE_PATH=source-repo/andrewtv.m3u
-          DEST_DIR_PATH=dest-repo/blob/main
+          DEST_DIR_PATH=dest-repo/
           DEST_FILE_PATH=$DEST_DIR_PATH/andrewtv.m3u
           mkdir -p $DEST_DIR_PATH  # Ensure the directory exists before copying
           if [[ ! -f $DEST_FILE_PATH || $(diff $SOURCE_FILE_PATH $DEST_FILE_PATH) ]]; then
