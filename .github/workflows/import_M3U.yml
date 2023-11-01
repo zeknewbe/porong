@@ -1,8 +1,9 @@
-name: Import_M3U
+name: Update from source
 
 on:
   schedule:
     - cron: '0 */3 * * *' # This runs every 3 hours
+  workflow_dispatch: # This allows manual triggering
 
 jobs:
   update:
