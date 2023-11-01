@@ -1,0 +1,47 @@
+name: Update from source
+
+on:
+  schedule:
+    - cron: '0 */3 * * *' # This runs every 3 hours
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout destination repo
+        uses: actions/checkout@v2
+        with:
+          repository: zeknewbe/porong
+          path: dest-repo
+
+      - name: Checkout source file
+        uses: actions/checkout@v2
+        with:
+          repository: AndrEs261997/Lista.m3u
+          path: source-repo
+          fetch-depth: 0
+
+      - name: Copy file if changed
+        run: |
+          SOURCE_FILE_PATH=source-repo/andrewtv.m3u
+          DEST_FILE_PATH=dest-repo/blob/main/andrewtv.m3u
+          if [[ ! -f $DEST_FILE_PATH || $(diff $SOURCE_FILE_PATH $DEST_FILE_PATH) ]]; then
+            cp $SOURCE_FILE_PATH $DEST_FILE_PATH
+            echo "File updated"
+            echo "FILE_UPDATED=true" >> $GITHUB_ENV
+          else
+            echo "No changes detected"
+            echo "FILE_UPDATED=false" >> $GITHUB_ENV
+          fi
+
+      - name: Commit and push if updated
+        run: |
+          if [ "${{ env.FILE_UPDATED }}" = "true" ]; then
+            cd dest-repo
+            git config user.email "actions@github.com"
+            git config user.name "GitHub Actions"
+            git add blob/main/andrewtv.m3u
+            git commit -m "Auto update from source repository"
+            git push
+          fi
