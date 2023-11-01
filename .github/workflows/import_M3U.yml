@@ -26,9 +26,7 @@ jobs:
       - name: Copy file if changed
         run: |
           SOURCE_FILE_PATH=source-repo/andrewtv.m3u
-          DEST_DIR_PATH=dest-repo/main
-          DEST_FILE_PATH=$DEST_DIR_PATH/andrewtv.m3u
-          mkdir -p $DEST_DIR_PATH  # Ensure the directory exists before copying
+          DEST_FILE_PATH=dest-repo/andrewtv.m3u
           if [[ ! -f $DEST_FILE_PATH || $(diff $SOURCE_FILE_PATH $DEST_FILE_PATH) ]]; then
             cp $SOURCE_FILE_PATH $DEST_FILE_PATH
             echo "File updated"
@@ -44,7 +42,7 @@ jobs:
             cd dest-repo
             git config user.email "actions@github.com"
             git config user.name "GitHub Actions"
-            git add blob/main/andrewtv.m3u
+            git add andrewtv.m3u
             git commit -m "Auto update from source repository"
             git push
           fi
