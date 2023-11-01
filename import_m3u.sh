@@ -4,7 +4,7 @@
 SOURCE_REPO="git@github.com:AndrEs261997/Lista.m3u.git"
 DEST_REPO="git@github.com:zeknewbe/porong.git"
 FILE_PATH="andrewtv.m3u"   # Path to the file you want to import in the source repo
-DEST_PATH="blob/main/andrewtv.m3u"     # Path where you want the file to be in the destination repo
+DEST_PATH="andrewtv.m3u"     # Path where you want the file to be in the destination repo
 
 # Clone destination repo
 git clone $DEST_REPO && cd $(basename $_ .git)
