@@ -1,4 +1,4 @@
-name: Update from source
+name: IMPORT_M3U
 
 on:
   schedule:
@@ -26,7 +26,9 @@ jobs:
       - name: Copy file if changed
         run: |
           SOURCE_FILE_PATH=source-repo/andrewtv.m3u
-          DEST_FILE_PATH=dest-repo/blob/main/andrewtv.m3u
+          DEST_DIR_PATH=dest-repo/blob/main
+          DEST_FILE_PATH=$DEST_DIR_PATH/andrewtv.m3u
+          mkdir -p $DEST_DIR_PATH  # Ensure the directory exists before copying
           if [[ ! -f $DEST_FILE_PATH || $(diff $SOURCE_FILE_PATH $DEST_FILE_PATH) ]]; then
             cp $SOURCE_FILE_PATH $DEST_FILE_PATH
             echo "File updated"
