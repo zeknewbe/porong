@@ -1,10 +1,17 @@
 #EXTM3U
 
 #EVENTOS
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2TTDtlv.png" group-title="EVENTOS",Liga de Quito vs. Universidad Católica
-http://magmas5.com:8000/impejol2022/VJIUZWQ5G9/190124
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2TTDtlv.png" group-title="EVENTOS",Liga de Quito vs. Universidad Católica 2
-http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/589729
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HAOWAzy.png" group-title="EVENTOS",GOL TV
+http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/590000
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2cJn8WB.png" group-title="EVENTOS",Cumbayá vs Orense
+http://tv.dominiotv.xyz:80/Joaquin/Panama507/412555.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t0ccZGQ.png" group-title="EVENTOS",Barcelona vs El Nacional
+http://tv.dominiotv.xyz:80/Joaquin/Panama507/412571.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t0ccZGQ.png" group-title="EVENTOS",Barcelona vs El Nacional 2
+http://sdmx.vip:8080/China02/china93/2191218
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t0ccZGQ.png" group-title="EVENTOS",Barcelona vs El Nacional 3
+http://tv.dominiotv.xyz:80/cuen23/hX8recoverymf/412571.ts
+
 
 #CANALESECUADOR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eJf77aD.png" group-title="ECUADOR",ECUAVISA
