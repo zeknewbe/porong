@@ -13,12 +13,7 @@ GIT_NAME="zeknewbe"
 
 # Clone destination repo
 echo "Cloning destination repository..."
-if git clone "$DEST_REPO" dest-repo; then
-    cd dest-repo || exit 1
-else
-    echo "Failed to clone destination repository."
-    exit 1
-fi
+git clone "$DEST_REPO" dest-repo && cd dest-repo
 
 # Add source repo as a remote and fetch the file
 echo "Adding source repository as remote..."
@@ -27,33 +22,24 @@ git fetch source_repo $SOURCE_BRANCH
 
 # Checkout the specific file from source repo
 echo "Checking out file from source repository..."
-if git checkout source_repo/$SOURCE_BRANCH -- "$SOURCE_FILE"; then
-    if mv "$SOURCE_FILE" "$DEST_PATH"; then
-        echo "File moved to destination path."
-    else
-        echo "Failed to move file to destination path."
-        exit 1
-    fi
-else
-    echo "Failed to checkout file from source repository."
-    exit 1
-fi
+git checkout source_repo/$SOURCE_BRANCH -- "$SOURCE_FILE"
 
-# Commit and push the changes
+# Configure Git
 echo "Setting up Git configuration..."
 git config user.email "$GIT_EMAIL"
 git config user.name "$GIT_NAME"
 
-echo "Committing changes..."
-git add "$DEST_PATH"
-git commit -m "Imported $SOURCE_FILE from $SOURCE_REPO"
-
-echo "Pushing changes to the repository..."
-if git push origin main; then
+# Check for changes
+echo "Checking for changes..."
+if [[ `git status --porcelain` ]]; then
+    echo "Changes detected, committing the file..."
+    git add "$SOURCE_FILE"
+    git commit -m "Imported $SOURCE_FILE from $SOURCE_REPO"
+    echo "Pushing changes to the repository..."
+    git push origin main
     echo "File imported successfully!"
 else
-    echo "Failed to push changes to destination repository."
-    exit 1
+    echo "No changes detected, nothing to commit."
 fi
 
 # Cleanup by removing the added remote
