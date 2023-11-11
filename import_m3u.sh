@@ -1,33 +1,30 @@
 #!/bin/bash
 
 # Variables
-SOURCE_REPO="git@github.com:jsosao/m3u/main/mylist.m3u8.git"
+SOURCE_FILE_URL="https://raw.githubusercontent.com/jsosao/m3u/main/mylist.m3u8"
 DEST_REPO="git@github.com:zeknewbe/porong.git"
-FILE_PATH="mylist.m3u8"   # Path to the file you want to import in the source repo
 DEST_PATH="mylist.m3u8"     # Path where you want the file to be in the destination repo
 
 # Clone destination repo
-git clone $DEST_REPO && cd $(basename $_ .git)
+if git clone "$DEST_REPO"; then
+    cd "$(basename "$DEST_REPO" .git)" || exit
+else
+    echo "Failed to clone destination repository."
+    exit 1
+fi
 
-# Add source repo as a remote and fetch its commits
-git remote add source_repo $SOURCE_REPO
-git fetch source_repo
-
-# Checkout the specific file from source repo
-git checkout source_repo/main -- $FILE_PATH
-
-# Ensure the destination directory exists
-mkdir -p $(dirname $DEST_PATH)
-
-# Move the file to the desired location in the destination repo
-mv $FILE_PATH $DEST_PATH
+# Download the file using curl
+if ! curl -o "$DEST_PATH" "$SOURCE_FILE_URL"; then
+    echo "Failed to download the file."
+    exit 1
+fi
 
 # Commit and push the changes
-git add $DEST_PATH
-git commit -m "Imported $FILE_PATH from jsosao/m3u/main/mylist.m3u8"
-git push origin main
-
-# Cleanup by removing the added remote
-git remote remove source_repo
-
-echo "File imported successfully!"
+git add "$DEST_PATH"
+git commit -m "Imported $DEST_PATH from $SOURCE_FILE_URL"
+if git push origin main; then
+    echo "File imported successfully!"
+else
+    echo "Failed to push changes to destination repository."
+    exit 1
+fi
