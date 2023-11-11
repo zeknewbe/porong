@@ -2,7 +2,7 @@ name: IMPORT_M3U
 
 on:
   schedule:
-    - cron: '0 */12 * * *' # This runs every 12 hours, not 3
+    - cron: '0 */12 * * *' # This runs every 12 hours
   workflow_dispatch: # This allows manual triggering
 
 jobs:
@@ -23,12 +23,22 @@ jobs:
         run: |
           cd dest-repo
           # Download the file using curl
+          echo "Downloading file..."
           curl -o "${DEST_FILE_PATH}" "${SOURCE_FILE_URL}"
           
-          # Check if there are any changes. If so, commit and push.
-          if git diff --quiet; then
-            echo "No changes in M3U file."
+          # Check if the download was successful
+          if [ -f "${DEST_FILE_PATH}" ]; then
+            echo "Download successful, checking for changes..."
           else
+            echo "Download failed, file does not exist."
+            exit 1
+          fi
+
+          # Check for changes
+          if git diff --quiet; then
+            echo "No changes detected, no need to commit."
+          else
+            echo "Changes detected, proceeding to commit and push."
             git config user.email "actions@github.com"
             git config user.name "GitHub Actions"
             git add "${DEST_FILE_PATH}"
@@ -36,3 +46,4 @@ jobs:
             git push
             echo "M3U file updated and pushed."
           fi
+
