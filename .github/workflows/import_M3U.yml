@@ -19,7 +19,7 @@ jobs:
       - name: Checkout source file
         uses: actions/checkout@v2
         with:
-          repository: jsosao/m3u/main/mylist.m3u8
+          repository: jsosao/mylist.m3u8
           path: source-repo
           fetch-depth: 0
 
