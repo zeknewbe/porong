@@ -19,14 +19,14 @@ jobs:
       - name: Checkout source file
         uses: actions/checkout@v2
         with:
-          repository: AndrEs261997/Lista.m3u
+          repository: jsosao/m3u/main/mylist.m3u8
           path: source-repo
           fetch-depth: 0
 
       - name: Copy file if changed
         run: |
-          SOURCE_FILE_PATH=source-repo/andrewtv.m3u
-          DEST_FILE_PATH=dest-repo/andrewtv.m3u
+          SOURCE_FILE_PATH=source-repo/mylist.m3u8
+          DEST_FILE_PATH=dest-repo/mylist.m3u8
           if [[ ! -f $DEST_FILE_PATH || $(diff $SOURCE_FILE_PATH $DEST_FILE_PATH) ]]; then
             cp $SOURCE_FILE_PATH $DEST_FILE_PATH
             echo "File updated"
