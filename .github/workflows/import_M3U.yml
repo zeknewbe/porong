@@ -26,10 +26,8 @@ jobs:
           SOURCE_BRANCH: main
           DEST_PATH: mylist.m3u8
         run: |
-          # Clone destination repo
-          echo "Cloning destination repository..."
-          git clone git@github.com:$GIT_NAME/porong.git dest-repo
-          cd dest-repo || exit 1
+          # Navigate to the destination repository directory
+          cd dest-repo
 
           # Add source repo as a remote and fetch the file
           echo "Adding source repository as remote..."
