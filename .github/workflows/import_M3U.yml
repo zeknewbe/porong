@@ -2,8 +2,8 @@ name: IMPORT_M3U
 
 on:
   schedule:
-    - cron: '0 */12 * * *' # This runs every 12 hours
-  workflow_dispatch: # This allows manual triggering
+    - cron: '0 */12 * * *'  # This runs every 12 hours
+  workflow_dispatch:  # This allows manual triggering
 
 jobs:
   update:
@@ -19,22 +19,21 @@ jobs:
       - name: Import M3U File
         env:
           SOURCE_FILE_URL: https://raw.githubusercontent.com/jsosao/m3u/main/mylist.m3u8
-          DEST_FILE_PATH: mylist.m3u8 # The destination path in the repository
+          DEST_FILE_PATH: mylist.m3u8  # The destination path in the repository
         run: |
           cd dest-repo
           # Download the file using curl
-          echo "Downloading file..."
-          curl -o "${DEST_FILE_PATH}" "${SOURCE_FILE_URL}"
-          
-          # Check if the download was successful
-          if [ -f "${DEST_FILE_PATH}" ]; then
-            echo "Download successful, checking for changes..."
-          else
-            echo "Download failed, file does not exist."
+          echo "Downloading file from ${SOURCE_FILE_URL}"
+          curl -sS -o "${DEST_FILE_PATH}" "${SOURCE_FILE_URL}" || {
+            echo "Failed to download the file."
             exit 1
-          fi
+          }
+          echo "File downloaded successfully."
 
           # Check for changes
+          echo "Checking for changes..."
+          git status
+          git diff
           if git diff --quiet; then
             echo "No changes detected, no need to commit."
           else
@@ -42,8 +41,7 @@ jobs:
             git config user.email "actions@github.com"
             git config user.name "GitHub Actions"
             git add "${DEST_FILE_PATH}"
-            git commit -m "Imported M3U file from external source"
+            git commit -m "Update M3U file from external source"
             git push
             echo "M3U file updated and pushed."
           fi
-
