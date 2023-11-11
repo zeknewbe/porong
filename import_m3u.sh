@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Variables
-SOURCE_REPO="git@github.com:AndrEs261997/Lista.m3u.git"
+SOURCE_REPO="git@github.com:jsosao/m3u/main/mylist.m3u8.git"
 DEST_REPO="git@github.com:zeknewbe/porong.git"
-FILE_PATH="andrewtv.m3u"   # Path to the file you want to import in the source repo
-DEST_PATH="andrewtv.m3u"     # Path where you want the file to be in the destination repo
+FILE_PATH="mylist.m3u8"   # Path to the file you want to import in the source repo
+DEST_PATH="mylist.m3u8"     # Path where you want the file to be in the destination repo
 
 # Clone destination repo
 git clone $DEST_REPO && cd $(basename $_ .git)
@@ -24,7 +24,7 @@ mv $FILE_PATH $DEST_PATH
 
 # Commit and push the changes
 git add $DEST_PATH
-git commit -m "Imported $FILE_PATH from AndrEs261997/Lista.m3u"
+git commit -m "Imported $FILE_PATH from jsosao/m3u/main/mylist.m3u8"
 git push origin main
 
 # Cleanup by removing the added remote
