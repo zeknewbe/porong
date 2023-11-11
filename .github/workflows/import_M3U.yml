@@ -10,38 +10,44 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Checkout the destination repository where the file will be pushed
       - name: Checkout destination repo
         uses: actions/checkout@v2
         with:
           repository: zeknewbe/porong
           path: dest-repo
 
-      - name: Import M3U File
-        env:
-          SOURCE_FILE_URL: https://raw.githubusercontent.com/jsosao/m3u/main/mylist.m3u8
-          DEST_FILE_PATH: mylist.m3u8  # The destination path in the repository
-        run: |
-          cd dest-repo
-          # Download the file using curl
-          echo "Downloading file from ${SOURCE_FILE_URL}"
-          curl -sS -o "${DEST_FILE_PATH}" "${SOURCE_FILE_URL}" || {
-            echo "Failed to download the file."
-            exit 1
-          }
-          echo "File downloaded successfully."
+      # Checkout the specific file from the source repository
+      - name: Checkout source file
+        uses: actions/checkout@v2
+        with:
+          repository: jsosao/m3u
+          path: source-repo
+          ref: main  # Make sure to use the correct branch here
 
-          # Check for changes
-          echo "Checking for changes..."
-          git status
-          git diff
-          if git diff --quiet; then
-            echo "No changes detected, no need to commit."
-          else
-            echo "Changes detected, proceeding to commit and push."
-            git config user.email "actions@github.com"
-            git config user.name "GitHub Actions"
-            git add "${DEST_FILE_PATH}"
-            git commit -m "Update M3U file from external source"
+      # Copy the file from the source repository to the destination repository
+      - name: Copy and commit file
+        run: |
+          # Assuming the file is in the root of the source repository
+          SOURCE_FILE_PATH=source-repo/mylist.m3u8
+          DEST_FILE_PATH=dest-repo/mylist.m3u8
+
+          # Copy the file from source to destination
+          cp -f $SOURCE_FILE_PATH $DEST_FILE_PATH
+          
+          # Change to the destination repository directory
+          cd dest-repo
+          
+          # Configure Git
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
+
+          # Commit and push the changes if there are any
+          if ! git diff --quiet; then
+            git add $DEST_FILE_PATH
+            git commit -m "Imported mylist.m3u8 from source repository"
             git push
-            echo "M3U file updated and pushed."
+            echo "File imported and pushed to destination repository."
+          else
+            echo "No changes detected, nothing to commit."
           fi
