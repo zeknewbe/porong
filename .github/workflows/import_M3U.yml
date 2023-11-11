@@ -10,44 +10,59 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout the destination repository where the file will be pushed
       - name: Checkout destination repo
         uses: actions/checkout@v2
         with:
           repository: zeknewbe/porong
+          token: ${{ secrets.GITHUB_TOKEN }}
           path: dest-repo
 
-      # Checkout the specific file from the source repository
-      - name: Checkout source file
-        uses: actions/checkout@v2
-        with:
-          repository: jsosao/m3u
-          path: source-repo
-          ref: main  # Make sure to use the correct branch here
-
-      # Copy the file from the source repository to the destination repository
-      - name: Copy and commit file
+      - name: Import M3U File
+        env:
+          GIT_EMAIL: visionintegral@gmail.com
+          GIT_NAME: zeknewbe
+          SOURCE_REPO: jsosao/m3u
+          SOURCE_FILE: mylist.m3u8
+          SOURCE_BRANCH: main
+          DEST_PATH: mylist.m3u8
         run: |
-          # Assuming the file is in the root of the source repository
-          SOURCE_FILE_PATH=source-repo/mylist.m3u8
-          DEST_FILE_PATH=dest-repo/mylist.m3u8
+          # Clone destination repo
+          echo "Cloning destination repository..."
+          git clone git@github.com:$GIT_NAME/porong.git dest-repo
+          cd dest-repo || exit 1
 
-          # Copy the file from source to destination
-          cp -f $SOURCE_FILE_PATH $DEST_FILE_PATH
-          
-          # Change to the destination repository directory
-          cd dest-repo
-          
-          # Configure Git
-          git config user.email "actions@github.com"
-          git config user.name "GitHub Actions"
+          # Add source repo as a remote and fetch the file
+          echo "Adding source repository as remote..."
+          git remote add source_repo "https://github.com/$SOURCE_REPO.git"
+          git fetch source_repo $SOURCE_BRANCH
 
-          # Commit and push the changes if there are any
-          if ! git diff --quiet; then
-            git add $DEST_FILE_PATH
-            git commit -m "Imported mylist.m3u8 from source repository"
-            git push
-            echo "File imported and pushed to destination repository."
+          # Checkout the specific file from source repo
+          echo "Checking out file from source repository..."
+          if git checkout source_repo/$SOURCE_BRANCH -- "$SOURCE_FILE"; then
+              if mv "$SOURCE_FILE" "$DEST_PATH"; then
+                  echo "File moved to destination path."
+              else
+                  echo "Failed to move file to destination path."
+                  exit 1
+              fi
           else
-            echo "No changes detected, nothing to commit."
+              echo "Failed to checkout file from source repository."
+              exit 1
+          fi
+
+          # Commit and push the changes
+          echo "Setting up Git configuration..."
+          git config user.email "$GIT_EMAIL"
+          git config user.name "$GIT_NAME"
+
+          echo "Committing changes..."
+          git add "$DEST_PATH"
+          git commit -m "Imported $SOURCE_FILE from $SOURCE_REPO"
+
+          echo "Pushing changes to the repository..."
+          if git push origin main; then
+              echo "File imported successfully!"
+          else
+              echo "Failed to push changes to destination repository."
+              exit 1
           fi
