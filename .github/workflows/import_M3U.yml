@@ -38,19 +38,18 @@ jobs:
           echo "Checking out file from source repository..."
           git checkout source_repo/$SOURCE_BRANCH -- "$SOURCE_FILE"
 
-          # Commit and push the changes
-          echo "Setting up Git configuration..."
+          # Setting up Git configuration
           git config user.email "$GIT_EMAIL"
           git config user.name "$GIT_NAME"
 
-          echo "Checking for changes to commit..."
-          if git diff --quiet; then
-              echo "No changes detected, nothing to commit."
+          # Check if there are any files to commit
+          if [[ `git status --porcelain` ]]; then
+            echo "Changes detected, committing the file..."
+            git add "$SOURCE_FILE"
+            git commit -m "Imported $SOURCE_FILE from $SOURCE_REPO"
+            echo "Pushing changes to the repository..."
+            git push origin main
+            echo "File imported successfully!"
           else
-              echo "Changes detected, committing the file..."
-              git add "$SOURCE_FILE"
-              git commit -m "Imported $SOURCE_FILE from $SOURCE_REPO"
-              echo "Pushing changes to the repository..."
-              git push origin main
-              echo "File imported successfully!"
+            echo "No changes detected, nothing to commit."
           fi
