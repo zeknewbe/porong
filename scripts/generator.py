@@ -2,7 +2,6 @@
 
 import requests
 import os
-import sys
 import streamlink
 import logging
 from logging.handlers import RotatingFileHandler
@@ -54,19 +53,12 @@ def grab(url):
 
 def check_url(url):
     try:
-        # Use a GET request and stream=True to avoid downloading the entire file
         response = requests.get(url, timeout=15, stream=True)
-        response.raise_for_status()  # will raise an HTTPError if the HTTP request returned an unsuccessful status code
-        response.close()  # Ensure the connection is closed after checking the URL
+        response.raise_for_status()  # Raise an error for bad status codes
+        logger.debug(f"URL is reachable: {url}")
         return True
-    except requests.exceptions.HTTPError as e:
-        logger.error("HTTP Error for URL %s: %s", url, e.response.status_code)
-    except requests.exceptions.ConnectionError as e:
-        logger.error("Connection Error for URL %s: %s", url, e)
-    except requests.exceptions.Timeout as e:
-        logger.error("Timeout Error for URL %s: %s", url, e)
     except requests.exceptions.RequestException as e:
-        logger.error("RequestException for URL %s: %s", url, e)
+        logger.error(f"Error checking URL {url}: {e}")
     return False
 
 
@@ -77,34 +69,18 @@ def process_channel_info(channel_info_path):
         with open(channel_info_path, 'r') as f:
             for line in f:
                 line = line.strip()
-                if not line or line.startswith('~~'):
+                if not line or line.startswith('#'):
                     continue
-                if not line.startswith('https:'):
-                    ch_info = line.split('|')
-                    if len(ch_info) < 4:
-                        logger.error(f"Invalid line format: {line}")
-                        continue
-                    ch_name, grp_title, tvg_logo, tvg_id = [info.strip() for info in ch_info]
-                    channel_data.append({
-                        'type': 'info',
-                        'ch_name': ch_name,
-                        'grp_title': grp_title,
-                        'tvg_logo': tvg_logo,
-                        'tvg_id': tvg_id,
-                        'url': ''
-                    })
+                if not line.startswith('http') and not line.startswith('https'):
+                    logger.error(f"Invalid URL format: {line}")
+                    continue
+                link = grab(line)
+                if link:
+                    channel_data.append({'url': link})
                 else:
-                    link = grab(line)
-                    if link:
-                        channel_data.append({
-                            'type': 'link',
-                            'url': link
-                        })
-                    else:
-                        logger.warning(f"Unreachable or unsupported URL: {line}")
-
+                    logger.warning(f"Unreachable or unsupported URL: {line}")
     except Exception as e:
-        logger.error(f"Error processing channel_info.txt: {e}")
+        logger.error(f"Error processing channel info: {e}")
 
     return channel_data
 
@@ -112,52 +88,21 @@ def process_channel_info(channel_info_path):
 def main():
     print(BANNER)
 
-    channel_info_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '../channel_info.txt'))
+    channel_info_path = os.path.abspath(os.path.join(os.path.dirname(__file__), 'channel_info.txt'))
     channel_data = process_channel_info(channel_info_path)
 
-    # Generate M3U playlist and JSON data
+    # Generate M3U playlist
     playlist_data = ['#EXTM3U']
-    channel_data_json = []
-
-    prev_item = None
-
+    
     for item in channel_data:
-        if item['type'] == 'info':
-            prev_item = item
-        elif item['type'] == 'link' and item['url']:
-            playlist_data.extend([
-                f'#EXTINF:-1 group-title="{prev_item["grp_title"]}" tvg-logo="{prev_item["tvg_logo"]}" tvg-id="{prev_item["tvg_id"]}", {prev_item["ch_name"]}',
-                item['url']
-            ])
-            channel_data_json.append({
-                "id": prev_item["tvg_id"],
-                "name": prev_item["ch_name"],
-                "alt_names": [""],
-                "network": "",
-                "owners": [""],
-                "country": "AR",
-                "subdivision": "",
-                "city": "Buenos Aires",
-                "broadcast_area": [""],
-                "languages": ["spa"],
-                "categories": [prev_item["grp_title"]],
-                "is_nsfw": False,
-                "launched": "2016-07-28",
-                "closed": "2020-05-31",
-                "replaced_by": "",
-                "website": item['url'],
-                "logo": prev_item["tvg_logo"]
-            })
+        if 'url' in item:
+            playlist_data.append(item['url'])
 
     try:
         with open("playlist.m3u", "w") as f:
             f.write('\n'.join(playlist_data))
-
-        with open("playlist.json", "w") as f:
-            json.dump(channel_data_json, f, indent=2)
-
     except Exception as e:
-        logger.error(f"Error writing to file: {e}")
+        logger.error(f"Error writing to playlist.m3u: {e}")
 
 
 if __name__ == "__main__":
