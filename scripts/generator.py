@@ -79,7 +79,12 @@ def process_channel_info(channel_info_path):
                 line = line.strip()
                 if not line or line.startswith('~~'):
                     continue
-                if not line.startswith('https:'):
+                if line.startswith('http://') or line.startswith('https://'):
+                    channel_data.append({
+                        'type': 'link',
+                        'url': line
+                    })
+                else:
                     ch_info = line.split('|')
                     if len(ch_info) < 4:
                         logger.error(f"Invalid line format: {line}")
@@ -92,12 +97,6 @@ def process_channel_info(channel_info_path):
                         'tvg_logo': tvg_logo,
                         'tvg_id': tvg_id,
                         'url': ''
-                    })
-                else:
-                    # Handle 'https:' URLs the same way as the original script
-                    channel_data.append({
-                        'type': 'link',
-                        'url': line
                     })
 
     except Exception as e:
