@@ -80,24 +80,20 @@ def process_channel_info(channel_info_path):
                 if not line or line.startswith('~~'):
                     continue
                 ch_info = line.split('|')
-                # Ensure there are at least 4 values in the line
-                if len(ch_info) < 4:
+                if len(ch_info) < 5:  # Ensure there are 5 values in the line
                     logger.error(f"Invalid line format: {line}")
                     continue
-                ch_name, grp_title, tvg_logo, *rest = [info.strip() for info in ch_info]
-                if rest:  # If there are more than 4 values, assume the last one is the URL
-                    url = rest[-1]
-                    if not url.startswith(('http://', 'https://')):
-                        url = grab(url)
-                        if not url:
-                            logger.warning(f"Unreachable or unsupported URL: {line}")
-                else:
-                    url = None
+                ch_name, grp_title, tvg_logo, tvg_id, url = [info.strip() for info in ch_info]
+                if not url.startswith(('http://', 'https://')):
+                    url = grab(url)
+                    if not url:
+                        logger.warning(f"Unreachable or unsupported URL: {line}")
                 channel_data.append({
                     'type': 'info',
                     'ch_name': ch_name,
                     'grp_title': grp_title,
                     'tvg_logo': tvg_logo,
+                    'tvg_id': tvg_id,
                     'url': url
                 })
 
@@ -123,16 +119,12 @@ def main():
         if item['type'] == 'info':
             prev_item = item
         elif item['type'] == 'link' and item['url']:
-            extinf = f'#EXTINF:-1 group-title="{prev_item["grp_title"]}" tvg-logo="{prev_item["tvg_logo"]}"'
-            if prev_item.get("tvg_id"):
-                extinf += f' tvg-id="{prev_item["tvg_id"]}"'
-            extinf += f', {prev_item["ch_name"]}'
             playlist_data.extend([
-                extinf,
+                f'#EXTINF:-1 group-title="{prev_item["grp_title"]}" tvg-logo="{prev_item["tvg_logo"]}" tvg-id="{prev_item["tvg_id"]}", {prev_item["ch_name"]}',
                 item['url']
             ])
             channel_data_json.append({
-                "id": prev_item.get("tvg_id", ""),
+                "id": prev_item["tvg_id"],
                 "name": prev_item["ch_name"],
                 "alt_names": [""],
                 "network": "",
@@ -147,7 +139,7 @@ def main():
                 "launched": "2016-07-28",
                 "closed": "2020-05-31",
                 "replaced_by": "",
-                "website": item.get('url', ""),
+                "website": item['url'],
                 "logo": prev_item["tvg_logo"]
             })
 
