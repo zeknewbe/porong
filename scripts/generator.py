@@ -39,7 +39,15 @@ def grab(url):
 
     try:
         session = streamlink.Streamlink()
-        streams = session.streams(url)
+        if "twitch.tv" in url:
+            # Specify the desired stream quality for Twitch streams (e.g., "best", "720p", "480p", etc.)
+            streams = session.streams(url, quality="best")
+        elif "youtube.com" in url:
+            # Handle YouTube links
+            streams = session.streams(url)
+        else:
+            streams = session.streams(url)
+        
         logger.debug("URL Streams %s: %s", url, streams)
         if "best" in streams:
             return streams["best"].url
@@ -79,12 +87,7 @@ def process_channel_info(channel_info_path):
                 line = line.strip()
                 if not line or line.startswith('~~'):
                     continue
-                if line.startswith('http://') or line.startswith('https://'):
-                    channel_data.append({
-                        'type': 'link',
-                        'url': line
-                    })
-                else:
+                if not line.startswith('https:'):
                     ch_info = line.split('|')
                     if len(ch_info) < 4:
                         logger.error(f"Invalid line format: {line}")
@@ -98,6 +101,15 @@ def process_channel_info(channel_info_path):
                         'tvg_id': tvg_id,
                         'url': ''
                     })
+                else:
+                    link = grab(line)
+                    if link:
+                        channel_data.append({
+                            'type': 'link',
+                            'url': link
+                        })
+                    else:
+                        logger.warning(f"Unreachable or unsupported URL: {line}")
 
     except Exception as e:
         logger.error(f"Error processing channel_info.txt: {e}")
