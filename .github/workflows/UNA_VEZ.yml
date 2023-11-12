@@ -26,8 +26,8 @@ jobs:
 
     - name: Commit and push if changes are made
       run: |
-        git config --global user.email "you@example.com"
-        git config --global user.name "Your Name"
+        git config --global user.email "visionintegral@gmail.com"
+        git config --global user.name "zeknewbe"
         git diff
         if [ -n "$(git diff -- requirements.txt)" ]; then
           git add requirements.txt
