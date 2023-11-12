@@ -75,7 +75,9 @@ def process_channel_info(channel_info_path):
 def main():
     print(BANNER)
 
-    channel_info_path = os.path.abspath(os.path.join(os.path.dirname(__file__), 'channel_info.txt'))
+    # Correct the path to the channel_info.txt file
+    # It goes up one level from the scripts folder to the root of the project
+    channel_info_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'channel_info.txt'))
     channel_data = process_channel_info(channel_info_path)
 
     # Generate M3U playlist
