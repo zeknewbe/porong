@@ -106,13 +106,20 @@ def process_channel_info(channel_info_path):
     except Exception as e:
         logger.error(f"Error processing channel_info.txt: {e}")
 
+    # Manually add the missing URL
+    missing_url = "http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6233/index.m3u8"
+    channel_data.append({
+        'type': 'link',
+        'url': missing_url
+    })
+
     return channel_data
 
 
 def main():
     print(BANNER)
 
-    channel_info_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '../channel_info.txt'))
+    channel_info_path = os.path.abspath(os.path.join(os.path.dirname(__file__), 'channel_info.txt'))
     channel_data = process_channel_info(channel_info_path)
 
     # Generate M3U playlist and JSON data
