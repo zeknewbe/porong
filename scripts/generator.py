@@ -80,7 +80,7 @@ def process_channel_info(channel_info_path):
                 if not line or line.startswith('~~'):
                     continue
                 ch_info = line.split('|')
-                if len(ch_info) < 5:  # Ensure there are 5 values in the line
+                if len(ch_info) < 4:
                     logger.error(f"Invalid line format: {line}")
                     continue
                 ch_name, grp_title, tvg_logo, tvg_id, url = [info.strip() for info in ch_info]
