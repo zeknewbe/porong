@@ -2,6 +2,7 @@
 
 import requests
 import os
+import sys
 import streamlink
 import logging
 from logging.handlers import RotatingFileHandler
@@ -26,31 +27,48 @@ Your Banner Here
 '''
 VALID_URL_SUFFIXES = ('.m3u', '.m3u8', '.ts')
 
+
 def grab(url):
-    if url.startswith(('http://', 'https://')) and url.endswith(VALID_URL_SUFFIXES):
-        logger.debug("Checking URL with valid streaming suffix: %s", url)
+    if url.endswith(VALID_URL_SUFFIXES):
+        logger.debug("URL ends with a valid streaming suffix: %s", url)
         if check_url(url):
-            logger.debug("URL is reachable and will be added: %s", url)
             return url
         else:
-            logger.error("URL is not reachable or did not pass validation: %s", url)
+            logger.error("Valid streaming URL is not reachable: %s", url)
             return None
-    else:
-        logger.error("URL does not have a correct protocol or valid streaming suffix: %s", url)
+
+    try:
+        session = streamlink.Streamlink()
+        streams = session.streams(url)
+        logger.debug("URL Streams %s: %s", url, streams)
+        if "best" in streams:
+            return streams["best"].url
+        return None
+    except streamlink.exceptions.NoPluginError as err:
+        logger.error("URL Error No PluginError %s: %s", url, err)
+        return url
+    except streamlink.StreamlinkError as err:
+        logger.error("URL Error %s: %s", url, err)
         return None
 
+
 def check_url(url):
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
-    }
     try:
-        response = requests.get(url, timeout=15, stream=True, headers=headers)
+        # Use a GET request and stream=True to avoid downloading the entire file
+        response = requests.get(url, timeout=15, stream=True)
         response.raise_for_status()  # will raise an HTTPError if the HTTP request returned an unsuccessful status code
-        logger.debug(f"URL is reachable: {url}")
+        response.close()  # Ensure the connection is closed after checking the URL
         return True
+    except requests.exceptions.HTTPError as e:
+        logger.error("HTTP Error for URL %s: %s", url, e.response.status_code)
+    except requests.exceptions.ConnectionError as e:
+        logger.error("Connection Error for URL %s: %s", url, e)
+    except requests.exceptions.Timeout as e:
+        logger.error("Timeout Error for URL %s: %s", url, e)
     except requests.exceptions.RequestException as e:
-        logger.error(f"Error checking URL {url}: {e}")
+        logger.error("RequestException for URL %s: %s", url, e)
     return False
+
 
 def process_channel_info(channel_info_path):
     channel_data = []
@@ -90,12 +108,14 @@ def process_channel_info(channel_info_path):
 
     return channel_data
 
+
 def main():
     print(BANNER)
 
     channel_info_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '../channel_info.txt'))
     channel_data = process_channel_info(channel_info_path)
 
+    # Generate M3U playlist and JSON data
     playlist_data = ['#EXTM3U']
     channel_data_json = []
 
