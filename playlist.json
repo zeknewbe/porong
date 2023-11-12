@@ -1190,6 +1190,35 @@
   },
   {
     "id": "",
+    "name": "History 2",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Documentales"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "http://tvmate.icu:8080/jesus1/jesus1/210450",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c9/History2_logo_%282022%29.svg"
+  },
+  {
+    "id": "",
     "name": "Investigation Discovery",
     "alt_names": [
       ""
@@ -2114,6 +2143,35 @@
     "closed": "2020-05-31",
     "replaced_by": "",
     "website": "http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6255/index.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Xxx-movie-logo.png"
+  },
+  {
+    "id": "",
+    "name": "Sex Art HD",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "XXX"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6253/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Xxx-movie-logo.png"
   }
 ]
