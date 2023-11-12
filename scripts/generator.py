@@ -13,7 +13,7 @@ logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
 
 log_file = "log.txt"
-file_handler = RotatingFileHandler(log_file)
+file_handler = RotatingFileHandler(log_file, maxBytes=1024*1024*5, backupCount=2)
 file_handler.setLevel(logging.DEBUG)
 
 formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
@@ -29,10 +29,15 @@ VALID_URL_SUFFIXES = ('.m3u', '.m3u8', '.ts')
 
 
 def grab(url):
-    try:
-        if url.endswith(VALID_URL_SUFFIXES):
+    if url.endswith(VALID_URL_SUFFIXES):
+        logger.debug("URL ends with a valid streaming suffix: %s", url)
+        if check_url(url):
             return url
+        else:
+            logger.error("Valid streaming URL is not reachable: %s", url)
+            return None
 
+    try:
         session = streamlink.Streamlink()
         streams = session.streams(url)
         logger.debug("URL Streams %s: %s", url, streams)
@@ -50,15 +55,20 @@ def grab(url):
 def check_url(url):
     try:
         response = requests.head(url, timeout=15)
-        if response.status_code == 200:
+        if response.ok:  # This checks for HTTP status codes 200-399
             return True
-    except requests.exceptions.RequestException:
+        else:
+            logger.error("URL returned status code: %s for URL %s", response.status_code, url)
+    except requests.exceptions.RequestException as e:
+        logger.error("RequestException for URL %s: %s", url, e)
         try:
             response = requests.head(url, timeout=15, verify=False)
-            if response.status_code == 200:
+            if response.ok:
                 return True
-        except requests.exceptions.RequestException:
-            pass
+            else:
+                logger.error("URL returned status code: %s for URL %s with verify=False", response.status_code, url)
+        except requests.exceptions.RequestException as e:
+            logger.error("RequestException on secondary check for URL %s: %s", url, e)
     return False
 
 
@@ -87,7 +97,7 @@ def process_channel_info(channel_info_path):
                     })
                 else:
                     link = grab(line)
-                    if link and check_url(link):
+                    if link:
                         channel_data.append({
                             'type': 'link',
                             'url': link
