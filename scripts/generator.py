@@ -54,21 +54,19 @@ def grab(url):
 
 def check_url(url):
     try:
-        response = requests.head(url, timeout=15)
-        if response.ok:  # This checks for HTTP status codes 200-399
-            return True
-        else:
-            logger.error("URL returned status code: %s for URL %s", response.status_code, url)
+        # Use a GET request and stream=True to avoid downloading the entire file
+        response = requests.get(url, timeout=15, stream=True)
+        response.raise_for_status()  # will raise an HTTPError if the HTTP request returned an unsuccessful status code
+        response.close()  # Ensure the connection is closed after checking the URL
+        return True
+    except requests.exceptions.HTTPError as e:
+        logger.error("HTTP Error for URL %s: %s", url, e.response.status_code)
+    except requests.exceptions.ConnectionError as e:
+        logger.error("Connection Error for URL %s: %s", url, e)
+    except requests.exceptions.Timeout as e:
+        logger.error("Timeout Error for URL %s: %s", url, e)
     except requests.exceptions.RequestException as e:
         logger.error("RequestException for URL %s: %s", url, e)
-        try:
-            response = requests.head(url, timeout=15, verify=False)
-            if response.ok:
-                return True
-            else:
-                logger.error("URL returned status code: %s for URL %s with verify=False", response.status_code, url)
-        except requests.exceptions.RequestException as e:
-            logger.error("RequestException on secondary check for URL %s: %s", url, e)
     return False
 
 
