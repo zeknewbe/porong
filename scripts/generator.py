@@ -79,29 +79,18 @@ def process_channel_info(channel_info_path):
                 line = line.strip()
                 if not line or line.startswith('~~'):
                     continue
-                if not line.startswith('https:'):
-                    ch_info = line.split('|')
-                    if len(ch_info) < 4:
-                        logger.error(f"Invalid line format: {line}")
-                        continue
-                    ch_name, grp_title, tvg_logo, tvg_id = [info.strip() for info in ch_info]
+                if not line.startswith('http:') and not line.startswith('https:'):
+                    logger.error(f"Invalid line format: {line}")
+                    continue
+
+                link = grab(line)
+                if link:
                     channel_data.append({
-                        'type': 'info',
-                        'ch_name': ch_name,
-                        'grp_title': grp_title,
-                        'tvg_logo': tvg_logo,
-                        'tvg_id': tvg_id,
-                        'url': ''
+                        'type': 'link',
+                        'url': link
                     })
                 else:
-                    link = grab(line)
-                    if link:
-                        channel_data.append({
-                            'type': 'link',
-                            'url': link
-                        })
-                    else:
-                        logger.warning(f"Unreachable or unsupported URL: {line}")
+                    logger.warning(f"Unreachable or unsupported URL: {line}")
 
     except Exception as e:
         logger.error(f"Error processing channel_info.txt: {e}")
