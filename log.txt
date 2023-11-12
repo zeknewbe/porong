@@ -698,3 +698,5 @@
 2023-11-12 08:56:26,525 - error - Invalid line format: http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6233/index.m3u8
 2023-11-12 09:10:56,603 - error - Error processing channel_info.txt: [Errno 2] No such file or directory: '/home/runner/work/porong/porong/scripts/channel_info.txt'
 2023-11-12 09:20:26,151 - error - Error processing channel_info.txt: [Errno 2] No such file or directory: '/home/runner/work/porong/porong/scripts/channel_info.txt'
+2023-11-12 09:24:58,047 - error - Invalid line format: http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6238/index.m3u8
+2023-11-12 09:24:58,047 - error - Invalid line format: http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6233/index.m3u8
