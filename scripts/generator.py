@@ -29,6 +29,9 @@ VALID_URL_SUFFIXES = ('.m3u', '.m3u8', '.ts')
 
 
 def grab(url):
+    if url.startswith("http://") or url.startswith("https://"):
+        return url
+
     if url.endswith(VALID_URL_SUFFIXES):
         logger.debug("URL ends with a valid streaming suffix: %s", url)
         if check_url(url):
@@ -38,6 +41,19 @@ def grab(url):
             return None
 
     try:
+        if "twitch.tv" in url or "youtube.com" in url:
+            # Handle Twitch and YouTube URLs here and return streaming URLs
+            # Example code for handling Twitch and YouTube:
+            # if "twitch.tv" in url:
+            #     # Handle Twitch URL and return streaming URL
+            # elif "youtube.com" in url:
+            #     # Handle YouTube URL and return streaming URL
+            # You can use streamlink or other libraries to convert these URLs
+
+            # For demonstration purposes, let's assume we return None for now
+            logger.warning("Unsupported Twitch or YouTube URL: %s", url)
+            return None
+
         session = streamlink.Streamlink()
         streams = session.streams(url)
         logger.debug("URL Streams %s: %s", url, streams)
@@ -79,7 +95,7 @@ def process_channel_info(channel_info_path):
                 line = line.strip()
                 if not line or line.startswith('~~'):
                     continue
-                if not line.startswith('https:'):
+                if not line.startswith(('http://', 'https://')):
                     ch_info = line.split('|')
                     if len(ch_info) < 4:
                         logger.error(f"Invalid line format: {line}")
