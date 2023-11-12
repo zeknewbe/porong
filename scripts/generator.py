@@ -39,15 +39,7 @@ def grab(url):
 
     try:
         session = streamlink.Streamlink()
-        if "twitch.tv" in url:
-            # Specify the desired stream quality for Twitch streams (e.g., "best", "720p", "480p", etc.)
-            streams = session.streams(url, quality="best")
-        elif "youtube.com" in url:
-            # Handle YouTube links
-            streams = session.streams(url)
-        else:
-            streams = session.streams(url)
-        
+        streams = session.streams(url)
         logger.debug("URL Streams %s: %s", url, streams)
         if "best" in streams:
             return streams["best"].url
