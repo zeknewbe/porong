@@ -81,6 +81,8 @@ https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
 https://www.twitch.tv/dt_yy83
 #EXTINF:-1 group-title="Documentales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" tvg-id="", History Channel
 https://www.twitch.tv/vdt_51tt
+#EXTINF:-1 group-title="Documentales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/History2_logo_%282022%29.svg" tvg-id="", History 2
+http://tvmate.icu:8080/jesus1/jesus1/210450
 #EXTINF:-1 group-title="Documentales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" tvg-id="", Investigation Discovery
 https://www.twitch.tv/id_10q
 #EXTINF:-1 group-title="Documentales" tvg-logo="https://msinteractiva.com.ar/wp-content/uploads/2021/06/logo.png" tvg-id="", El Histonauta
@@ -145,6 +147,8 @@ http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6238/index.m3u8
 http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6233/index.m3u8
 #EXTINF:-1 group-title="XXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Xxx-movie-logo.png" tvg-id="", Sin Ematica HD
 http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6255/index.m3u8
+#EXTINF:-1 group-title="XXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Xxx-movie-logo.png" tvg-id="", Sex Art HD
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6253/index.m3u8
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/cl.xml"
 #EXTINF:-1 channel-id="pluto-5e793a7cfbdf780007f7eb75" tvg-id="5e793a7cfbdf780007f7eb75" tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png" tvg-chno="1" group-title="Pluto TV" , Guía de canales
 https://i.mjh.nz/PlutoTV/5e793a7cfbdf780007f7eb75-alt.m3u8
