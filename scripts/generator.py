@@ -7,7 +7,6 @@ import streamlink
 import logging
 from logging.handlers import RotatingFileHandler
 import json
-import youtube_dl
 
 # Setup logging
 logger = logging.getLogger(__name__)
@@ -38,52 +37,19 @@ def grab(url):
             logger.error("Valid streaming URL is not reachable: %s", url)
             return None
 
-    if 'youtube.com' in url or 'youtu.be' in url:
-        # Handle YouTube URLs using youtube_dl
-        ydl_opts = {
-            'format': 'best',
-        }
-        try:
-            with youtube_dl.YoutubeDL(ydl_opts) as ydl:
-                info_dict = ydl.extract_info(url, download=False)
-                if 'url' in info_dict:
-                    return info_dict['url']
-        except Exception as e:
-            logger.error("Error handling YouTube URL: %s", e)
-            return None
-
-    if 'twitch.tv' in url:
-        # Handle Twitch URLs using streamlink
-        try:
-            session = streamlink.Streamlink()
-            streams = session.streams(url)
-            logger.debug("URL Streams %s: %s", url, streams)
-            if "best" in streams:
-                return streams["best"].url
-            return None
-        except streamlink.exceptions.NoPluginError as err:
-            logger.error("URL Error No PluginError %s: %s", url, err)
-            return url
-        except streamlink.StreamlinkError as err:
-            logger.error("URL Error %s: %s", url, err)
-            return None
-
     try:
-        # Handle HTTP and HTTPS URLs
-        response = requests.get(url, timeout=15, stream=True)
-        response.raise_for_status()
-        response.close()
+        session = streamlink.Streamlink()
+        streams = session.streams(url)
+        logger.debug("URL Streams %s: %s", url, streams)
+        if "best" in streams:
+            return streams["best"].url
+        return None
+    except streamlink.exceptions.NoPluginError as err:
+        logger.error("URL Error No PluginError %s: %s", url, err)
         return url
-    except requests.exceptions.HTTPError as e:
-        logger.error("HTTP Error for URL %s: %s", url, e.response.status_code)
-    except requests.exceptions.ConnectionError as e:
-        logger.error("Connection Error for URL %s: %s", url, e)
-    except requests.exceptions.Timeout as e:
-        logger.error("Timeout Error for URL %s: %s", url, e)
-    except requests.exceptions.RequestException as e:
-        logger.error("RequestException for URL %s: %s", url, e)
-    
-    return None
+    except streamlink.StreamlinkError as err:
+        logger.error("URL Error %s: %s", url, err)
+        return None
 
 
 def check_url(url):
@@ -113,7 +79,7 @@ def process_channel_info(channel_info_path):
                 line = line.strip()
                 if not line or line.startswith('~~'):
                     continue
-                if not line.startswith('https:') and not line.startswith('http:'):
+                if not line.startswith('https:'):
                     ch_info = line.split('|')
                     if len(ch_info) < 4:
                         logger.error(f"Invalid line format: {line}")
