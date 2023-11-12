@@ -115,46 +115,39 @@ def main():
     channel_info_path = os.path.abspath(os.path.join(os.path.dirname(__file__), 'channel_info.txt'))
     channel_data = process_channel_info(channel_info_path)
 
-    # Manually add the missing URL
-    missing_url = "http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6233/index.m3u8"
-    channel_data.append({
-        'type': 'link',
-        'url': missing_url
-    })
-
     # Generate M3U playlist and JSON data
     playlist_data = ['#EXTM3U']
     channel_data_json = []
-
-    prev_item = None
 
     for item in channel_data:
         if item['type'] == 'info':
             prev_item = item
         elif item['type'] == 'link' and item['url']:
-            playlist_data.extend([
-                f'#EXTINF:-1 group-title="{prev_item["grp_title"]}" tvg-logo="{prev_item["tvg_logo"]}" tvg-id="{prev_item["tvg_id"]}", {prev_item["ch_name"]}',
-                item['url']
-            ])
-            channel_data_json.append({
-                "id": prev_item["tvg_id"],
-                "name": prev_item["ch_name"],
-                "alt_names": [""],
-                "network": "",
-                "owners": [""],
-                "country": "AR",
-                "subdivision": "",
-                "city": "Buenos Aires",
-                "broadcast_area": [""],
-                "languages": ["spa"],
-                "categories": [prev_item["grp_title"]],
-                "is_nsfw": False,
-                "launched": "2016-07-28",
-                "closed": "2020-05-31",
-                "replaced_by": "",
-                "website": item['url'],
-                "logo": prev_item["tvg_logo"]
-            })
+            if 'prev_item' in locals():
+                playlist_data.append(f'#EXTINF:-1 group-title="{prev_item["grp_title"]}" tvg-logo="{prev_item["tvg_logo"]}" tvg-id="{prev_item["tvg_id"]}", {prev_item["ch_name"]}')
+                playlist_data.append(item['url'])
+                channel_data_json.append({
+                    "id": prev_item["tvg_id"],
+                    "name": prev_item["ch_name"],
+                    "alt_names": [""],
+                    "network": "",
+                    "owners": [""],
+                    "country": "AR",
+                    "subdivision": "",
+                    "city": "Buenos Aires",
+                    "broadcast_area": [""],
+                    "languages": ["spa"],
+                    "categories": [prev_item["grp_title"]],
+                    "is_nsfw": False,
+                    "launched": "2016-07-28",
+                    "closed": "2020-05-31",
+                    "replaced_by": "",
+                    "website": item['url'],
+                    "logo": prev_item["tvg_logo"]
+                })
+                prev_item = None
+            else:
+                logger.warning(f"URL found without preceding info: {item['url']}")
 
     try:
         with open("playlist.m3u", "w") as f:
