@@ -305,3 +305,147 @@
 2023-11-12 08:34:43,814 - debug - URL ends with a valid streaming suffix: https://stmv1.cnarlatam.com/danncetv/danncetv/playlist.m3u8
 2023-11-12 08:34:44,369 - error - Invalid line format: http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6238/index.m3u8
 2023-11-12 08:34:44,369 - error - Invalid line format: http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6233/index.m3u8
+2023-11-12 08:43:48,400 - error - URL does not have a correct protocol or valid streaming suffix: https://www.twitch.tv/ft10x02k
+2023-11-12 08:43:48,400 - warning - Unreachable or unsupported URL: https://www.twitch.tv/ft10x02k
+2023-11-12 08:43:48,400 - debug - URL ends with a valid streaming suffix: https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+2023-11-12 08:43:49,251 - debug - URL is reachable: https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+2023-11-12 08:43:49,252 - error - URL does not have a correct protocol or valid streaming suffix: https://youtu.be/HNNSYYmP7qs
+2023-11-12 08:43:49,252 - warning - Unreachable or unsupported URL: https://youtu.be/HNNSYYmP7qs
+2023-11-12 08:43:49,253 - error - URL does not have a correct protocol or valid streaming suffix: https://www.twitch.tv/xt_t419r
+2023-11-12 08:43:49,253 - warning - Unreachable or unsupported URL: https://www.twitch.tv/xt_t419r
+2023-11-12 08:43:49,253 - debug - URL ends with a valid streaming suffix: https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+2023-11-12 08:43:50,081 - debug - URL is reachable: https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+2023-11-12 08:43:50,081 - error - URL does not have a correct protocol or valid streaming suffix: https://www.twitch.tv/co_99tr
+2023-11-12 08:43:50,082 - warning - Unreachable or unsupported URL: https://www.twitch.tv/co_99tr
+2023-11-12 08:43:50,082 - error - URL does not have a correct protocol or valid streaming suffix: https://www.youtube.com/@CanalKZO/live
+2023-11-12 08:43:50,082 - warning - Unreachable or unsupported URL: https://www.youtube.com/@CanalKZO/live
+2023-11-12 08:43:50,082 - debug - URL ends with a valid streaming suffix: https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
+2023-11-12 08:43:50,611 - debug - URL is reachable: https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
+2023-11-12 08:43:50,612 - debug - URL ends with a valid streaming suffix: https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+2023-11-12 08:43:51,290 - debug - URL is reachable: https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+2023-11-12 08:43:51,291 - debug - URL ends with a valid streaming suffix: https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+2023-11-12 08:43:52,571 - debug - URL is reachable: https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+2023-11-12 08:43:52,572 - error - URL does not have a correct protocol or valid streaming suffix: https://www.twitch.tv/tt221qla
+2023-11-12 08:43:52,572 - warning - Unreachable or unsupported URL: https://www.twitch.tv/tt221qla
+2023-11-12 08:43:52,572 - error - URL does not have a correct protocol or valid streaming suffix: https://www.twitch.tv/anx215
+2023-11-12 08:43:52,572 - warning - Unreachable or unsupported URL: https://www.twitch.tv/anx215
+2023-11-12 08:43:52,572 - error - URL does not have a correct protocol or valid streaming suffix: https://www.twitch.tv/f1leld026
+2023-11-12 08:43:52,572 - warning - Unreachable or unsupported URL: https://www.twitch.tv/f1leld026
+2023-11-12 08:43:52,572 - error - URL does not have a correct protocol or valid streaming suffix: https://www.twitch.tv/uvch022
+2023-11-12 08:43:52,572 - warning - Unreachable or unsupported URL: https://www.twitch.tv/uvch022
+2023-11-12 08:43:52,572 - error - URL does not have a correct protocol or valid streaming suffix: https://www.twitch.tv/vkkurt29x
+2023-11-12 08:43:52,572 - warning - Unreachable or unsupported URL: https://www.twitch.tv/vkkurt29x
+2023-11-12 08:43:52,572 - error - URL does not have a correct protocol or valid streaming suffix: https://www.twitch.tv/cb_x45ll
+2023-11-12 08:43:52,572 - warning - Unreachable or unsupported URL: https://www.twitch.tv/cb_x45ll
+2023-11-12 08:43:52,573 - error - URL does not have a correct protocol or valid streaming suffix: https://www.twitch.tv/ntn_009kl
+2023-11-12 08:43:52,573 - warning - Unreachable or unsupported URL: https://www.twitch.tv/ntn_009kl
+2023-11-12 08:43:52,573 - error - URL does not have a correct protocol or valid streaming suffix: https://www.twitch.tv/cc_x24ff
+2023-11-12 08:43:52,573 - warning - Unreachable or unsupported URL: https://www.twitch.tv/cc_x24ff
+2023-11-12 08:43:52,573 - error - URL does not have a correct protocol or valid streaming suffix: https://www.twitch.tv/war0124
+2023-11-12 08:43:52,573 - warning - Unreachable or unsupported URL: https://www.twitch.tv/war0124
+2023-11-12 08:43:52,573 - error - URL does not have a correct protocol or valid streaming suffix: https://www.twitch.tv/nt_021ltx
+2023-11-12 08:43:52,573 - warning - Unreachable or unsupported URL: https://www.twitch.tv/nt_021ltx
+2023-11-12 08:43:52,573 - error - URL does not have a correct protocol or valid streaming suffix: https://www.twitch.tv/bfex055
+2023-11-12 08:43:52,573 - warning - Unreachable or unsupported URL: https://www.twitch.tv/bfex055
+2023-11-12 08:43:52,573 - error - URL does not have a correct protocol or valid streaming suffix: https://www.twitch.tv/bocx148
+2023-11-12 08:43:52,573 - warning - Unreachable or unsupported URL: https://www.twitch.tv/bocx148
+2023-11-12 08:43:52,573 - error - URL does not have a correct protocol or valid streaming suffix: https://www.twitch.tv/daxtr5gtx
+2023-11-12 08:43:52,573 - warning - Unreachable or unsupported URL: https://www.twitch.tv/daxtr5gtx
+2023-11-12 08:43:52,573 - error - URL does not have a correct protocol or valid streaming suffix: https://www.twitch.tv/cicnl1451
+2023-11-12 08:43:52,573 - warning - Unreachable or unsupported URL: https://www.twitch.tv/cicnl1451
+2023-11-12 08:43:52,573 - debug - URL ends with a valid streaming suffix: https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
+2023-11-12 08:43:52,789 - debug - URL is reachable: https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
+2023-11-12 08:43:52,790 - error - URL does not have a correct protocol or valid streaming suffix: https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
+2023-11-12 08:43:52,790 - warning - Unreachable or unsupported URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
+2023-11-12 08:43:52,790 - debug - URL ends with a valid streaming suffix: https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+2023-11-12 08:43:52,839 - debug - URL is reachable: https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+2023-11-12 08:43:52,839 - debug - URL ends with a valid streaming suffix: https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+2023-11-12 08:43:53,039 - debug - URL is reachable: https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+2023-11-12 08:43:53,040 - debug - URL ends with a valid streaming suffix: https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+2023-11-12 08:43:53,181 - debug - URL is reachable: https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+2023-11-12 08:43:53,182 - debug - URL ends with a valid streaming suffix: https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
+2023-11-12 08:43:53,823 - debug - URL is reachable: https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
+2023-11-12 08:43:53,824 - debug - URL ends with a valid streaming suffix: https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+2023-11-12 08:43:54,370 - debug - URL is reachable: https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+2023-11-12 08:43:54,371 - debug - URL ends with a valid streaming suffix: https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+2023-11-12 08:43:54,906 - debug - URL is reachable: https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+2023-11-12 08:43:54,907 - debug - URL ends with a valid streaming suffix: https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
+2023-11-12 08:43:55,442 - debug - URL is reachable: https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
+2023-11-12 08:43:55,443 - debug - URL ends with a valid streaming suffix: https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+2023-11-12 08:43:56,055 - debug - URL is reachable: https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+2023-11-12 08:43:56,056 - debug - URL ends with a valid streaming suffix: https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
+2023-11-12 08:43:56,662 - debug - URL is reachable: https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
+2023-11-12 08:43:56,663 - debug - URL ends with a valid streaming suffix: https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
+2023-11-12 08:43:57,226 - debug - URL is reachable: https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
+2023-11-12 08:43:57,227 - debug - URL ends with a valid streaming suffix: https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
+2023-11-12 08:43:57,762 - debug - URL is reachable: https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
+2023-11-12 08:43:57,763 - debug - URL ends with a valid streaming suffix: https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+2023-11-12 08:43:58,454 - debug - URL is reachable: https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+2023-11-12 08:43:58,455 - debug - URL ends with a valid streaming suffix: https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
+2023-11-12 08:43:58,565 - debug - URL is reachable: https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
+2023-11-12 08:43:58,566 - error - URL does not have a correct protocol or valid streaming suffix: https://www.twitch.tv/dt_yy83
+2023-11-12 08:43:58,566 - warning - Unreachable or unsupported URL: https://www.twitch.tv/dt_yy83
+2023-11-12 08:43:58,566 - error - URL does not have a correct protocol or valid streaming suffix: https://www.twitch.tv/vdt_51tt
+2023-11-12 08:43:58,566 - warning - Unreachable or unsupported URL: https://www.twitch.tv/vdt_51tt
+2023-11-12 08:43:58,566 - error - URL does not have a correct protocol or valid streaming suffix: https://www.twitch.tv/id_10q
+2023-11-12 08:43:58,566 - warning - Unreachable or unsupported URL: https://www.twitch.tv/id_10q
+2023-11-12 08:43:58,566 - debug - URL ends with a valid streaming suffix: https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
+2023-11-12 08:43:59,194 - debug - URL is reachable: https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
+2023-11-12 08:43:59,195 - error - URL does not have a correct protocol or valid streaming suffix: https://www.twitch.tv/aw_tt355
+2023-11-12 08:43:59,195 - warning - Unreachable or unsupported URL: https://www.twitch.tv/aw_tt355
+2023-11-12 08:43:59,195 - error - URL does not have a correct protocol or valid streaming suffix: https://www.twitch.tv/rr_995rrr
+2023-11-12 08:43:59,195 - warning - Unreachable or unsupported URL: https://www.twitch.tv/rr_995rrr
+2023-11-12 08:43:59,195 - debug - URL ends with a valid streaming suffix: https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
+2023-11-12 08:43:59,734 - debug - URL is reachable: https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
+2023-11-12 08:43:59,735 - debug - URL ends with a valid streaming suffix: https://stream1.sersat.com/hls/garagetv.m3u8
+2023-11-12 08:44:00,430 - debug - URL is reachable: https://stream1.sersat.com/hls/garagetv.m3u8
+2023-11-12 08:44:00,431 - error - URL does not have a correct protocol or valid streaming suffix: https://www.youtube.com/@canaldeportv/live
+2023-11-12 08:44:00,431 - warning - Unreachable or unsupported URL: https://www.youtube.com/@canaldeportv/live
+2023-11-12 08:44:00,431 - error - URL does not have a correct protocol or valid streaming suffix: https://www.youtube.com/live/suvS7O5T9lg
+2023-11-12 08:44:00,432 - warning - Unreachable or unsupported URL: https://www.youtube.com/live/suvS7O5T9lg
+2023-11-12 08:44:00,432 - error - URL does not have a correct protocol or valid streaming suffix: https://www.youtube.com/@A24com/live
+2023-11-12 08:44:00,432 - warning - Unreachable or unsupported URL: https://www.youtube.com/@A24com/live
+2023-11-12 08:44:00,432 - error - URL does not have a correct protocol or valid streaming suffix: https://www.youtube.com/todonoticias/live
+2023-11-12 08:44:00,432 - warning - Unreachable or unsupported URL: https://www.youtube.com/todonoticias/live
+2023-11-12 08:44:00,432 - error - URL does not have a correct protocol or valid streaming suffix: https://www.youtube.com/@c5n/live
+2023-11-12 08:44:00,432 - warning - Unreachable or unsupported URL: https://www.youtube.com/@c5n/live
+2023-11-12 08:44:00,432 - error - URL does not have a correct protocol or valid streaming suffix: https://www.youtube.com/@canal26/live
+2023-11-12 08:44:00,432 - warning - Unreachable or unsupported URL: https://www.youtube.com/@canal26/live
+2023-11-12 08:44:00,432 - error - URL does not have a correct protocol or valid streaming suffix: https://www.youtube.com/@cronicatv/live
+2023-11-12 08:44:00,432 - warning - Unreachable or unsupported URL: https://www.youtube.com/@cronicatv/live
+2023-11-12 08:44:00,432 - error - URL does not have a correct protocol or valid streaming suffix: https://www.youtube.com/@lanacion/live
+2023-11-12 08:44:00,432 - warning - Unreachable or unsupported URL: https://www.youtube.com/@lanacion/live
+2023-11-12 08:44:00,432 - error - URL does not have a correct protocol or valid streaming suffix: https://www.twitch.tv/elobservador1079
+2023-11-12 08:44:00,432 - warning - Unreachable or unsupported URL: https://www.twitch.tv/elobservador1079
+2023-11-12 08:44:00,432 - error - URL does not have a correct protocol or valid streaming suffix: https://www.youtube.com/live/CgCBGMTQ9tE
+2023-11-12 08:44:00,432 - warning - Unreachable or unsupported URL: https://www.youtube.com/live/CgCBGMTQ9tE
+2023-11-12 08:44:00,432 - error - URL does not have a correct protocol or valid streaming suffix: https://www.twitch.tv/neuramedia
+2023-11-12 08:44:00,432 - warning - Unreachable or unsupported URL: https://www.twitch.tv/neuramedia
+2023-11-12 08:44:00,432 - error - URL does not have a correct protocol or valid streaming suffix: https://www.twitch.tv/vorterixok
+2023-11-12 08:44:00,432 - warning - Unreachable or unsupported URL: https://www.twitch.tv/vorterixok
+2023-11-12 08:44:00,432 - error - URL does not have a correct protocol or valid streaming suffix: https://www.youtube.com/live/4dpOXuRL50E
+2023-11-12 08:44:00,432 - warning - Unreachable or unsupported URL: https://www.youtube.com/live/4dpOXuRL50E
+2023-11-12 08:44:00,432 - error - URL does not have a correct protocol or valid streaming suffix: https://www.youtube.com/live/IxQ2-6Y4y9w
+2023-11-12 08:44:00,433 - warning - Unreachable or unsupported URL: https://www.youtube.com/live/IxQ2-6Y4y9w
+2023-11-12 08:44:00,433 - error - URL does not have a correct protocol or valid streaming suffix: https://www.youtube.com/live/O9mOtdZ-nSk
+2023-11-12 08:44:00,433 - warning - Unreachable or unsupported URL: https://www.youtube.com/live/O9mOtdZ-nSk
+2023-11-12 08:44:00,433 - debug - URL ends with a valid streaming suffix: https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+2023-11-12 08:44:00,952 - debug - URL is reachable: https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+2023-11-12 08:44:00,953 - error - URL does not have a correct protocol or valid streaming suffix: https://www.youtube.com/live/c7XOeLT9lSU
+2023-11-12 08:44:00,953 - warning - Unreachable or unsupported URL: https://www.youtube.com/live/c7XOeLT9lSU
+2023-11-12 08:44:00,953 - error - URL does not have a correct protocol or valid streaming suffix: https://www.youtube.com/@France24_es/live
+2023-11-12 08:44:00,953 - warning - Unreachable or unsupported URL: https://www.youtube.com/@France24_es/live
+2023-11-12 08:44:00,953 - debug - URL ends with a valid streaming suffix: https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
+2023-11-12 08:44:02,101 - debug - URL is reachable: https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
+2023-11-12 08:44:02,102 - error - URL does not have a correct protocol or valid streaming suffix: https://www.youtube.com/@encuentro/live
+2023-11-12 08:44:02,102 - warning - Unreachable or unsupported URL: https://www.youtube.com/@encuentro/live
+2023-11-12 08:44:02,102 - debug - URL ends with a valid streaming suffix: https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
+2023-11-12 08:44:02,226 - debug - URL is reachable: https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
+2023-11-12 08:44:02,226 - error - URL does not have a correct protocol or valid streaming suffix: https://video.misistemareseller.com/8118/8118/playlist.m3u8?PlaylistM3UCL
+2023-11-12 08:44:02,227 - warning - Unreachable or unsupported URL: https://video.misistemareseller.com/8118/8118/playlist.m3u8?PlaylistM3UCL
+2023-11-12 08:44:02,227 - debug - URL ends with a valid streaming suffix: https://stmv1.cnarlatam.com/danncetv/danncetv/playlist.m3u8
+2023-11-12 08:44:02,859 - debug - URL is reachable: https://stmv1.cnarlatam.com/danncetv/danncetv/playlist.m3u8
+2023-11-12 08:44:02,859 - error - Invalid line format: http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6238/index.m3u8
+2023-11-12 08:44:02,860 - error - Invalid line format: http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6233/index.m3u8
+2023-11-12 08:44:02,860 - info - Playlist has been written to playlist.m3u
+2023-11-12 08:44:02,861 - info - Channel data has been written to playlist.json
