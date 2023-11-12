@@ -132,13 +132,20 @@ def main():
         if item['type'] == 'info':
             prev_item = item
         elif item['type'] == 'link' and item['url']:
+            prev_item_values = {
+                "grp_title": "",
+                "tvg_logo": "",
+                "tvg_id": "",
+                "ch_name": "",
+            }
+            prev_item_values.update(prev_item)
             playlist_data.extend([
-                f'#EXTINF:-1 group-title="{prev_item["grp_title"]}" tvg-logo="{prev_item["tvg_logo"]}" tvg-id="{prev_item["tvg_id"]}", {prev_item["ch_name"]}',
+                f'#EXTINF:-1 group-title="{prev_item_values["grp_title"]}" tvg-logo="{prev_item_values["tvg_logo"]}" tvg-id="{prev_item_values["tvg_id"]}", {prev_item_values["ch_name"]}',
                 item['url']
             ])
             channel_data_json.append({
-                "id": prev_item["tvg_id"],
-                "name": prev_item["ch_name"],
+                "id": prev_item_values["tvg_id"],
+                "name": prev_item_values["ch_name"],
                 "alt_names": [""],
                 "network": "",
                 "owners": [""],
@@ -147,13 +154,13 @@ def main():
                 "city": "Buenos Aires",
                 "broadcast_area": [""],
                 "languages": ["spa"],
-                "categories": [prev_item["grp_title"]],
+                "categories": [prev_item_values["grp_title"]],
                 "is_nsfw": False,
                 "launched": "2016-07-28",
                 "closed": "2020-05-31",
                 "replaced_by": "",
                 "website": item['url'],
-                "logo": prev_item["tvg_logo"]
+                "logo": prev_item_values["tvg_logo"]
             })
 
     try:
