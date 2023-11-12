@@ -77,3 +77,4 @@
 2023-11-12 08:09:37,096 - debug - URL ends with a valid streaming suffix: https://stmv1.cnarlatam.com/danncetv/danncetv/playlist.m3u8
 2023-11-12 08:09:37,732 - error - Invalid line format: http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6238/index.m3u8
 2023-11-12 08:09:37,732 - error - Invalid line format: http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6233/index.m3u8
+2023-11-12 08:20:29,014 - error - Error processing channel info: [Errno 2] No such file or directory: '/home/runner/work/porong/porong/scripts/channel_info.txt'
