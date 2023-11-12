@@ -28,19 +28,23 @@ VALID_URL_SUFFIXES = ('.m3u', '.m3u8', '.ts')
 
 def grab(url):
     if url.startswith(('http://', 'https://')) and url.endswith(VALID_URL_SUFFIXES):
-        logger.debug("URL ends with a valid streaming suffix: %s", url)
+        logger.debug("Checking URL with valid streaming suffix: %s", url)
         if check_url(url):
+            logger.debug("URL is reachable and will be added: %s", url)
             return url
         else:
-            logger.error("Valid streaming URL is not reachable: %s", url)
+            logger.error("URL is not reachable or did not pass validation: %s", url)
             return None
     else:
         logger.error("URL does not have a correct protocol or valid streaming suffix: %s", url)
-    return None
+        return None
 
 def check_url(url):
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
+    }
     try:
-        response = requests.get(url, timeout=15, stream=True)
+        response = requests.get(url, timeout=15, stream=True, headers=headers)
         response.raise_for_status()  # will raise an HTTPError if the HTTP request returned an unsuccessful status code
         logger.debug(f"URL is reachable: {url}")
         return True
@@ -128,14 +132,13 @@ def main():
     try:
         with open("playlist.m3u", "w") as f:
             f.write('\n'.join(playlist_data))
-        logger.info("Playlist has been written to playlist.m3u")
 
         with open("playlist.json", "w") as f:
             json.dump(channel_data_json, f, indent=2)
-        logger.info("Channel data has been written to playlist.json")
 
     except Exception as e:
         logger.error(f"Error writing to file: {e}")
+
 
 if __name__ == "__main__":
     main()
