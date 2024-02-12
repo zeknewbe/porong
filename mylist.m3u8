@@ -1,13 +1,14 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 
-************************  06/FEB/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  11/FEB/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ************************ HI THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
 ************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
 ************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
 
-#EXTINF:-1 group-title="Bics", 06 DE FEB 12:00 HRS
-https://zzz.zzz
+#EXTINF:-1 group-title="Bics", 11 DE FEB 12:00 HRS
+https://zzzz.zzz
+
 #EXTINF:-1 group-title="Bics", AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 group-title="Bics", AZTECA UNO -1 HR
@@ -30,9 +31,7 @@ https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", IMAGEN TV
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/3767
 #EXTINF:-1 group-title="Bics", IMAGEN TV
-http://th4.online:2095/jositosder/bDeGYPqwA8JR/21484
-#EXTINF:-1 group-title="Bics", IMAGEN TV
-http://zonamovie.live:8080/CINEMA02/RKnhMX3Bhtbp/586268
+http://936261971205766855.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/766855.ts
 
 #EXTINF:-1 group-title="Bics", CANAL 5
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/1155865
@@ -146,14 +145,10 @@ https://linear-393.frequency.stream/mt/studio/393/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Bics", BANDAMAX
 https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", FUTBOL ESPAÑOL
-https://linear-489.frequency.stream/mt/studio/489/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", FUTBOL ESPAÑOL
-https://linear-490.frequency.stream/mt/studio/490/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", FUTBOL ESPAÑOL
-https://linear-506.frequency.stream/mt/studio/506/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", FUTBOL ESPAÑOL
-https://linear-507.frequency.stream/mt/studio/507/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Bics", MLB
+https://linear-508.frequency.stream/mt/studio/508/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="Bics", FUTBOL 1
 https://linear-438.frequency.stream/mt/studio/438/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", FUTBOL 2
@@ -230,13 +225,13 @@ http://magmas5.com:8000/sunlink/dFIdo0UaMM/3847
 #EXTINF:-1 group-title="Bics Extra", CANAL 57 USA
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Bics Extra", UNIVISION LATAM
-https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
+https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", TELEMUNDO LA
-https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream6/master.m3u8
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 #EXTINF:-1 group-title="Bics Extra", RCN EXTRA CO
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", RCN Mas+ CO
-https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
+https://linear-286.frequency.stream/mt/studio/286/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", CANAL 21 CL
 https://tv.clientetvstudio.net:3078/live/senal21tvlive.m3u8
 
@@ -253,6 +248,8 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/index.m3u8
 #EXTINF:-1 group-title="Bics Extra", RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
+
+
 #EXTINF:-1 group-title="Bics Extra", CARTOON NETWORK
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", TOON TUBERS
@@ -261,12 +258,86 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", CANAL 8
 https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
+
+
 #EXTINF:-1 group-title="Bics Extra", LA 1 ES
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1 group-title="Bics Extra", LA 2 ES
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 
 ******************************* DEPORTES **********************************************
+
+*** angel mundi ****
+
+#EXTINF:-1 group-title="Bics",DEP | ESPN Extra  MX
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/21229
+#EXTINF:-1 group-title="Bics",DEP | ESPN 1 PE
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/220727
+#EXTINF:-1 group-title="Bics",DEP | ESPN 1  SD ►℗
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/219173
+#EXTINF:-1 group-title="Bics",DEP | ESPN 1 PE HD ►℗
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/219172
+#EXTINF:-1 group-title="Bics",DEP | ESPN 1 HD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/219171
+#EXTINF:-1 group-title="Bics",DEP | ESPN 1 MX HD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/9380
+#EXTINF:-1 group-title="Bics",DEP | ESPN 1 MX SD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/185154
+#EXTINF:-1 group-title="Bics",DEP | ESPN 2 AR
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/185666
+#EXTINF:-1 group-title="Bics",DEP | ESPN 2 MX HD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/36391
+#EXTINF:-1 group-title="Bics",DEP | ESPN 3  AR HD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/21220
+#EXTINF:-1 group-title="Bics",DEP | ESPN 3 MX HD  ►℗
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/186774
+#EXTINF:-1 group-title="Bics",DEP | ESPN Deportes SD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/54094
+#EXTINF:-1 group-title="Bics",DEP | ESPN Extra BRA
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/168997
+#EXTINF:-1 group-title="Bics",DEP | FOX Deportes
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/36396
+#EXTINF:-1 group-title="Bics",DEP | FOX Sports 2 ARG HD ►℗
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/19652
+#EXTINF:-1 group-title="Bics",DEP | FOX Sports 2 HD BRA
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/48540
+#EXTINF:-1 group-title="Bics",DEP | FOX Sports 2 MEX HD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/19495
+#EXTINF:-1 group-title="Bics",DEP | FOX Sports 3 ARG HD ►℗
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/19496
+#EXTINF:-1 group-title="Bics",DEP | FOX Sports 3 HD MEX
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/9538
+#EXTINF:-1 group-title="Bics",DEP | SKY Sports 16 HD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/149063
+#EXTINF:-1 group-title="Bics",DEP | TNT Sports AR
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/211363
+#EXTINF:-1 group-title="Bics",DEP | TNT Sports ARG
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/36424
+#EXTINF:-1 group-title="Bics",DEP | TNT Sports 3 HD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/19638
+#EXTINF:-1 group-title="Bics",DEP | TUDN HD USA  ►℗
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/185148
+#EXTINF:-1 group-title="Bics",DEP | TUDN USA FHD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/242045
+#EXTINF:-1 group-title="Bics",DEP | TUDN USA
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/166029
+#EXTINF:-1 group-title="Bics",DEP | TYC Sports Internacional HD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/188939
+
+*** emilio ****
+
+#EXTINF:-1  group-title="Bics Extra", US: ESPN 01 HD BACKUP HD
+http://936261971205770907.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770907.ts
+#EXTINF:-1  group-title="Bics Extra", US: ESPN 1 VIP HD
+http://936261971205770908.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770908.ts
+#EXTINF:-1  group-title="Bics Extra", US: ESPN 1 HD
+http://936261971205770909.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770909.ts
+#EXTINF:-1  group-title="Bics Extra", US: ESPN 2 #BACKUP01 HD
+http://936261971205770910.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770910.ts
+#EXTINF:-1  group-title="Bics Extra", US: ESPN 2 #BACKUP02 HD
+http://936261971205770911.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770911.ts
+#EXTINF:-1  group-title="Bics Extra", US: ESPN 3 HD
+http://936261971205770912.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770912.ts
 
 *** cocina pepe ****
 
@@ -297,71 +368,19 @@ http://280112626688710934.ofd0126.xyz:80/play/edu.ronda1107@gmail.com/UBMtxMDgjb
 https://r.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
 #EXTINF:-1  group-title="Bics Extra", Golazo Network 
 https://r.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
-
+#EXTINF:-1  group-title="Bics Extra", LIGA M+ 
+http://515860080856165393.of23103.xyz:80/play/XDH31455298/664585696/165393.ts
 
 #EXTINF:-1  group-title="Bics Extra", TUDN US
 http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/177323
 #EXTINF:-1  group-title="Bics Extra", FOX SPORTS PREMIUM SD
 http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/252733
-#EXTINF:-1 #EXTINF:-1  group-title="Bics Extra", SUD | FOX SPORTS SD
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/100889
-#EXTINF:-1 #EXTINF:-1  group-title="Bics Extra", SUD | FOX SPORTS 2 SD
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/100890
+
 #EXTINF:-1 #EXTINF:-1  group-title="Bics Extra", SUD | FOX SPORTS 3 SD
 http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/981
-#EXTINF:-1  group-title="Bics Extra", MX | TUDN SD
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/19700
 
-#EXTINF:-1  group-title="Bics Extra", ESPN PREMIUM
-http://th4.online:2095/jositosder/bDeGYPqwA8JR/152306
-#EXTINF:-1  group-title="Bics Extra", ESPN DEPORTES 
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/86655
-#EXTINF:-1  group-title="Bics Extra", FOX DEPORTES
-http://th4.online:2095/jositosder/bDeGYPqwA8JR/153745
-
-
-#EXTINF:-1  group-title="Bics Extra", US: ESPN
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/1924
-#EXTINF:-1  group-title="Bics Extra", US: ESPN 2
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/3346
-#EXTINF:-1  group-title="Bics Extra", US: ESPN 2
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/1925
-#EXTINF:-1  group-title="Bics Extra", US: ESPN
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/1956
-
-#EXTINF:-1  group-title="Bics Extra", SP5 ESPN
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103186
-#EXTINF:-1  group-title="Bics Extra", SP5 ESPN  +
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103187
-#EXTINF:-1  group-title="Bics Extra", SP5 ESPN 2
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103188
-#EXTINF:-1  group-title="Bics Extra", SP5 ESPN 2 HD
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103189
-#EXTINF:-1  group-title="Bics Extra", SP5 ESPN 3 HD
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103190
-#EXTINF:-1  group-title="Bics Extra", SP5 ESPN 4  HD
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103191
-#EXTINF:-1  group-title="Bics Extra", SP5 ESPN HD
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103192
-
-#EXTINF:-1  group-title="Bics Extra", DEP ESPN | ESPN 2 HD
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103889
-#EXTINF:-1  group-title="Bics Extra", DEP ESPN | ESPN 3 HD
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103890
-#EXTINF:-1  group-title="Bics Extra", DEP ESPN | ESPN 4 HD
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103891
-#EXTINF:-1  group-title="Bics Extra", DEP ESPN | ESPN EXTRA HD
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103892
-#EXTINF:-1  group-title="Bics Extra", DEP ESPN | ESPN HD
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103893
 
 ****************************************************************                    **********************************************************
-
-#EXTINF:-1 tvg-id="" tvg-name="US LBW: A&E" tvg-logo="" group-title="USA SD ",US LBW: A&E
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/70389
-#EXTINF:-1 tvg-id="" tvg-name="US LBW: ABC" tvg-logo="" group-title="USA SD ",US LBW: ABC
-http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/70387
-
 
 ***** #EXTINF:-1 group-title="Bics Extra MX", AZTECA UNO
 ***** http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/678
