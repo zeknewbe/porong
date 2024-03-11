@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 
-************************  18/FEB/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  10/MAR/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ************************ HI THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
 ************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
 ************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
 
-#EXTINF:-1 group-title="Bics", 18 DE FEB 12:00 HRS
+#EXTINF:-1 group-title="Bics", UPDATED 10 DE MAR 12:00 HRS
 https://zzzz.zzz
 
 #EXTINF:-1 group-title="Bics", AZTECA UNO
@@ -36,10 +36,7 @@ https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", IMAGEN TV
 #EXTVLCOPT--http-reconnect=true
-http://magmas5.com:8000/sunlink/dFIdo0UaMM/3767
-#EXTINF:-1 group-title="Bics", IMAGEN TV
-#EXTVLCOPT--http-reconnect=true
-http://936261971205766855.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/766855.ts
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/634
 #EXTINF:-1 group-title="Bics", IMAGEN TV
 #EXTVLCOPT--http-reconnect=true
 http://181.78.105.146:2000/play/a00h/index.m3u8
@@ -190,23 +187,52 @@ https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 
 *******************************************************************************************************************************************************************
 
-#EXTINF:-1 group-title="Bics Extra", DISCOVERY H&H
-#EXTVLCOPT--http-reconnect=true
-http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/1080
-#EXTINF:-1 group-title="Bics Extra", DISCOVERY H&H
-#EXTVLCOPT--http-reconnect=true
-http://magmas5.com:8000/sunlink/dFIdo0UaMM/3847
-
-
 #EXTINF:-1 group-title="Bics Extra LAT", CANAL 57 USA
 #EXTVLCOPT--http-reconnect=true
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Bics Extra LAT", UNIVISION LATAM
 #EXTVLCOPT--http-reconnect=true
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics Extra LAT", TELEMUNDO LA
+************  pepe **************************
+#EXTINF:-1 group-title="Bics Extra LAT", UNIVISION PR
+#EXTVLCOPT--http-reconnect=true
+https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
+#EXTINF:-1 group-title="Bics Extra LAT", TELEMUNDO PR
 #EXTVLCOPT--http-reconnect=true
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+#EXTINF:-1 group-title="Bics Extra LAT", TELEMUNDO LATAM
+#EXTVLCOPT--http-reconnect=true
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/65880
+
+***************  emilio ***************
+#EXTINF:-1 group-title="Bics Extra US", TELEMUNDO US
+#EXTVLCOPT--http-reconnect=true
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+#EXTINF:-1 group-title="Bics Extra US", TELEMUNDO US DENVER
+#EXTVLCOPT--http-reconnect=true
+http://fortv.cc:8080/7688407/9631242/120665
+#EXTINF:-1 group-title="Bics Extra US", UNIVISION US
+#EXTVLCOPT--http-reconnect=true
+http://fortv.cc:8080/7688407/9631242/15336
+#EXTINF:-1 group-title="Bics Extra US", UNIVISION US
+#EXTVLCOPT--http-reconnect=true
+http://fortv.cc:8080/7688407/9631242/46692
+#EXTINF:-1 group-title="Bics Extra US", NBC US
+#EXTVLCOPT--http-reconnect=true
+http://fortv.cc:8080/7688407/9631242/46687
+#EXTINF:-1 group-title="Bics Extra US", CBS US
+#EXTVLCOPT--http-reconnect=true
+http://fortv.cc:8080/7688407/9631242/120662
+#EXTINF:-1 group-title="Bics Extra US", FOX US
+#EXTVLCOPT--http-reconnect=true
+http://fortv.cc:8080/7688407/9631242/120951
+#EXTINF:-1 group-title="Bics Extra US", ABC US
+#EXTVLCOPT--http-reconnect=true
+http://fortv.cc:8080/7688407/9631242/120952
+#EXTINF:-1 group-title="Bics Extra US", CBS US
+#EXTVLCOPT--http-reconnect=true
+http://fortv.cc:8080/7688407/9631242/120953
+
 
 #EXTINF:-1 group-title="Bics Extra PA", TV  Max
 #EXTVLCOPT--http-reconnect=true
@@ -228,7 +254,6 @@ http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/54.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/4325.m3u8
 
-
 #EXTINF:-1 group-title="Bics Extra CL", CANAL 21 CL
 #EXTVLCOPT--http-reconnect=true
 https://tv.clientetvstudio.net:3078/live/senal21tvlive.m3u8
@@ -238,28 +263,16 @@ http://www.onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu711/thjhg3468ihj/16.m3u8
 #EXTINF:-1 group-title="Bics Extra CL", Mega | CL
 #EXTVLCOPT--http-reconnect=true
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Bics Extra CL", Chilevisión | CL
-#EXTVLCOPT--http-reconnect=true
-http://201.222.44.220:4227/play/a00o/index.m3u8
 #EXTINF:-1 group-title="Bics Extra CL", UChile TV | CL
 #EXTVLCOPT--http-reconnect=true
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Bics Extra CL", Canal 13 | CL
-#EXTVLCOPT--http-reconnect=true
-http://201.222.44.220:4227/play/a02l/index.m3u8
-
 
 #EXTINF:-1 group-title="Bics Extra", CNN
 #EXTVLCOPT--http-reconnect=true
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="Bics Extra", CNN
-#EXTVLCOPT--http-reconnect=true
-https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/index.m3u8
 #EXTINF:-1 group-title="Bics Extra", RETRO CARTOON
 #EXTVLCOPT--http-reconnect=true
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
-
-
 
 #EXTINF:-1 group-title="Bics Extra", LA 1 ES
 #EXTVLCOPT--http-reconnect=true
@@ -267,7 +280,6 @@ https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1 group-title="Bics Extra", LA 2 ES
 #EXTVLCOPT--http-reconnect=true
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
-
 
 ****************************************************************  rasta android     **********************************************************
 
@@ -335,7 +347,7 @@ http://181.78.105.146:2000/play/a00n/index.m3u8
 http://181.78.105.146:2000/play/a03i/index.m3u8
 #EXTINF:-1 group-title="Bics Variados",VideRola
 http://181.78.105.146:2000/play/a04c/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",TELER
+#EXTINF:-1 group-title="Bics Variados",Teleritmo
 http://181.78.105.146:2000/play/a03u/index.m3u8
 #EXTINF:-1 group-title="Bics Variados",OnceKids
 http://181.78.105.146:2000/play/a04f/index.m3u8
@@ -427,8 +439,6 @@ http://181.78.105.146:2000/play/a08p/index.m3u8
 http://181.78.105.146:2000/play/a098/index.m3u8
 #EXTINF:-1 group-title="Bics Variados", t13
 http://181.78.105.146:2000/play/a08c/index.m3u8
-
-
 
 #EXTINF:-1 group-title="Bics Variados",ABC
 http://livex.pop-app.live/s4n/poplive/ch340/playlist.m3u8
@@ -637,6 +647,7 @@ http://livex.pop-app.live/s4n/poplive/ch341/playlist.m3u8
 #EXTINF:-1 group-title="Bics Variados",WINSPORT
 http://livex.pop-app.live/s4n/poplive/ch562/playlist.m3u8
 
+
 ************************************************************        ***************************************************************************************
 
 ******************************* DEPORTES **********************************************
@@ -764,7 +775,6 @@ https://linear-385.frequency.stream/mt/studio/385/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", FUTBOL 32
 #EXTVLCOPT--http-reconnect=true
 https://linear-386.frequency.stream/mt/studio/386/hls/master/playlist.m3u8
-
 
 *** rasta ****
 
