@@ -547,7 +547,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://video-weaver.ord56.hls.ttvnw.net/v1/playlist/Cs0ES7bVrVpnmhJtqRgr_W0B0zsxGAbu1j_wisLoSuLJKd7LacXc7-7CeYGR9_n8lE4SHn8o1iDaS2O2UgC5LwSt18w3nJYTzJr_9dKo5eSf95IAHpKj21TXKn_AzDa74pAk744bLnQDPUQ6OFDllEbVD2EqFmlLCwIZdx3JwTf2BrobxfeZbwgHuSBlCD5IfDBqIfYXcmcf-yLPGTb_OcKpywcwhrVjWc4mAzT7EsIxuzSDy2Co_Q1QooUnT0rDeBbjMVdmzqPf94pRHcmtwxOuXN48Q0APa2soUCTNIOdcmjT5lTn5J35jI8_Ibbh1FaaFMwwuak0rfT7mFDl0HYtg1SkOJZS_n4g3Bd-UYZQHydija3N0rXKPdJxSmyZfNuarEkJwp-VIiX0eEF22t6L33nfFLNeVkxd0jtDAGKUiQLze44_xOQlv1p1FQXnUqDcglfB7ifo5cT2BMaDmg6P6bdPzrFUOlBKeDgZ9_93uz-s6E3V3CFgRDiQNLjj17stVWDlK7PvnuJglJQb4GAxkLy9sWqgLcq4f-ImIdn-pz7810tO0Yib4HYBdgSZjuoz7rByJHA4BBXMBcdZXh5Az8dApUW9wRty5P6undz6gBAiz13Wwo8Upi08SrQK4w3JL2fUSfnIOiLirkoj9v6mUncEsyY8dX5vZ1_WXkejOmucKx8JffX2LZC14hAwKe_gxzeeZ-fqTqNoueeb9FCT1ajyU43ECFva4N1076hai-eKpNt2P80Zk4yFEdsEH7BJyVFF6X5E42iEdsKqodBoMYGwsYu5xGsSgRWU0IAEqCXVzLWVhc3QtMjDkCQ.m3u8",
+    "website": "https://video-weaver.jfk50.hls.ttvnw.net/v1/playlist/CtAEtk1U5TIc4gbbcAgT-5TMXKTRPP2Dd3Rr-cz9v8kZ3pv9rl3TMmWMdWSNuvZon19_FwfOqXz9CIkyVGJC6UFg2067vGIS3P5IET0PL9DIjInhuSt6bkUmsxBG_c36bLswU8eat42lwyjbN4yW8UCe-kGKxN9wpVg0fpRi9tqlpG0ax84OPSaXtVbStWPF9u_JlKzA6E98Uc-Rg3YFZQU9MtAEGY68M4ktBzHAIhvkLC4wcq__csXXDYzckgDeOd-9OGLDGIfwsy1YNTk_kNPksOXTJpm9KbciDzW_8AOYTc0ISuijvUSBWN3BE4ovL76eCkQwg3YQQ4tEaBP2MEAATM82ZwBxZpImsbT8Z7cPPBvAKPSW_Cjj-Vhi9ikxpGm-ybUz4Y1DhlKM4qdDOm9qU17tceEuPX-feCj4UrY9aHH-kGZBJjaBuDPlRvc4jDIFZ3PfAFa01EtT45LBetrXbogs4ZV4K47T9I1LovQn-gjXRlfmproJD45tYjzOKX4vtsM4I_39yoXlRiwgl0RXB_dCceKMwGa8q3FH8TicVuVnyPd2A932gmC12rQQg-rd_fcb-MvTQrU5gw_Zr_mwN3l5wN6zgKY7r9dIQMTo2GDzhNbLJ-YvH6bSLWgpmJaBFp70dUIM1b3WAO7TPUIrlDEuncZhAEi6Ts4f0VEk5n88zf6SALnmkhmgtnnez7Txg1rgKsa_tci4UVhagTZVE8y7fqINeQOt6II-q0ruvXbPlkrh9dN_v05rF9CAjkv-Epri_BGbyqBpHeqY5hAXGRoMRW3H-eTiPQYqKt54IAEqCXVzLWVhc3QtMTCbCA.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png"
   },
   {
@@ -1330,7 +1330,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://stream.ads.ottera.tv/cl/240701cq1a4d5071neeigs6oog/1280x720_2300000_0_f.m3u8?i=475_656",
+    "website": "https://stream.ads.ottera.tv/cl/240701cq1aq6as19ukcvqno9ug/1280x720_2300000_0_f.m3u8?i=475_656",
     "logo": "https://hispanicprwire.com/wp-content/uploads/2017/06/84888_1_54838.jpg"
   },
   {
@@ -1419,6 +1419,35 @@
     "replaced_by": "",
     "website": "https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8",
     "logo": "https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png"
+  },
+  {
+    "id": "",
+    "name": "Cosmos TV",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Pel\u00edculas"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/80/Tv_cosmos.jpg"
   },
   {
     "id": "",
@@ -1823,7 +1852,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1719858994/ei/0aKCZoLaPMyqlu8PwfiXuAg/ip/172.183.91.0/id/QGpHLgRnrx4.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-vgqsrns6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAdb-rfHszPvi8fVu0QpHzZYJX41cvxdPEcX6l6LAoMZfc31f9fcXzjlHO6M/vprv/1/playlist_type/DVR/initcwndbps/1633750/mh/6d/mm/44/mn/sn-vgqsrns6/ms/lva/mv/m/mvi/5/pl/18/dover/11/pacing/0/keepalive/yes/mt/1719836911/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAO8Sr_b_CQANSdRZX9eaGa_ACoic0pL2yDuQDdyrumgVAiBkkvE5hquXppVaN4h90uLRSfrsWTUCN2tvewPGLeejyQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIhAIHSR9yX0_cLvIao_-qHqqSS5VsjZ1FR0jy2ghA8f7evAiBGiSKqMg-si0s-Wf6i_1yChy3bZhPG8_jjIrtX5epApQ%3D%3D/playlist/index.m3u8",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1719861781/ei/ta2CZquIO6SzkucP7dORmA0/ip/172.200.199.246/id/QGpHLgRnrx4.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-5ualdnlr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f6USiWfn4RBANw51OU9Iwu3N4aEzdif1-wM5UzKY8PfNgWCY-h-IR4xM7ZY/vprv/1/playlist_type/DVR/mh/6d/mm/44/mn/sn-5ualdnlr/ms/lva/mv/u/mvi/4/pl/18/dover/11/pacing/0/keepalive/yes/mt/1719839671/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAO0we-Lyey7U9BOKlc7pzpxubYFWpxSkA5KtOAlFqKAgAiEA5hnhqx3-YCrE31XS5Sz8yXy6BSFGopCMnJqTPpQDKYo%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIgU2FdXVHAbq0ZOZS7DF2n9nwtR3co8si47ju2XWe35JQCIQC9QnOaoXiURg3lsf1DStjlDcXPxJOya5xMczYo4xCrPg%3D%3D/playlist/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png"
   },
   {
@@ -1939,7 +1968,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1719858995/ei/06KCZr-4Idmglu8P9JihyAg/ip/172.183.91.0/id/cb12KmMMDJA.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-vgqsrnsy.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAYS1RuajRXcpOXAmXvnE_bt2tePxUHjQYCi9703mPX72d9gXFnYqoCOjMIg/vprv/1/playlist_type/DVR/initcwndbps/1633750/mh/o5/mm/44/mn/sn-vgqsrnsy/ms/lva/mv/m/mvi/1/pl/18/dover/11/pacing/0/keepalive/yes/mt/1719836911/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgas0vwE27tYwRyv6KpyBIR7FpO-UAGtNH2NL1QVciptgCIQCeG7C8vgHLUdlhyVQDy7Iyn8dO_ljzfNa6aot5kR4IEQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRAIgYyJq7ItRv4my-D5aQVA_jnHx_PGjEc99tUogbpkusQcCIHAY9AlLV9nzU7SS76sk7Ggk0o26g17SyyR3eRrBLYL2/playlist/index.m3u8",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1719861783/ei/t62CZtTmDbK0kucPm6OssA0/ip/172.200.199.246/id/cb12KmMMDJA.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-5ualdnss.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f09eZWJb6MULiwXLynTAof2Pz4HrEofCEfovH8_nFEFC0EJH_HhdS8LTYFU/vprv/1/playlist_type/DVR/mh/o5/mm/44/mn/sn-5ualdnss/ms/lva/mv/u/mvi/4/pl/18/dover/11/pacing/0/keepalive/yes/mt/1719839671/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgDZxFVq76JpK8EVpTDUZ3b7VlfWL7H9IS81H0P8jbXgkCIQCwtzT5NRiEvJ0L9Ci7gE-OOcY7ZAEZXYzid3rHQ_xPQQ%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIhAOonC-MqJlf8o0rrX6AVkylelSIm8yeDOKbmYwWb57SZAiAnaeYNNKuU7p0oHTJUW-vK6i5ov1AKQX12sh-QGnBhnQ%3D%3D/playlist/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png"
   },
   {
@@ -1968,7 +1997,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1719858996/ei/1KKCZqGLEYCd2_gPxK6tuA4/ip/172.183.91.0/id/Hy4UCfsE6Yk.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-vgqsrnsd.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAa1CZtrqWnKu-zJ1ikIKx9aOCs0bceCYGuFq1OnREKuF6OMGCIF9XMi501Q/vprv/1/playlist_type/DVR/initcwndbps/1352500/mh/K-/mm/44/mn/sn-vgqsrnsd/ms/lva/mv/m/mvi/3/pl/18/dover/11/pacing/0/keepalive/yes/mt/1719837152/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhALGb7OW11bZxO2y76wQ-jgIjoZ0J1BI5Bi4WLG1VDn0uAiBm-9BoWsWYqGQaUdMYZqMY0FtuxkT3ps4JSqmZYBDC9Q%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRAIgLbI9WsOpkivfy6ecni7YfUvtU8HZq0QnzL2GJ3_KUAMCICdmP238r_wnBgkyzK7EsmfGMU4mLm5xUVpAWFf-DM9M/playlist/index.m3u8",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1719861783/ei/t62CZoD3N9WykucP1NmPoA4/ip/172.200.199.246/id/Hy4UCfsE6Yk.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-5ualdns7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f6QI8iNC2pP3t8UpLMOnPfczrZ_ELeHXyZ1JVljkUiG6DDLZabTZCS2yim0/vprv/1/playlist_type/DVR/mh/K-/mm/44/mn/sn-5ualdns7/ms/lva/mv/u/mvi/3/pl/18/dover/11/pacing/0/keepalive/yes/mt/1719839671/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAPdY9ceTjfd-4j7aiZuco_y2LhJviBVlB-ajvPAwHo-QAiEAqI0JQdVnXrKOJrsrtH4SrNg0IYObg7NR4mEjCseN9TU%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRAIgQ6b-NDpVljzdzGBO2j97VglZpI3J1QyVVqDU8wimY-0CIDJKh5T1QIP5N4fT1nuVwykRiH9b-IOlmnmSaogpE670/playlist/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/1200px-C5N_logo.svg.png"
   },
   {
@@ -1997,7 +2026,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1719858996/ei/1KKCZqaPNLOilu8PjPGr0AE/ip/172.183.91.0/id/RnTmtVFTSf0.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-vgqsrnld.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAeUh3hg8tbSUSzla4bNZ7l3fvMcFAjdB7eA2jf2M6e_lnBOrT6EMwA7oGSs/vprv/1/playlist_type/DVR/initcwndbps/1352500/mh/cy/mm/44/mn/sn-vgqsrnld/ms/lva/mv/m/mvi/3/pl/18/dover/11/pacing/0/keepalive/yes/mt/1719837152/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgZH0HqmpcdQZNyaVu2WXofMYnLkyOnw8gTus-jB0IZU0CIQC948nNC9araeI9Kp4DVLCbtYrCTEF_A1pPeKnnzCbTHA%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIgQJ-J_5-V-31VNaExUMA_e2uWIz3mcSulY-e28VFvuJYCIQCeFyo8nxALoTpPaLji9UaoDuamFHaD59okRzaz7jZtpA%3D%3D/playlist/index.m3u8",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1719861784/ei/uK2CZoDQI-eykucP_bvloAU/ip/172.200.199.246/id/UV08l1KxqtI.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-5uaeznlz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f3HXmPxxE1XlClJGy49Rz0laL3Kn-is6Ksu7bCH5ZOeWhI-7kvSb1DuHjiE/vprv/1/playlist_type/DVR/mh/Ry/mm/44/mn/sn-5uaeznlz/ms/lva/mv/u/mvi/4/pl/18/dover/11/pacing/0/keepalive/yes/mt/1719839671/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgeCkEveupRs2fS_iFKvitEAr77FGrVXrNniku4nOGZ58CIQC4e9ptzpR9feJoMrxGY1g-ratIh8P-_4IfQQtca-tzOw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRAIgYuV9wb4PXEEB9gg1khgbpOSNkxe7hVaHBa_y8ixJ_D8CIADmkVdZ3I69w4hTShCCjLZcGJehJDdP_MiefX_VJlXP/playlist/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png"
   },
   {
@@ -2026,7 +2055,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1719858997/ei/1aKCZrGbJJzUir4Pi-OB2Ao/ip/172.183.91.0/id/avly0uwZzOE.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-vgqsrnlz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAcgkLvT-KnNzACnE0F5boBNjfVNmJuC0PvC7jvF31h-NIMD1GNx7_2osBFA/vprv/1/playlist_type/DVR/initcwndbps/1633750/mh/9V/mm/44/mn/sn-vgqsrnlz/ms/lva/mv/m/mvi/1/pl/18/dover/11/pacing/0/keepalive/yes/mt/1719836911/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgIJlGzlbdzgmKrt6d9R8lRpOaWx29LxDsKSHpzsNkZI8CIC7rL87o6RgNyX9M1rp3hr5uX0PMLrKObm8nkO0vuxU2/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRAIgAdZ1hHHiaTZwwVaAIGZjpbt9I2jT67M0lM6YcxHi5XYCIDlQqg76vTfdsbanvRVnyM3GJZHqMKn6nuEyr8ZKjeeh/playlist/index.m3u8",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1719861785/ei/ua2CZoqCC8y1kucPl66uqAg/ip/172.200.199.246/id/avly0uwZzOE.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-5ualdnle.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f214_XSBdIXBO3EMF-4GRFNPIqySUvzrSWCwnQRZpJBUOd0t7CwDKr0cd2I/vprv/1/playlist_type/DVR/mh/9V/mm/44/mn/sn-5ualdnle/ms/lva/mv/u/mvi/2/pl/18/dover/11/pacing/0/keepalive/yes/mt/1719839671/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAMRNXYkgquWKcWGUG1vsV7qasRWMonfeEa0zAugCJUH3AiEA0jRi0beQnq2goZgZ8KUkwoZOts5DtZUVzUXGDd-KZdU%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIhALFX6fb-jq9OiGwmm7bC5hRHCthzsnM_buP6Hgb3wlfvAiAX9lhPhdDXFWU6Xh1IaUEuMFcWm4RFZFM90bTI_1betA%3D%3D/playlist/index.m3u8",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuM7kN1ksUFx9NNjSfOPl0emxBYKaZBxo3DdhFL3OQ&s"
   },
   {
@@ -2055,7 +2084,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1719858998/ei/1qKCZsKiEe_AybgP3IO76As/ip/172.183.91.0/id/ocFG3yor--M.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-vgqsrnzd.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAed3jMVHMgoYZuPPgkiIyAJ8XW8Qx14h_p0ND6dli79PvtOoLBIGMhwh0nc/vprv/1/playlist_type/DVR/initcwndbps/1352500/mh/If/mm/44/mn/sn-vgqsrnzd/ms/lva/mv/m/mvi/3/pl/18/dover/11/pacing/0/keepalive/yes/mt/1719837152/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgct9-7U83nYNh76Kbmu2x6ytlNKBHeCPDMiFNrrM3tewCIAtsNtgXpg_2_U6SgLGdfIWnzJ4-nLY4YEw-TSGUMhG0/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIhANHAcVRu7eletDkcH6cmGko-Wyq2nup31UCPV7tKNgyBAiBfo2GZe0iqMPzwX_NRmDTY-w9t3nxOygDA2KkT3ymbXw%3D%3D/playlist/index.m3u8",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1719861785/ei/ua2CZur6NPyokucPzbGV0Ac/ip/172.200.199.246/id/ocFG3yor--M.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-5uaeznyz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fzYLmE6vtQCWbuvF9frRKGWPmG5m3QscAsgskRDzRSGaNKTpnPB-GRtwPco/vprv/1/playlist_type/DVR/mh/If/mm/44/mn/sn-5uaeznyz/ms/lva/mv/u/mvi/3/pl/18/dover/11/pacing/0/keepalive/yes/mt/1719839671/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgKK_w_d22OFNYxPZr736TXfWxeWMKeNR5cs7jsygTvI0CIFrCf8R8x5UPu7HXWzcEiUTBPsKF4tJgZ03itYU6Smdm/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRAIgTsTFn6fIysLK_huY3GDDEgrYuvfO3nwo9hdtsmkHALgCIAi0W0vQMr0QLm8Ts153guNHE1B85ms2FAgypUHzL3MZ/playlist/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png"
   },
   {
@@ -2084,7 +2113,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://video-weaver.ord03.hls.ttvnw.net/v1/playlist/Ct8ECcbrv8TKG_XYtvVNnfbh5Q4hMrUwJkRz88WefpqzjzkYax3unJo3kODkjXfeYuR8ESQqov1tdnhxOpLA6XRohhwd3qIxKss7ioBDLhV0CsZERjlT2Tb8VW9BaFjzUPr9DYqixkfhPe6wUU9GCSwNvUuS9BJ978rJBI6fS3Q9ekvRnecX5w4-KQesdT52UFPU6hfkbESU-bTjBlwmUkD-XyWAH2jwPuI6u5iNQXNeJqNCabRLfNJhEyhFyFGfDMZJGsTWp3XKBv02UyVMkRAQI2PNY1WBTjWChYD1ghn9Pq5S0RwWgSAj9dVX5ylhbvie-MWVjU8fPQKQnXItRxh1egzG7fpVF352HU4NwW9TjjULjuXtP5j5RwiF0GeOzmXnSq2YUIb1-bH9M3GqCZ18cHS-FivlIZLgI82U5k0xubZARY4XrDz_vpbg4WLC3rUjEvrDhbF6Df8XAMXqP4V6Alh_22GzIZaSAfOpSTF1A1yWWsJwb0rohB3OHFippnd_D-jvkak82QfpvclThAs7Vpv5gxqfnkEK1EeInYIePGWsisPGO-wtAQGUeyOSh4Pz3pM6s2Dx8Uy6eYDHSFwOz84FxQ8W6ctvZodrdeXRVMC6hu0OaC9ifqQHRcIxdRVfCTNrZiZoXAg6x7S-LlT0gyEDqfM2mHA-GqzrpCVZbqCA3weP_WecDOhzD5r0fJEcu4QjA8cBHh4K-FuG3jfK83ybtYTl6_9boZQZSHBpEzv1bkWkTn5zSlPnv2-wlMKHzRwT3sxROIVQlyN9Jqs_O79o05Nlw8d2_5NqYws3jBoM2-99g_5emMKf5kilIAEqCXVzLWVhc3QtMjDkCQ.m3u8",
+    "website": "https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CuMEhAv6oopKuN6oS_2gIJriY50fRo874_xwlv2Uvu_7ZVo96VAJLOtQy7LJx3IWUWUIlfDXBpvZnjS101HaA3tiCwmMMF7hDubZ2v1IclPHAQ9Q_R2B8m_U_faFkfdTPqBHAlTbzkb501TzYnnxYwbNDFQe2y_UKg9ncQyY2nQMCkQcqM3SB9nkmKLGFOYB6fDoXqUDjaD-hs2qYCmMtyq4NLRrQxvYpvo5umN6kimqt4xUP7n1d1qbVoS4u3G3m26Bu-QUyFHHjASzDUsmkdMbVLGts_BSsJsyUNYIK6jltF5PSMXzoV2qHhtmzrJEvy4zM57TQkrN_oM7hukUPkPLq-8wg1B3wFryjmW4ox1NzrbnmVqiPtaXly-ZEouCvHD5T8e4ufwwjqNr2LWQg2ymkpJhnEyPn05oCqXKT8SqDDI-aX4FCSmkNNxHUAYs2XzuW5J6bAUvJbz-pW5Y3er1ywgjkWq2LOySLn58znVNfMRzmg1u4RXUD-UI_4QOeVWwiPYMLvqgy2ys1DhhwoAWYLfZAYuR_-c1n5otsv10FEv6k9DrjLRTjNWHoUP4Ei7VyLoUj8YJ1hOi20ECupWbvHKjApOPNoWpRtBBwmE_AGQKmcHiYRk97TnWFuURhgvO2SGaXkbUOqfhFsQ2Q5WfygXLaYBsMQ5ARE3XPG3OngpYT1UFlTnL1by15G4b2eCTvb0MnJltaufI-u3OXH2UOCOJK2RAiPBsh78KpJDbnSdR7WQD4tZ9ER6qedJh5JVjv6gA49_HUZMcwVaCg-sUteAMTtqH4Z82XipyUHzNHicZHgEaDGHfv6zi7XCJcrQVHSABKgl1cy1lYXN0LTEwmwg.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg"
   },
   {
@@ -2113,7 +2142,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1719859000/ei/2KKCZsOPKL7Bir4Ps6OgsQg/ip/172.183.91.0/id/O9mOtdZ-nSk.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-vgqsrnsy.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAQI7hyWo39goUd0L8WRXGMOXzKrxggTA5jjDVHB87SdfsWe66vwaYYfrIDY/vprv/1/playlist_type/DVR/initcwndbps/1352500/mh/Ly/mm/44/mn/sn-vgqsrnsy/ms/lva/mv/m/mvi/1/pl/18/dover/11/pacing/0/keepalive/yes/mt/1719837152/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgLq8DlPeyJgkT2fdadS204-HxUYoxt6R3jQUzYW9QcVECIDIwlAqSTSypbTzCiT9Wea8u-CmtP0ll8yo-2s5qGo_X/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIhAMrMEPiajW7jTG0Xl3U9gJQfoK8cwth2Voj44zcGpKnjAiA8Z9qzH0Ek2t9NEJ3N-5o9mENUp_9wgTwHtdyxom36eQ%3D%3D/playlist/index.m3u8",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1719861788/ei/vK2CZtnjAYCKkucP9L-coAI/ip/172.200.199.246/id/O9mOtdZ-nSk.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-5uaezndd.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f9ciJmLSVWZQLFFsjRg5VU4wFw1PAKtfPupjcoiBftCsE3DY7Pl1QSpm_B8/vprv/1/playlist_type/DVR/mh/Ly/mm/44/mn/sn-5uaezndd/ms/lva/mv/u/mvi/2/pl/18/dover/11/pacing/0/keepalive/yes/mt/1719839671/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAOrdgcIsv0xqBgtIYj8Ofmdlhr1d8IKCWS2tHnPqVEf6AiEAqSp377Cv8e75cR0MZx5xmM-3kYjPkp82wsdSGyVKDA4%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRgIhANo6Xq1u0jPxR0WDsSvZzU1x6MoSoUUou4pLG-_8eox4AiEAg99y-KcuV_UWtT4bXZfNr3VhTyd6XutvNy4I5xfYrVg%3D/playlist/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png"
   },
   {
@@ -2171,7 +2200,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://rr5---sn-vgqsrnek.googlevideo.com/videoplayback?expire=1719859001&ei=2aKCZviDOsuQ2_gPwOKuCA&ip=172.183.91.0&id=o-AEJxV-BTZvw028O1le6eVbcqnTilELfdr2aoimlyEijG&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&mh=w-&mm=31%2C26&mn=sn-vgqsrnek%2Csn-t0a7sn7d&ms=au%2Conr&mv=u&mvi=5&pl=18&bui=AbKP-1N_sAuZHmvTiV623HO17-AJIFiYjvxwadFMFBbcra_777piyYN-7VyJHIzKRHZwwT-JG4oFpo1z&spc=NO7bAfkwfN7H8wMLmVpmwBjUC6tlEvynjWNLB3m1JJ6FBpoer17XRvocg_a6&vprv=1&svpuc=1&mime=video%2Fmp4&ns=-CPI1CG6yvE4UAZ9PLInfc0Q&rqh=1&gir=yes&clen=534295567&ratebypass=yes&dur=6576.332&lmt=1697666721686144&mt=1719836213&fvip=4&c=WEB&sefc=1&txp=7309224&n=CRagMewP4FSISfQY&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRgIhAP8KwNqBy8niELzJgTzM3dxdoN8RqqFHs6nnkwPPvM9aAiEA2lp_2PF1v3UuKmK_6lXcH713vxxvuGxEfHMT1BvCy6c%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AHlkHjAwRQIhAPT9vZkrA5Je4amC-jaavEqsHAcxrA_4v-A_pnYKQTTcAiBM6WV0eMwo3Mxi6jBSWd7wn4i3mdPz0uf276aIYEkeyw%3D%3D",
+    "website": "https://rr1---sn-5ualdnse.googlevideo.com/videoplayback?expire=1719861789&ei=vK2CZtHZONC1kucPor2dqAI&ip=172.200.199.246&id=o-AH1N5J_VtCd_FcuG7lwH1GmgBcQRuCgMfCcLIApvNQ2C&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&mh=w-&mm=31%2C26&mn=sn-5ualdnse%2Csn-q4flrnsd&ms=au%2Conr&mv=u&mvi=1&pl=18&bui=AbKP-1OMjwBiATciZNoH-WtUHji3AaQY-OINl5fXWRaxlW2ZS98bkV_G8hT79xeKNkF6Acu3xWAleCJq&spc=UWF9fwbM6vVWyt98JC-I0YUUVPkHY9rzaLCEG-hlFuwfh8OCPhpuSvOHOMwf&vprv=1&svpuc=1&mime=video%2Fmp4&ns=rxNdNZfE-yVyF3UgC8SL3fkQ&rqh=1&gir=yes&clen=534295567&ratebypass=yes&dur=6576.332&lmt=1697666721686144&mt=1719839836&fvip=3&c=WEB&sefc=1&txp=7309224&n=kYILP3nBcByoZYxp&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRAIgFa43z0RrkVtts3eDRbFguMIMBdBwasCMnF0Otkw5dgICIGA1XNb9LPZMsxQ0reJV6H7WILURIjxtvbN92j0rvRcq&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AHlkHjAwRQIgd9p3LfdSshhxuYYD7Z7UzlyM1Eil1xKpbCTjnRxeLLkCIQDtDKq4wEj_KZATDAJAQ5Bo6doXpjcywZTrBTGYIoU2pA%3D%3D",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"
   },
   {
@@ -2200,7 +2229,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1719859002/ei/2qKCZuawItfplu8PzJWKwAg/ip/172.183.91.0/id/Y-IlMeCCtIg.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-vgqsrn66.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAX2VSBer4PtJBkXoy5ZdggD4DTRvnesRIIXNJbNw4s9i19yzPSmFLVsJYMk/vprv/1/playlist_type/DVR/initcwndbps/1633750/mh/2J/mm/44/mn/sn-vgqsrn66/ms/lva/mv/m/mvi/4/pl/18/dover/11/pacing/0/keepalive/yes/mt/1719836911/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgETZRloK-yB62ekothc_cNOtavoD2J5AgBGjKFJSd4RMCIQCTADAsL2B5YeyShTUMv-LgsCBsct1JlHCvJz4hKjE6tw%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIgQMLuWlnF98bGNVgT99IVFF5amChXFS8tp__H8Gqy7tsCIQCmsMmJnX3BqJ2jTwQwlhRWyHgon_JGm2kbq6rGCOUCSQ%3D%3D/playlist/index.m3u8",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1719861789/ei/va2CZpySI66IkucPpLuniAI/ip/172.200.199.246/id/Y-IlMeCCtIg.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-5uaezndd.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fyCyQ93308MI5QuxTiK3gDgA9Gh7nlbXFZI0qXFjQ1pByj7cJp7spWSyayY/vprv/1/playlist_type/DVR/mh/2J/mm/44/mn/sn-5uaezndd/ms/lva/mv/u/mvi/1/pl/18/dover/11/pacing/0/keepalive/yes/mt/1719839671/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAJLmzM_t_9OR2QO-9eCaNkXdBOBXFaZxNJHx6dSBNs65AiAmoXuTesEMrJZfAxF5GMwFaEF7ZFF9ZJCNXQoZLigOCg%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIgRyOECwXdsKfb9NxXKPP27SnB_hI9zR7humuGMefZOj0CIQCHFa5G0w7vTPvX5dc_OHmVJuk8kqqwBAjh9ODF9yrNNA%3D%3D/playlist/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/254px-France24.png"
   },
   {
