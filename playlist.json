@@ -204,6 +204,35 @@
   },
   {
     "id": "",
+    "name": "Fox Business",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Business"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "http://41.205.93.154/FOXBUSINESS/index.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Fox_Business.svg"
+  },
+  {
+    "id": "",
     "name": "Schwab TV Network",
     "alt_names": [
       ""
@@ -1446,7 +1475,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://stream.ads.ottera.tv/cl/241015cs6vokm3n2oc2rjgma7g/1280x720_2300000_0_f.m3u8?i=475_656",
+    "website": "https://stream.ads.ottera.tv/cl/241015cs70oh478rtcpf78l9p0/1280x720_2300000_0_f.m3u8?i=475_656",
     "logo": "https://hispanicprwire.com/wp-content/uploads/2017/06/84888_1_54838.jpg"
   },
   {
@@ -2171,8 +2200,37 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://video-weaver.jfk04.hls.ttvnw.net/v1/playlist/Ct8EQcK9XBofmSbYbqCU87bgRXwqSh2BjwHTJnvJ3usoa1sY4w5k-UBI6lHzB59Sdrg1qie-UDnZfTJKTIsIcxzL0YMHLyWMvvFkKyzge0W4u7WTjH4PcL62wy0ZYQHXDohuXsmlhg_kdxNS_INxkoS0SeqbhaTof6y0ctdgCPwtIoSoC5WJDfoeUS88UdwtoY7iPzd5-y5i4GC2WtzNZQ_hFxrnWwqzu5Vg_U8PMh4EzPh7cCXVurA3CRMfMw5u5VEKIpLABNDBCKV4SZToeb_ZGZrNhlYisLfI1Q9ZOSA52lqruSnR2Wmp6crGMeMj90T6OVEFI4jD-xjRQTGrwXp6wAt1HIGR9Q1ypyz0JOyrrpKSfxY0Wig03W3pPUL85NF1wW-FcsBXQF76n9XNtzDdww7Za2OBAiaG9lNedUvAXtKNgznGfXDlDyTKMBo9dioScg7VIv6d-BgvFR269qSNGb4S9ri75tbOB2UhBvHZbx1v0xD-20TQ0VPqKOkpuN7Z6EAUrG5r1tk4jUmxdmguD3ghuRhFmp3mOZSjVdXU0Ytkr82_u8FMrTx2nSL0mTR9hfER38XKlNp19alb5NGcKq4Q0rJjmw2Hy9jwZxMnCEhR21RReM79EtPYDJXk26ozd2qw45LQKoYFlPyiqXQzhAc6retqr8BLb_qMy3l9MEybuMOxYVPQjHhEIJcgc5gmlWDJK3XKYlBO2Of98AuCO8NV4EClrwicCo7wKtjfrRgPmPeMaE3_W2zv3Cv3YBA5eVKYK5xf3Nhs5xOYbyZg7utTHJtQOttIz4ZIsr8lhRoM0FMpSVjQWJrBlZfCIAEqCXVzLWVhc3QtMTCFCQ.m3u8",
+    "website": "https://video-weaver.ord56.hls.ttvnw.net/v1/playlist/CuEEtgx990hNdPxUcZPWMaKl3y5uwFOOLpfEnFepxWwkrbxvbVhBqsTmX7_PSY11Ybghmj3EyebMCUqQDaImrB8qvdqn2wt8NzS9MLtF-331z-ZkpdgPCiwKQjb0Z1g3DzF3pha49P1faQtxHP2MVjLPNU4-11HKMtivrKZsjeX77do3SX9Sg_YIu7I87OhnFGZrSfjA0Ci81dH50frk0X9hTb7B9vJPMzTkV-95o4JvQjbY7uNdTEPzPyv8G-Xzmkdla3_P2bzLe7QoVSPfvnZaLKBjDZXalKSBr-Qx6x945DMFYdEbgboH78UqqSOoLIcddlHyeCLtfFf1IcEC9C4Bty4nuAmMvaN-GMedNS-HfMSOSydQQdbWVzInCuASL61n6xapmJkuAl8QuigRdfrnyb_WXvt1oozVY6i7DDVKpRbquPFmeTNC9oPU_H6-v25q7r_LIAgr_zEGyIs1iNVWbi0pPoZSc0usZuLDQZ7ySnT9fvmF49ibNAbsMAliPOL9eDVUlTeDINoLJKz-2DhneyoonkTFmus6BSevzmLfmP1BkXBiqEMb0qvfdFH5Sh3i9wm064g0egwudy92KuSVYicn9Eds7bGYIMrKXpVJ9AGNvJDbwpfTQ_48or7iPnHFOZRg8bo8Ob4nxsbzbSjgoaVf6l2y_FupIkFBIRh5BBJXqp1yFjnX_E4V42rwjGtkbTgHNRFBEYGTOq0sl9_wK_FpxhHQFFUnkTaCtqqWEpMqZDXk5E239l_MrJEhq114_X1xcxiBvopK_Ef26AFtqE9068ZfF5Ot3Mk9rA-0yASTGgxeRLHdmvVQ7m4lo9ggASoJdXMtZWFzdC0yMM4K.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg"
+  },
+  {
+    "id": "",
+    "name": "Euro News",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Noticias"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1728995736/ei/OA0OZ4mSKNnuir4PybWlmQM/ip/20.102.199.105/id/O9mOtdZ-nSk.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-vgqsrnsy.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/54MbxfzBpSOT0d9BoWIqAeanQv1HC8dHBhKE2lmZUXBw0H9RHHyurqBMj1PRZ9o/vprv/1/playlist_type/DVR/met/1728974137,/mh/Ly/mm/44/mn/sn-vgqsrnsy/ms/lva/mv/u/mvi/1/pl/17/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51300761,51312688/mt/1728973109/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgJsxIGMxBAN0CEN8IIhg6ijrq2YE6QtegFLww1PLBu50CIGJFmFAL3-oFfZdZfBD35y_AuvKNGMBK9gpJ-jJm4OJI/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/ACJ0pHgwRgIhAKbuIDZ7m9ACc1lXpkZCpoHbIIT6Iop4_kBFgQhO7K2nAiEAm4V0YfAZ8rFQv7XFBClpqalACOIXBc0-icQ00vCP3Ao%3D/playlist/index.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png"
   },
   {
     "id": "",
