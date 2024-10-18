@@ -33,6 +33,8 @@ http://168.197.196.98:9981/stream/channelid/581244389?profile=pass&checkedby:all
 http://190.61.43.118:45000/play/a02v#checkedby:alliptvlinks.com
 #EXTINF:-1 group-title="Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ciudad_magazine_logo.png/640px-Ciudad_magazine_logo.png" tvg-id="", Ciudad Magazine
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/768px-Net_TV_logo.png" tvg-id="", Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" tvg-id="", TNT Series
 http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/49982#checkedby:alliptvlinks.com
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1280px-Universal_Channel_Logo_2013.svg.png" tvg-id="", Universal Channel
@@ -98,11 +100,13 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/49316#checkedby:alliptvli
 #EXTINF:-1 group-title="Películas" tvg-logo="https://uspto.report/TM/90216993/mark.png" tvg-id="", HorrorFy
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 #EXTINF:-1 group-title="Películas" tvg-logo="https://hispanicprwire.com/wp-content/uploads/2017/06/84888_1_54838.jpg" tvg-id="", Cine Romantico
-https://stream.ads.ottera.tv/cl/241018cs948nklmn7f9q30q1lg/1280x720_2300000_0_f.m3u8?i=475_656
+https://stream.ads.ottera.tv/cl/241018cs965lj1sa9n8it48fc0/1280x720_2300000_0_f.m3u8?i=475_656
 #EXTINF:-1 group-title="Películas" tvg-logo="https://uspto.report/TM/88914674/mark.png" tvg-id="", Top Cine
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d5/Cine_Sony_Logo.png" tvg-id="", Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 group-title="Películas" tvg-logo="https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png" tvg-id="", MegaCine
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Tv_cosmos.jpg" tvg-id="", Cosmos TV
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Filmstream.png" tvg-id="", FilmStream
@@ -146,7 +150,7 @@ http://premiumiptvmk.com:8080/F19236/516c41c7/8758#checkedby:alliptvlinks.com
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Globo_logo_and_wordmark.svg" tvg-id="", Globo News
 http://yesimes.oknirvana.club:8880/D12m2555/52433416/2487#checkedby:alliptvlinks.com
 #EXTINF:-1 group-title="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg" tvg-id="", Vorterix
-https://video-weaver.jfk04.hls.ttvnw.net/v1/playlist/CuEElFGi2O6Ji31SxIxeJnxY78s4gxKaaxMBBlnIWhurJ_qT5buErBB1e8u0soLZZNq5xOwj5BmOw9PtE7ZiCc2j2-c8olYA_vvo4Tu6y2g3wzPrp5i1CpOrww4rPQRzr5to0YpJG57gXkiAfNPNOJziCb2IofBJn10UfkhxFS7uEvh0KhB47hkZPjVfQw_UmfVqXE2Ov3NT0hdyak49bQMfyZyCNC53nJTmjLfYvtD5KpEVX5-09Ymcr0wgqKAkCyIqTwDjSfll2vZKaSjZArsT3qLqdla0618LCdtsXDfMvnIUQu0CH---pdRiwro-d29K3ZmNRkrCt29xEBrokz0yBcohV89DTat7l4loEjHb7UsozM3mLC8xWAPgmJU6y3-rp5ACHHfJexzxKc-OzrOj_DsCaT47xOODEmyzOHMzHxjztNTcF2AhwwrNP_cftMXLK7YAlC_s0EiFxQtRfjJIiwxXH-9IWhpHsXHpEYRw-laAaUThzmZJsb03LiHMkZIPxoipih1l7ltKVnEZrMPnLlhQfVG0Y1ly8yqIntHmkWw8cmF9m1AdgCZHPgPwMJwzuLA7yQsC7X_-C4QRZIwrT1gzr7TmgZPRR1jTQC-7rsJwglCfqrDCVJOhiP2lpeji8tEiyEzZbgAlfAzlfRI_wCbvOXzR9Tz0DzbXV_xkgxxNfFWILdSSEsdZvbuL45ywfaV1cJ6QFCjEB2xKWwMaCm_D-xBVAq3YnetWXki3MFou4V0ClTYV4Apk9N2ZHanUZ-yJ1jPmrbSKGMNqM6WAPghIE1ErgA8ypaBU7go_-joLGgxGnTrR80fpQYINxoAgASoJdXMtZWFzdC0xMIgJ.m3u8
+https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/Ct8EgB-vJ0xhroA5unbsz3-j5EfFM7dsbm0To3TbSNzLEj04UKnP6zZhBBBeWNMZ0XbRxQqdCE_7KqzFFkiYHXieqhi0p5ahryKqzRSjMFdOOrCwZAZWs8nmY-ELKyIMOcMG2-cB6cp9j8CV9DvGSHWljQg3PgIi6NVPes2J_JERo4n2XkIIg5Zvs6EpV03AzR0GjcgNGS8HKLShQAOJPoox2EwsuLvx8UhPHd2ldsGCPMiWUqS-GC06ZusMxAVQBjoejtkbCMVuIbLjwqEIfL-_9nDczDqG7vEcmwJN4hD96rMtqncuu0seZGhRjxNQHgJIVNKY8kpwnPiOsFcXBg6cGn0yGbCJRyiyZoPYBCRthNbY2cQOVUKWA14gT3Ewa2ccdXczZlwE1lSdLC2QvRwDHRY7PrkIPNlpBTe8cacDtMgqH_AIZ2eAwRdqN1jYHT_qBgP2kZApJJg3gjtc5hrvZ20xnkslTHUZPpScEevWV0XtvU-fRUIfhk3uE24OP9Xh63k7mJXPbpZu0fQq5xt_jaalAZbJEsS_8YtW_KXWkGnEd5RJVEK4ifEvG-lPxetg0ElgB_376pBfX9bgmWXUb08Te1o4aXAU9TAAiCsL9FhsO6f8uHRrgr50hdlTNDJhnSkOSPuu70CLkEj7fHFQbJIuhIOgyx1xnEM_W34oZDAjULPuezMeRCMRCeX0V-SEl2kC4vQF2fLj8CGp5Z8OlXigPMhFezhEpaTdb5mOiGEMhhhzCnup3NlrNkAVBkfqlrCcpS2lG4ZozXCDspMWOnlbOAddBdA1IkndhuDP5xoMGran8bqIhMwnqmNnIAEqCXVzLXdlc3QtMjDSCg.m3u8
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" tvg-id="", DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" tvg-id="", Telemundo
@@ -161,6 +165,8 @@ http://yesimes.oknirvana.club:8880/D12m2555/52433416/49711#checkedby:alliptvlink
 http://abcnew.site:8880/D12m2692/94245219/49978#checkedby:alliptvlinks.com
 #EXTINF:-1 group-title="Aire" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Globo_logo_and_wordmark.svg" tvg-id="", Rede Globo
 http://abcnew.site:8880/D12m2668/24493676/2485#checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/768px-Net_TV_logo.png" tvg-id="", Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/cl.xml"
 #EXTINF:-1 channel-id="pluto-5e793a7cfbdf780007f7eb75" tvg-id="5e793a7cfbdf780007f7eb75" tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png" tvg-chno="1" group-title="Pluto TV" , Descubriendo Pluto TV
 https://jmp2.uk/PlutoTV/5e793a7cfbdf780007f7eb75-alt.m3u8
