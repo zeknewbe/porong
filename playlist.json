@@ -1475,7 +1475,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://stream.ads.ottera.tv/cl/241018cs96tqs98ab7sqo38erg/1280x720_2300000_0_f.m3u8?i=475_656",
+    "website": "https://stream.ads.ottera.tv/cl/241018cs97r51s3olv01fjv29g/1280x720_2300000_0_f.m3u8?i=475_656",
     "logo": "https://hispanicprwire.com/wp-content/uploads/2017/06/84888_1_54838.jpg"
   },
   {
@@ -1564,35 +1564,6 @@
     "replaced_by": "",
     "website": "https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8",
     "logo": "https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png"
-  },
-  {
-    "id": "",
-    "name": "Cosmos TV",
-    "alt_names": [
-      ""
-    ],
-    "network": "",
-    "owners": [
-      ""
-    ],
-    "country": "AR",
-    "subdivision": "",
-    "city": "Buenos Aires",
-    "broadcast_area": [
-      ""
-    ],
-    "languages": [
-      "spa"
-    ],
-    "categories": [
-      "Pel\u00edculas"
-    ],
-    "is_nsfw": false,
-    "launched": "2016-07-28",
-    "closed": "2020-05-31",
-    "replaced_by": "",
-    "website": "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/80/Tv_cosmos.jpg"
   },
   {
     "id": "",
@@ -2176,6 +2147,35 @@
   },
   {
     "id": "",
+    "name": "Neura Radio",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Radio"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/Ct4E01FQ6zY2chWM5i4v64RrDNtouGLpTSL76XaNe-kzCXO8j4n6-GgNBTrwYU30eRHCoGflXC37H265e9vHXRPq8Ze3M94YLB6EQf5mY9oRApC9Cwnumg1NBfsvPYOZmbYvjlfigGdDl5r7E8x-4nMpHDSXDiRpoZq-XNxoziWj7nda_yMzVZEvGWTxiaJUemMpxocdqxGWDvgvBmm9BGbEPhkdpCicrVKHnRS5qa3A8xcpSf9FByzJFWMs6zXJWF_I8Lya27BFNPV6oH59_sbpCeJ-3w7-lu_YU1lnVmhP0ce8yvi-7WplcwZNLI8ArpSccgkDchrPkUb4CBZN-K_apuqS2JmXGIAZBaTKnemaZ8yOnxYq1ULTSwrwcd3Ea4Ax39Kqf2kG5DhXSu-pJ4o8tHcn9H4ZdGFJNFfkkzDNPkRPH7q-3LJDJu_fEFy0Yq0M3XcQqQUmxvIiVy2g68a1gL7dByB7ZBnTai6vs_m6Z7xhw7XbCplQHt1ELOrhfObRmwOae-3lUFxYJgwsEHWZJYWk1hSvpHfp_VR7MU0AufYaq8GUHmQWgRnr91n94LZqiZWjrZiBrHHTIcsy56a1BB8q4AX1H_Ns6p6kYdbNBZKOfrtj_vkkei78nmMi-BrzAJMU1WcEttxFWpf6aBEW0dW7PvbTanbXucTqdoThvAMSK1_jXf5IcBGjDeJ9p2qfVBxWJ5tIdYvkd__hAx250tSCEeSlmU0__GltDW4-rtCdgckaBGU7nsotLumOfwrC9_IcsX14xTbXJ0sGdFaOPHy2yj8laaQdOY6VkDfdGgyxER_wMBMSFjawJWEgASoJdXMtZWFzdC0xMIgJ.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Radio_y_Televisi%C3%B3n_Argentina_S.E._%282020%29_%28oficial%29.png"
+  },
+  {
+    "id": "",
     "name": "Vorterix",
     "alt_names": [
       ""
@@ -2200,7 +2200,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://video-weaver.ord03.hls.ttvnw.net/v1/playlist/Ct4EypM8saZZI68V5Yk-TMF3IHty4Y3lPYGC8Kd4YsxIC1x44qCJzf8LhSUsbD_rXy1k7sK0u8dI4RbLZk9serE4MNJUHCSPwII6st1vcfhoTMZWyuE65tQ2GIZn2LZ9drdWHe16nC2HPjiGMAIAbTdEnZcGugO-8IRkjaMp4lEAhBZyo3W8UEhRzla2MDF6uyC-Pu-VrGJG7ssZrzQ1lCF9KEfGazUIaXEQCDeD2H8IcPCqHXqO0udHD7xI-JyVPvEuBZYVIwPq1jR6i-lO0ofAkWjBw8VSuA_yFLxjFWHsQwFFPI2et7EkvqzMakkpuiJmWJN1ShMKSVkTzEaWAirbdcIF-wTIzGmjubH2OimORnwcX3p8Lf41ck5otbZGOREFF8fU2RkIjK7I39jDRe4htjretlvFSjCzLUcC2EvA0NLvHPPDXSeOVoy8VGDM8XJ9Owt5SnU2NzqA0Nz7DpfSo9lhNI4eXzKSrDuOPnzdgk6-Gyqj5oEAaSTZ5q8wJpMuOm27D1goFrJ7n381JS3crQ42OCXfdSDubbqyHrAKw_SVKmFGNDT07NuIQ9_qz7Ebm6a-KBhMd29oifDwNafOFNxYkX_j_HOSNstd2jrIIWIp5CHnj5VMNwo_51Z1ibB7xaGOFEsQ4i_59AxvWb94EVh_lDne_rx2Il_lWnDscq-bSFIXHPmpNRwsfCrOMCsaUSaUUXIHYS4O9471Thuy-PbnoWoh2fH__Ls21gBuUzdUkYDKzcD65bNBf5YQbHxWVwlN5S6lAy61ANtirUUMB_sShAyr_bsDzY8JpwDIGgw2k_kjp_pxEPkBQhggASoJdXMtZWFzdC0xMIgJ.m3u8",
+    "website": "https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CuAEB-5UtvtrHnpCgJWG9rig0h8wadDMTO_tmSswdhOjhVv4DwjOA-PfaApZ67t_GU4RqDQhVX2Tdnna6hDbW0yVUa3dO0QS7nAOr4g0ovEIeXi8_1G7Y_Myz_GOtEW9aiShDsNUcR-2o_hsePW7eqHvDm53Dt7fB5-V3MnSf_nersXnJKfZBUgmgYL1Z-vw37Yz4amrEME1117C08f0vkoilm7nmsmcgjUKNAmGoaJayCz2R8_bKQDl5BPr25mknNkGipqwHGoTgMGv7226cubkBnsQ5adZyhfNSNx9U-L9O1B9eysao9buyQLKjzx9wkD4yARBp1TIbN-zo0uLPRujuS9hEOLgXjFLxnUdbJqCyxSC_4fbsxtBYM6v63bZgcKRlruzSHzIWUxCmrKjrTFDqi7FPe4U8r7tfEMgNMkTU-oSYyZ75YoY9v1v_FNZC7PMzTVZSuFm-leU-q68eTFfFU3oabX0qbxDFiErU48o1feKMP-MNPJ5He3X2OYbPJE-bziEgomHJ8h5UPB7OiYPq2QgUUmRy0a2Ms72ZDh2C9OmpdrmdeuvA-5sY586dDBIHspDgwSORpK58SGL88E-gA030ScrB0rmGWGT3qmgpizBlGaHPr4vufqWxQuaKn9-ZqMo_Nauv6f1_b7x_HYJXoDlbI6Az1vjh9eSoy_znkeXo1BkUYlFCqPvU7aP5m388v3xGSDTkhj5V-XZUGt6EndTgiN224bvc41xbdSdddmxG_jshJUNms89kid7SK-Xzd5GLxkMXOlxl9wKrdPs8Z3fn-ZgsGL7tj85sJGljlIaDK50o1GAOeUY-QuyVCABKgl1cy1lYXN0LTEwiAk.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg"
   },
   {
