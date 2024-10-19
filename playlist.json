@@ -204,6 +204,35 @@
   },
   {
     "id": "",
+    "name": "Fox Business",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Business"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "http://41.205.93.154/FOXBUSINESS/index.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Fox_Business.svg"
+  },
+  {
+    "id": "",
     "name": "Schwab TV Network",
     "alt_names": [
       ""
@@ -1446,7 +1475,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://stream.ads.ottera.tv/cl/241019csa1an4puupapaa8ud6g/1280x720_2300000_0_f.m3u8?i=475_656",
+    "website": "https://stream.ads.ottera.tv/cl/241019csa25me6drnqgkg8qqgg/1280x720_2300000_0_f.m3u8?i=475_656",
     "logo": "https://hispanicprwire.com/wp-content/uploads/2017/06/84888_1_54838.jpg"
   },
   {
@@ -2171,7 +2200,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CuAEJ_aFwzb-dieqkaJjg5KDhPZEsdbz6Ivomu_kJUqtY5horOr__exCnOUltxceTGwDbbNblyBS_xdlLmIolUUIiyfCAeWeCqau85Ayfe6BjnZukY6P97APeMHVXnp05CZFhN8C9NBzUZ7B70_xud5Vu-HFl4ko0hkInlAIwljOClN4qbmJAnCemE1K5YvGsF6b5pj_TAoo_QFpVp-rCRH_O7oh8qdBMxZ00b3-6ynV-j6wBgX7INcBOQWoqhkGLJPonWzI7yi9QWhw5ZcaoFYQOaMhgWJVzJEC9W7q4pMB_mP3lid2qem51x7zfdc7XrqWnyfRLZ2ZlB-l8Nm3pbt_AV9MKgTU8wZlgshgjcoAuYjk2VNakEkX5vT57BkI9Y9oiX_pzRKCZWPC1UIbRdcofy_z0ufeyNKvRHpuXQQOIuoDcDCCaBegJKa3fONT7I_bmMzYCd1wZ6vU1LO4_ljeKnhpIZo2qNEaFzG7LSEoZo_ozE-qKb45GM3sF98DeYwaX9HphrvLMqlisNA5N0D0OzzW9ZaqADKhuszU5Sq5Bt6kphKlxJS-YYh5GfaYNunyNJvXqkqqenHVTtmjeqQ4W7v3IhlDftXpRPosJ8UQwN6aI-VAAL3diXSh2KhBRuwhb0Mi7mioyOTwrHPNlQoiDIikMRueFqcGggeHf5wORZIA1MSXK9OxVB2Dz3Y6q_WkV_pwKthQWX5aSH4-voPJR-ciZ4SqaWzhzs6z8MBhs7rDrmkZY4AJv2n726d2-y1pEeCNzSpXrWV4lFtVoLPSqIA4muGzNGUa5FJC9B5svioaDMFBskItzoGHjZi50yABKgl1cy13ZXN0LTIw1Ao.m3u8",
+    "website": "https://video-weaver.atl01.hls.ttvnw.net/v1/playlist/Ct8EcgLbO1OHWV1V-92K8YuuiPXRbJypI83-RdUdb_aY0LntBorC_LnKnVlaW5DhuyY8wDKS2ZbmWKlwClS34qJgdh7dnzaJEYTPssU1XmfWsv43xRaIkLeSyC4oYFErNAiOa0kRFFJ5lSYQMVry_qVmz3UcdOjhnKqP39sgxJA9uLWbsBc6kX55nLBmxpmbFN4Ip41x-Vr4aKg1tLr_P1Micn5rTviw9Ljfz4CzkpaMnTCC5cFmtBJ0GcjJebwc7V6pQ9EkQOdOkSle7tha508aliLZOcNQg9gIAOgsVmjKnafhqbLfCxXctgx6ohhu5VRkGY7kI4oZZvBmWxKRRDh67dklvs7irCE2N0THGAoi8iIALdJm8r589tkeXRqePS8tduNeXJ_ty53gALcX2tzjQJG-OCA7UXyK_3HGCnZHSpfP_0GGHUq7XWthBY_kcb25gIhBHO-0JjxLxPMPXCT_FRAxHL7JOSIfOhMC7J3MyZfmA2EbRhGjVX1nbCwISb-kb5ucxfJOX2BTHTonK1xZNyrejHH1fX547gqVQ4Inh-k5F0x2zl_oVKEO6am5kpXrMB5ttIW_ZiBTAhsm8mr0AQLUoRpAtM_Yhtxuc0VhhWtdRCzQQNaP2jaHrQwZxhDkbFikDoJxACh51Y-ddFvH2snsWURUUEIK8aYJMXgZRqMimD0CkzGGcNsxw4DsC3azFjgrZqboZ3Cgp-SYMm-dg7Vmu8NmIvNbhqmEndQ89fv7vA0fMpIY6H8RT0sRgXdzaTWHNoH9507G8AnHcmf48hJxmNRIUTmgdxYfj3LvDxoM3zo_-yBmS2brTYXoIAEqCXVzLWVhc3QtMTCJCQ.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg"
   },
   {
