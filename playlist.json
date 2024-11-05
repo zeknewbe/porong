@@ -204,35 +204,6 @@
   },
   {
     "id": "",
-    "name": "Fox Business",
-    "alt_names": [
-      ""
-    ],
-    "network": "",
-    "owners": [
-      ""
-    ],
-    "country": "AR",
-    "subdivision": "",
-    "city": "Buenos Aires",
-    "broadcast_area": [
-      ""
-    ],
-    "languages": [
-      "spa"
-    ],
-    "categories": [
-      "Business"
-    ],
-    "is_nsfw": false,
-    "launched": "2016-07-28",
-    "closed": "2020-05-31",
-    "replaced_by": "",
-    "website": "http://41.205.93.154/FOXBUSINESS/index.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Fox_Business.svg"
-  },
-  {
-    "id": "",
     "name": "Schwab TV Network",
     "alt_names": [
       ""
@@ -1446,7 +1417,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://stream.ads.ottera.tv/cl/241105csl2ldsefog5cs323ol0/1280x720_2300000_0_f.m3u8?i=475_656",
+    "website": "https://stream.ads.ottera.tv/cl/241105csl3j500dmumhi1snrsg/1280x720_2300000_0_f.m3u8?i=475_656",
     "logo": "https://hispanicprwire.com/wp-content/uploads/2017/06/84888_1_54838.jpg"
   },
   {
@@ -2118,6 +2089,35 @@
   },
   {
     "id": "",
+    "name": "Neura Radio",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Radio"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/Ct8EqeuuYqoBG7ToG7eK4gG-Ka8dACOs_iUGZFzGAJbtPGVwkTxEWpb5DQViNcT6kXiXG1tiTchOsciDkDTEhLarKLYuAvDVO8I_o2B3Mp95GkRiipqDyE9qdfP8788g-0nQOGpnAOsnQ0BotNs0v1YRkhJlGGWajbeKoYMUsFu-6_Da274q71mlQt74FbrjAHNhxejo1dIwtTwRhXgKZ0JPOPAzGTbkztYT84STh_SZqJyRDkOz0v_F0qDKDjAsw3vizTz9E2u-29F9-cPOOaOWBe0ooxSDXMGbBISo72_N9KSCj449tchx-2ohNP1bf_yFhlmXvSJ8vuiBclqLxa1hqsaNDBEDKLsTbutCeMSra7yy3TlygEbgyYzbqSZ9nLicokBzbQ8vmnr43dnfHlinlVPwtRyZgeYmhHco93lHxJ-odzFEhnsd6aHbXsYMxYIn3QN68om9NZRJQnam36kUwid4KT_O2nsOvb8CrZTPDywy5LdwxMCWMh3p2tpLNsj7LuLGo3caBm4eN0mdETIEjeJ3o9OF0GTjCBFv7ZjHAdDYi6qNKlal7AEaJUBp3Eu30vvsTatuVR_hdl10mpHfI5e86KrUd3l__veEtT9DELexCEOmPXVO-UvvOjQdMZ-XHWehfbfe61bj9d7zK3NLTQqLKvGyyBWKBHvX5WCIWLbNmZQbW6cLuXq_oinxEHi8T3cXwLExgFsLL5ir6IliWDKB5nOx7i_HlRP9aQ3uPz9RFJOBejzoJ3eJVr7Q3NiQ2FaiqfMoFqpG8gaLm4jDXICCXMaxF__1YgBxZ_NvoxoM7aOAIzgQNtoKOYBoIAEqCXVzLXdlc3QtMjDkCg.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Radio_y_Televisi%C3%B3n_Argentina_S.E._%282020%29_%28oficial%29.png"
+  },
+  {
+    "id": "",
     "name": "Vorterix",
     "alt_names": [
       ""
@@ -2142,7 +2142,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://video-weaver.ord03.hls.ttvnw.net/v1/playlist/CuIEQj90hBvbZsx0uX_b3ClnDImbSZS-Sp3koK_09JksNRiOZlQF6kRF-1Qa1Mtl0YJxBZlNKOK22gvX7F_zEu4JCCdNWDMb6ifQSY1SijFkF3ksTfu67AxmPooC6ELB33h8sDN2WeeOCCMQIHo1AyHYFR0u0JqMN6drpu903kL_Wz1lOwVTD9h77eawyrgCQeORw4kFqWG_G_KNvoDkzo6v3UICB1gW0hQ-dpVnSj6IN0tHH-8Ba6Pxomdb525rKGrVKDaCWxG2HWSCTpuTULSZSyL-BC5rkX2Wk4OLB8aP_xElgn3pfMLCQNPCwLhryJyPGc1pTCTX3j5WxfxksxDepU0si7bSR3nLMlcM1zimXer33y-APRU_8-oTYZCFxEg3tiBevno8XN7B7nB0Xx9uRQ8YtZVcJnPlaPlPbPzR0Lr_yK8kQMm0utsb81OZX8ZXjTraAj0yWd1t5fj_LqJLoOz9VLKDlQU6hWFvtLSucVlGKRd6fupzYju8qUQ2K3-oXaDYSH2P95Zvhork8RnGoIdM1WdmQyzxgfsaV02SJMof3mlXOT3qeSThKC5f25CE2ucKu2Mx_v2wqV9XOzlUdBEKZasciHm0NvgU-Sa3LG9eDBEM4k6CGrArSU8Rv0BOSwHuYcdunPbhW0XOwt22zMoI6PFrlbWweqy-RWr0ZtddMSbvAvpKnoXki7mKhJdCtCNhWOnXZdnBgbEIB1wZrnOXCOz-v_7yFXTdpoiej5xE2IGVv4A_GjSfOBbL6yMrBihTSs5ToJm55V9misfS_e0LRia3hHkjoKEqlJG0yzoyUhoMxhxQ70oThMjJjrNQIAEqCXVzLWVhc3QtMjDjCg.m3u8",
+    "website": "https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CuAE20MYB0I0Xn6RoYGm6ILbQXAd_J_8isG9acHLMSUiu8aXp1jeKBKdByksOLrpNR1C7A3GOurW5BcRwPuiLLFq4unaJW9WMux121lhpxwQgaa1bsFowqpFKgMxey4HeP3vQQkKNl0rU2LORdN4lmeLYwEvI-wc_V4Bl0NDFX7RB083mlkKzYnVa7u1oDKh0Pv75hmwQ_R0oqdCZT7VLwvvhalNotZhU1Yy5E0HkBn0FaYXjAqmJ-nTjobovE-rc3YGdxdxlEQKhQ4EyRGo2rbPFAmJoeW31ZRkkGGTs1WG9iDuzlgpwhmFRWfKd1Fppu762_rD0n3wrOIgQcw6btxPWahJVadJfNo_HiJo1ToM3gExC-1f41Yh1cHZMRxos6HLdjRY0hHmG_JgAeujnXW2JDe9SGtB0v8il7h8PpsWvQaQ4tiUv_M7n-Z9kGDZHp_TMVw-uGhooKN1oQmRTZukkaOYiWR-GQBX097BmoewKQOCnR14BiEx98QHvzvnMBlpg7dh4564np3kRLdvo9s__cD492o8zXVzU3s1QFjJAYOw5RgRZpUpyFCJxx8BvHWgweYi_jb2pkXr9q2_-4wnQMFWHAVyXpAqUGdrzuNDcLbkaQ93ar8NgFq-7z4vQbHiw5rd_xVnVYmZg90Y7vXblHqlH3TerDbUeXI7CcHDyDqLPI0I3uS1gS8Ooz03881AUiT7FQLyWrTRCxGiioLMD18DHjN7xsU-laU-XG5itskVgSeaiKC8qFFnJ4qkoxV8DHD2teDYQl_8T1Vo6Z1ZhmpbXdma60-hEnwNNoSnKtgaDMdwBOvgoAuLCESCayABKgl1cy13ZXN0LTIw5Ao.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg"
   },
   {
