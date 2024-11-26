@@ -494,6 +494,35 @@
   },
   {
     "id": "",
+    "name": "Net TV",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Variedades"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/768px-Net_TV_logo.png"
+  },
+  {
+    "id": "",
     "name": "TNT Series",
     "alt_names": [
       ""
@@ -1417,7 +1446,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://stream.ads.ottera.tv/cl/241126ct319odn3160id234ol0/1280x720_2300000_0_f.m3u8?i=475_656",
+    "website": "https://stream.ads.ottera.tv/cl/241126ct320devrb6i26m28jag/1280x720_2300000_0_f.m3u8?i=475_656",
     "logo": "https://hispanicprwire.com/wp-content/uploads/2017/06/84888_1_54838.jpg"
   },
   {
@@ -2374,7 +2403,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://video-weaver.ord56.hls.ttvnw.net/v1/playlist/CuIEuYb8MN0QvfEakGNCEdbNX74UUesNIP5LuhdzOwSWzRNKu8CVIgyQ7B3k3UjAeKr2ZRIJEc1JceoUGFLd_Vd39v5FQtSue8pdoMXVZkMc9mneUg--6Diqz20GQuG2lVOtOom2dXFMSBJ3ivW02n27rJj2B4YqkX4AbWz7LSFT8gOVXoufJjFfG3cwe1aTxCK5VDl0hcI3M925XH6yrFJSYTx_CbZz-QSkkYjFv6wYIyTTd2sekNxErxUD3jJgRi_Kj7tYjUClg5z9qkL24uX2USiTW6k0VWUlPlji8wruiJW7UlBtgZLR1-dPSr2xiKRrptOUXAzK1S-AIdphoK8mCxlzqSbDhvTsMFDbZa0lEJz0oXJXz0JGowelAUHcJxZ-3pnCFbtpvGCuOYGfb7yc46J9BGUBtkOGqXLjlNDn0Ikgxu-SCv6D1-oU_zCzTtjQ8unxkKQFnLCxk8zQEk3X5qGN_hJ-W6pS7yBmlYlX8bTzEcYcqAHjwm71veYXmLGIHri4kjArjB0fufZVuBz3p9rBtic0z7JJG3UCcijfLw8w_hy-AyUXymIj-za-ldR71zT3quDjWcj_-ATabKz4H8NYIK0eyECVinQ_qmOJ4mAoXiXoyeGEGQiwVigOv2kjasht2_tz46cpVhV8s0hwQXHh7pgBFTM0cbcytkUDdFGSUMFPzC0vVSVSPcbcy98I3LudPvv_S_VXJfO8LrIANt8c-bP7fP5NvUw7NXjNcaWD06_NHVlWJmkDxMwIGYobwps9lCfaPaCpPaUCwRRrO7b2yQywOioJXryeo6z4RnS0_BoM8DuNasr6b-GBQHDAIAEqCXVzLWVhc3QtMjD4Cg.m3u8",
+    "website": "https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CuAEZ0Jw-VM7YpHP0lF209PkRIhpLqkCnicM10Y1RZaxwf8ssXJmy3hMwbZ-KXukQHr6UUWbC7Z7X5f7T_lxBe8KjznGc9hCmZAoC1BdZrItC9frGalsL18Cz-5R3T1asBIB3a6W8Z4yyUBUN7h_WHiJMS0fEv2Z6WCLpHJQrCTLXgOnwh-_6gwdA1Cu1_f0HU-XlU_XzAyi9Jcm6xSwFa3p2QZ9nYu-Tbs4-K1Ao58cyo7la9iCmvRD3inT7A5qzAq_doPDszZSKK2ZVEUsZ_fwvQtJJ6PwvtkqjmNAV9FDQOjADisF5m5sSstPOvriUkTP7IDz_u6ckaxKuhTwFWs7inAqbI_cVCj7Rq9vq7swuqd9Hb3S1SE1zRJveOvDenzFwqjCl15aTvi4qC6W-PJpXtpAnRdPF2uJn_jiJKcSzMS5isdZJgLONO5YOjZlbQ10iZ5KiW4SuqRBLi77KDRjDH4WQB7Lfk-XJwCM32P98KJzFlJWfxP2gTd8lL0vSfOMoMJNn-u3p8VKuURvTDemqi6I7nzdobpRveV0APMMq2Ckbh_lWECAFnehbhjJbRyYi-1Iv0mN4hQUqmmCAChofhf1f44fzALPt8zKMLw4AmUCSJI4AALJmOlfgdezUjOZ7zWlMynM1YJkwwkaD5zJRh6plxxvXzVGfwo3eISfC4K4xjrz72MK0UXMjv4mkwOj0l0lrIEF7KOZMSJGkSwSToMFowF5jg_Q_whtXE0dlNxcN49b2BMvyqs_uXA4_Dmk5h1VdDcSDFoTSWOkHgpP7Mc91lNL1gbtEtQQc6r1d9gaDKig1q7C0-PuQMY6BiABKgl1cy13ZXN0LTIw-go.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Radio_y_Televisi%C3%B3n_Argentina_S.E._%282020%29_%28oficial%29.png"
   },
   {
@@ -2403,7 +2432,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://video-weaver.ord03.hls.ttvnw.net/v1/playlist/CuIE6VIzlY2qZqnxUVacRlqDzbdp255FCC2vBBFvFNdkiDv1OZG9roBlNxlHzVgYi1imzoim_F8uQ7rdx_afZcezXp96H-yCY0-tFzzNcK6syjwF-2BkkT_uThYAbj9KvHWRYDxJk-Ao51LfnEKrNROzW88dFFRGDVPumi7n5StKmKzqhot3_zB8g3Mp36JF0Rg3sCrgy2qwKoUrvU4gsWY9Xtj_x3PgzCiYJLbABoscaEt0d9wSG_OcoslOReOW9CYvW-PrOrlQVveZPU3up__1lQiywAXGf4DxdQTAW52xv_pYrexsF-fElJ7dZWJK-o19vB8NnNQcSccP5DecxziESy23tlCq_AX7S52IdMXi5tRALxFFAtuGvWyg87OVi-Jw_TOmbPDesRz4KKwJDFv9wmUZQnZ9aZFfGTiYD24bGLwPqwoir93zXJX5p-jfW4pROkxaTWJygISo_BMYziRZ5x3k6yWXw8Ayi-1qURLkp3N42j30difDSryWn3B8g-ACX7BOWbg0hB_ZJZ9ze06D-gYxR79Kts1LjcWuSHMHKwCcenI9F1sx_j6PjFxvQc2OVKK01t-SzgPBePHNngr-OcZOKeMlZsSljnCrg5cRL9HCL5qy_o2q2wkBVpmZYKv60V3AOF0BkRSEglazIoswDZOvttaBj97vqPy0kWtBcEa5WEnuFA3__IQA3K4E2A-MVxxfVZ2KCV53fJBRGlhrgos01I4EYd_Stq7AG6q9bpaT-u2aFHcdmeX_PGPOt2j0jLi6GnESsiuQsqlT23T1JqQdhiOXCuHe0ny-4Y4l0VPajBoMZJSRNwmU0t7D8ebNIAEqCXVzLWVhc3QtMjD4Cg.m3u8",
+    "website": "https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CuAEHr2nH3hz2RDdU0WwWmuoh2ErzA0IO0q1rCCIDWu_XBWo0T6wnpEOOQ3BseXfPO3RHvLvKC4svLoLykKY23CtHsHzNVKDkdtGSV3Ee1gOc46eJRc-98egZ4RfbTeKl84C0WFhFtcvXBYdxycHLICf6VqwiBWscJ0gxA_q1o2ydk4B4xnoL6S-5WYzXS-MFyYXYTWbkyOimui5P7-ia3s_5q5nKDT511UxKO92NSFU5EQGXvrDKDqh-qwTg9K3-fzDb2vuMXlqkgKeh6NwVOZVSd38LTCmgWQRXcdtQnQ9IqDtEsBMuabISClUELqTl4-7rMHaIHQjmL0nJ0WcBVfy0IB4rrb_OeCtXLfjXFIXmWyzAoN4GrFpaQlO55AZKPzdskInLHl2N2PZev9G0ikdXqZ60NRtHdr4y5q5haWFkKIGiVsc-TjZHK9jhK8xfJI7mjosnht6BF-K8B9ELb_pOMMQJ4HzoFNsHlqOoPUKPJIP_5m2gjinUgO2BbkxEO3QukLgEMqfLw8zvw08g5t_RXczIfgUf9eicxxRcWNR6LQ1s4i2OaoOfM3e6wRIr7FvyJ5tOGOOP7hw6VvymDnqz-hDKiZA_Qv12d-1J3WBE2unZI9JF3k4vchIe1RNs8APxII629iAhevKkFkR64URAXHGp2AO-8ZV1eHWgW3CAkWRbRdq3dxOHa2AxR9qYTkiwtaezZq0Tbe6dIBlz_NGsK7NETt7O8IN71IyhX3furTYXOUoEpaiplHj-HWoZE9rbl1JQ8MNzQU0tw6UjL0zVvNsMw9aBN2tKUWESLABFr0aDOFaWS1STnRAwRxveyABKgl1cy13ZXN0LTIw-go.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg"
   },
   {
@@ -2637,5 +2666,34 @@
     "replaced_by": "",
     "website": "http://abcnew.site:8880/D12m2668/24493676/2485#checkedby:alliptvlinks.com",
     "logo": "https://es.m.wikipedia.org/wiki/Archivo:Globo_logo_and_wordmark.svg"
+  },
+  {
+    "id": "",
+    "name": "Net TV",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Variedades"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/768px-Net_TV_logo.png"
   }
 ]
