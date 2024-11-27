@@ -98,9 +98,15 @@ http://168.197.196.98:9981/stream/channelid/1047753039?profile=pass&checkedby:al
 #EXTINF:-1 group-title="Películas" tvg-logo="https://en.wikipedia.org/wiki/Syfy#/media/File:SYFY.svg" tvg-id="", SYFY
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/49316#checkedby:alliptvlinks.com
 #EXTINF:-1 group-title="Películas" tvg-logo="https://hispanicprwire.com/wp-content/uploads/2017/06/84888_1_54838.jpg" tvg-id="", Cine Romantico
-https://stream.ads.ottera.tv/cl/241127ct3dj3p5c8lb7fnqunig/1280x720_2300000_0_f.m3u8?i=475_656
+https://stream.ads.ottera.tv/cl/241127ct3eck5ru3hdhuvmit00/1280x720_2300000_0_f.m3u8?i=475_656
 #EXTINF:-1 group-title="Películas" tvg-logo="https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png" tvg-id="", MegaCine
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+#EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Movies_logo.png" tvg-id="", Xtrema Drama
+https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
+#EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Movies_logo.png" tvg-id="", Xtrema Accion
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Movies_logo.png" tvg-id="", Xtrema Kids
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 #EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Movies_logo.png" tvg-id="", Xtrema Horror
 https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
 #EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Movies_logo.png" tvg-id="", Xtrema Comedia
@@ -158,7 +164,7 @@ http://premiumiptvmk.com:8080/F19236/516c41c7/8758#checkedby:alliptvlinks.com
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Globo_logo_and_wordmark.svg" tvg-id="", Globo News
 http://yesimes.oknirvana.club:8880/D12m2555/52433416/2487#checkedby:alliptvlinks.com
 #EXTINF:-1 group-title="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg" tvg-id="", Vorterix
-https://video-weaver.ord56.hls.ttvnw.net/v1/playlist/CuAEoP_5fECntnu7CC1R8g7vUvPuENJQzFRuOB8Ka0q45n8s5Xob-7hl6G3aDCiQ_7cRleVR99iInZitaaa8JtNhcnSo1FWZrAT3xRmv6mynK4aujE7xka0UBjCYB0hpRuzZpcKL4klni3SjIFjyRNe0F73n53oT6-jRzWOBtLpsoRSgSua_6cwjAyjDEwcpOYHvP_v5fjEKj0vOjnBiFuCoakCdDbI9zWL_hkGEED271anYdu6zM9S_UnGEXk9WXOuMHTfSPCTIu1VUYEC15ckNX70U4AaqYoUV_scQWCtnC5HO4tuqZ_IrpV2PBiRMYLzqJumsmrgBsOtyUgDSeEwfdb9q3WXYuO3zcT7SL9BJohaJF2hLr58pTWIKVei6Bt56fyC4RAuJnq19Gexr7vix9FQq6zCC6jmJgzF95O_Vm0s74ErtdXL39aJNy9fx2hG1kXH7eT-hrrF4Nqt53zI1QVeBKe4GmY8_6Y5mx35_PcKLlJN-eC_Ymt-xY9PxFIs2hlkstdvgP3iRzWQi1K0NPCx597qixE0RtxaSUOfsFeUfVUpHg0y6Axnd6SfNoc6GuHtILleMdIw1eyCDusns_b0t5BNFLlP8wqyMZgkoHV9QWxrIrqaAuvEYU-iknG4ChUoTPIvARvNDFyvJ0DfSYAJ0Cn0VAVqxryfVb-mcx1ViU-hQ8AlRqgTjsnETCDbHXVtUhLGsi1y5lEbVtBZGKs92ehe7Ge2pQIHXpx04lLmnoVldvQrxabvPPFDkUjLlfVHoc2rm5JDqTIcYzYG3r-gpvXnSAgFN5pDCVi6gWdIaDNjnJ2Rb8745VU26-iABKgl1cy1lYXN0LTIw-Qo.m3u8
+https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CuAEyq3HmTVKiVAok9rvL0Y9MLK_a4MM_to4JCF5uQkaFgQCjcL7H7tgUVq6mpv9i-UhYM9HRSx48W6nU2f6ylHz9_wXt8Z7tqzpk4gYOeXzTQr5x44eAI3NsmYBM9G-jCz1usBGKrumcdGxAsrUV8hUFPvwBC1KXTZWPFw2RjceQp7HfO38tukbcSL1gDdDnbVafK9ufW8d5QxuLPLqZgIC0HZeJGS_AV9fUtY0LBZ184bBOrlZ1wjfunS4_0SMdkrqgmeERE7827SepTQ0NxNJi-JhoFVym3zuzPICKfYypJq0Krs9bwPWGinSdAPzANKdW5yVIeGrtMeE8KNYSpLWYe8oq8GK4wGSfvgnrNxBDJPkrR5v4PNmRJdVC8y7MjnkpzEUMgE4oo86DBzPHUFCgkAJd0z0u1k_Ub4wxUsDMi7YhOT5Bwv4H6RJnf4rXO16DXDM01uyWYnYsjocVQ1V0q05QZld4Rjbu6nwUNvGALpjDPFKJtPxD-iSRLVDx3foREdxJowmMJsXxwuNOGm-Q-43JYKqdFe-zEcRcsGQR_H3aZEHazLjbc8I04BAKJvlGfKLyGBf5UavU8vpjgSDtY7YSda0jedRxRa_ky4gESAlk87nQ38TiDx08hRqSP0raLIkAqvP-VoheaqtNZiip7YXOibHGkpJ79Zb_6gqMya--TPyLpUmhbRujV-nVlCrO7qvMc7tSPNNRfM-K50MoGWWeLJIun-jV1WQhHmrWWesKRyR-DvSZRXUc2EWjkgnQV_Ku1oFshQPpl2k8dKkjMR1Fpvwggj7e0KefRTBdjcaDJjcFmYhb_kxegI_WyABKgl1cy13ZXN0LTIw-go.m3u8
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" tvg-id="", DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" tvg-id="", Telemundo
