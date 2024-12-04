@@ -1446,37 +1446,8 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://stream.ads.ottera.tv/cl/241204ct83o183llrko9lddc00/1280x720_2300000_0_f.m3u8?i=475_656",
+    "website": "https://stream.ads.ottera.tv/cl/241204ct84uoah7h9tgbk2nteg/1280x720_2300000_0_f.m3u8?i=475_656",
     "logo": "https://hispanicprwire.com/wp-content/uploads/2017/06/84888_1_54838.jpg"
-  },
-  {
-    "id": "",
-    "name": "MegaCine",
-    "alt_names": [
-      ""
-    ],
-    "network": "",
-    "owners": [
-      ""
-    ],
-    "country": "AR",
-    "subdivision": "",
-    "city": "Buenos Aires",
-    "broadcast_area": [
-      ""
-    ],
-    "languages": [
-      "spa"
-    ],
-    "categories": [
-      "Pel\u00edculas"
-    ],
-    "is_nsfw": false,
-    "launched": "2016-07-28",
-    "closed": "2020-05-31",
-    "replaced_by": "",
-    "website": "https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8",
-    "logo": "https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png"
   },
   {
     "id": "",
@@ -1709,6 +1680,35 @@
     "replaced_by": "",
     "website": "https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Movies_logo.png"
+  },
+  {
+    "id": "",
+    "name": "Cosmos TV",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Pel\u00edculas"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/80/Tv_cosmos.jpg"
   },
   {
     "id": "",
@@ -2374,7 +2374,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CuEEF8xv2NBsNdBE-xahp-dHqLer62NlpPlL4sXmaRJbGUJsxYVMGd_ZYeju_JsfS5tZaC7E_Ol3xoDRZagu5jKPLO_cXyz_NtS3D3fNgrSesX3ctGkOrSaVrwLgsESEJCacjI9DFOStxMqNtAwld5W0HA4gPv-eF_wjTGKnF2AyG4iAh2g2eiSIldlJfM-_9wrQdufcsqhSqdvpsJjI9qnPy7QfYyEX5BQ-kKCrTPuH9vQIldb-p63GVldre0YYJYyi9pY_9TPqgQKPCvnGoS_71IjMyCseBnC03NR1xB5kAmD_nO5zjrYIsTq7NX0Ht8WpXY2t2h8IzvFaRNZxjhpnOdspVdaW1tkGy09A_GBw-x2dOoj_wHOpeLBtpMimFmC4ycJ5DAFUy3wDPEyk4bORT3E9y0nKD_V0d8SKpIfIf3V9BpAquUJJsJFQljqxaYLUuqDyU8xEqf_0ZPd3vCTUunHMRAhG2PChoZkDreueATctCKDN0HL1tnXTn2Gh-ztzfBiTH_dnYkZqVUiJCFpgVoM7zWo7uHc47dT8_GRB1JEjZCEfhZXMBkEYN5jPSfr6NptMTLZcqQGiEEOxiPbgwAY-4m5eYTZM--9RzveJ8y7mChOlaKYjV3gLvFp_ral0f66UOZAspLtbFGWcDUv3IEcCCRGdwKOR8aKvzhgfA12MCtPdbXxyPvxrJI-xJasMNmM2pFqVYljlKDI8YcfYTfKrJRN-N_naxx5RJA0VfKu1GkwXk9kP3OJ-RopbOfoXm6kd9RtPbDwxHVQH5q0YvPm6DcAg9ukJT0QAEIcGZCOoGgx9MAKt6FG5AMmLmhwgASoJdXMtd2VzdC0yMIEL.m3u8",
+    "website": "https://video-weaver.ord03.hls.ttvnw.net/v1/playlist/CuEEwSJcxxtmOTLIk_1jUkqyzbnIXQEgWpUgiPi3htr1aY45culs0Yl506XtHAarVaeJxscWiLItyoxVm5pWKYMp5sUNLqEgmnbTfLKguxMHezy6o_vUtsX8W5NuiFAVF_eu-MqfHepQkJdggBTz5vX07x0hO0i8ugPFyvmWEEsJZ4i7plvOri__ikoB6oc5YkCiW60sanGRAWROdRCz7PNRIfI5LDtXy3P5b0Sjd5vUL91tcruBLyGTsQEANm6Sht3R458tIcEYpjdzwN-ZEiPfk0vd2Sui901maJ8Ng6GtwFF5Kb_GdC9CGDjLc6MWEdSFKy7UMGGF3tXCh4O6REmkwKrwIEfmjcpOBD_k-t0diAUbYVB1gHy4385s-bbQRaFPxE27KkZ299XXLrE153lM_OH3Y2SaJZ_EqY8gDDsZfKMcIhCjtv4m6NVKHEq4Cq_NUWsm0GX3Zcz4zdHgmtWgS7msrDYEQ-zkmFDdjIhfgSOw8oHWf58YQRryTIrTTSLrMULYTZepM4TX58zKa62hFvbwC-pvo-CmDh_GjIUcjLSMGsb11CkDZfHfPU45GlEZCG9qxmZ6FBiZ7kmZKR11e-gJAOM6Csb5tKq1JFn1cFe7MZOenC-hMVtDO_N3yVb-Dih2vGjjtWfuRXMzl45pW7NNAYJJN-YdQpsIPioW_mtAOD9qkVUvJNPjCwK-0KA9SSmDLrv5OJFpobXanShL8CqcZ72_8jyD4ux5bCRM83-snrPAtwxziEOxf-8fzXv-RKN2NWd_HyyC5OhuL1yFylIlRQDv_eU1jd5GxaX2YTRGGgwvu_Cf_8j4jWqydNogASoJdXMtZWFzdC0xMLcJ.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg"
   },
   {
