@@ -1388,7 +1388,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://stream.ads.ottera.tv/cl/241228ctnl7bhqba63jb1o6sn0/1280x720_2300000_0_f.m3u8?i=475_656",
+    "website": "https://stream.ads.ottera.tv/cl/241228ctnmeavhmldhp59kmagg/1280x720_2300000_0_f.m3u8?i=475_656",
     "logo": "https://hispanicprwire.com/wp-content/uploads/2017/06/84888_1_54838.jpg"
   },
   {
@@ -1419,6 +1419,180 @@
     "replaced_by": "",
     "website": "https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8",
     "logo": "https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png"
+  },
+  {
+    "id": "",
+    "name": "Xtrema Drama",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Pel\u00edculas"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Movies_logo.png"
+  },
+  {
+    "id": "",
+    "name": "Xtrema Accion",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Pel\u00edculas"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Movies_logo.png"
+  },
+  {
+    "id": "",
+    "name": "Xtrema Kids",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Pel\u00edculas"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Movies_logo.png"
+  },
+  {
+    "id": "",
+    "name": "Xtrema Horror",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Pel\u00edculas"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Movies_logo.png"
+  },
+  {
+    "id": "",
+    "name": "Xtrema Comedia",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Pel\u00edculas"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Movies_logo.png"
+  },
+  {
+    "id": "",
+    "name": "Xtrema Suspenso",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Pel\u00edculas"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Movies_logo.png"
   },
   {
     "id": "",
@@ -2142,7 +2316,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://video-weaver.jfk04.hls.ttvnw.net/v1/playlist/CuAEDu8x6sJXQBthFM3fD1q5_lnRMSYr6AQvw0I6BCBgjdr7hCsBFasaTM-rGVuN1F10v1O1VbucOrGzEfvnEGRTpq3bAaeOFvN0dkA-imq3STiWJX3lV7WqcGqji8yCgDYDUOnkXRCDMiqz8liTtyPCichFAVfFCPFLX_Vd8bSsplSF7vwpmKL2nE7TSwPJRf0iQHphkWHWAMQalPmphrcDwmzBk372cJdIEbktV8Gz23TpKXQ1FSG4UBKTCavCX4Z-Hd-4Kg97dbvNaqggM8qaPcF1RPwhc6tAz2KDxMD_2tX8YKJp6vxv8R7nDMbGpwA69JNmrg5nBcgDd38_1sBNU7ZU43U0Jskyfk2rKXwFo4tutDwE4Et8ZEllKi88q2_XHDSOXQCfyp5ePIdNLjc2aFj6EKmp5qJPnxnPVfFAeY-8eE5l_KPrqNa8gR4nqDwRtAjYH1qsWs8MP-bq9bwuRSFQUc1JzqnojH281G9neWP8Biny7IVrtjX_3houk4KcS3eNLvzurEnBwTpzIhpoEwrw6tLmq7BStU1YFiZo60tO7GAURGFKl_LM52ltin9x7wAqOU1MiBu64RE75_MUeCfMnIOZbwSkrkysFceZ4e8Xg1KozN5Cw1UE-kXpmI25yz0-aUptnNQC8eIG38EQQol9XH3VVLfileyARuCSVIQiMfMkN0XKig2h_FmFw3npeAnES5wW29M1ZyDngjte08VbBXZi_QMfJ75V1pvHUpIIqdKrpzHx7WMtw14wh4LgbBO-89zRcczJhdPPsz-xfPXM3W9VYNUG_8CnyCVxeOwaDJ-x7vY6MT9IhtHygiABKgl1cy1lYXN0LTEwzwk.m3u8",
+    "website": "https://video-weaver.atl01.hls.ttvnw.net/v1/playlist/CuAEbccEeccpXYJ_yFb8w3KoiE7cVnOwo4NWGDaeqPPDS0-6S__d1rvBBC7PrO6NuHawjJettyULkr22viP88kk7-Y19x5fuXAW8QfihccByA32jj3kvv_VPGoGiL_fPujmkF9Ly_kpxYS3xACp06efOM-Pjfu_db08Grt9zz1X-9Gh7q4wrEjSPi25p3yc-TWf5fIWA6kdAZdar2-DH2sM9R5FGA9dlgNehYbQQFL6iX1_-hxPNR-fcgfwRV1qpXO2wpOwI-8hBozj3g7j-Io0HJiAumHA6ZSwFpssx6Ac1MeLnRDG9CFqyEcCG_9ea0EWUt4yhEIDNb7SRXguUfa_3lZvWqIRCmGF8yJufZhvrToIieXEQUiIloXorztkZxlZKyvSeEGdEPmIyy-MuS23RVeC6Riu2ZQpKbbv0m-dzl1BWEtMsEC6UC8JRDHOaVOYWrKKkd-wDWxObzSElP4vX8G4hGa8UAUqNmqX3hFAfbDpY4wvLdsSQz79lazQsYxE4Nkjm9scmu3Z03dqIbKc1zB2QHrHMm36Jk3zJFWPyWYs5ydtMZMHL4KRNpJieQBXAEGMvuLCbBG6n-TE9MWjjTI3VucUVXzqBJTaip3Vmp_F4tYh3zTXRnC7d2wkPoMx5pEaBMzx5AxzTRaoagdnyIxKS43EQip6Z-Xg4hUYw_uJSRUZ0D5x77yWWb_37K6ttwF6RHXk-DYg3gbIjNdodZ6R3b3MgFZtPcMZ9Z0Xq7Y6IHrxXGIhQHNuXLC0iUvSapV8U4gqAOnb__dXe8t3cu0WqHyVikrp_wDwYQXPSWRUaDH6iT--EOojjVY9KdiABKgl1cy1lYXN0LTEwzwk.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg"
   },
   {
