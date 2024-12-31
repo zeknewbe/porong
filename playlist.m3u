@@ -96,9 +96,11 @@ http://168.197.196.98:9981/stream/channelid/1047753039?profile=pass&checkedby:al
 #EXTINF:-1 group-title="Películas" tvg-logo="https://en.wikipedia.org/wiki/Syfy#/media/File:SYFY.svg" tvg-id="", SYFY
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/49316#checkedby:alliptvlinks.com
 #EXTINF:-1 group-title="Películas" tvg-logo="https://hispanicprwire.com/wp-content/uploads/2017/06/84888_1_54838.jpg" tvg-id="", Cine Romantico
-https://stream.ads.ottera.tv/cl/241231ctpqlno8pe7t6i5b82pg/1280x720_2300000_0_f.m3u8?i=475_656
+https://stream.ads.ottera.tv/cl/241231ctprfparev5pg3rac3og/1280x720_2300000_0_f.m3u8?i=475_656
 #EXTINF:-1 group-title="Películas" tvg-logo="https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png" tvg-id="", MegaCine
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+#EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Movies_logo.png" tvg-id="", Xtrema Drama
+https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
 #EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Movies_logo.png" tvg-id="", Xtrema Accion
 https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Movies_logo.png" tvg-id="", Xtrema Kids
@@ -158,7 +160,7 @@ http://premiumiptvmk.com:8080/F19236/516c41c7/8758#checkedby:alliptvlinks.com
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Globo_logo_and_wordmark.svg" tvg-id="", Globo News
 http://yesimes.oknirvana.club:8880/D12m2555/52433416/2487#checkedby:alliptvlinks.com
 #EXTINF:-1 group-title="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg" tvg-id="", Vorterix
-https://video-weaver.ord56.hls.ttvnw.net/v1/playlist/CuEE_wLvytxZL2aiiIlqFA7V4fpInF1QUWpX84dUQQOtcqlA-paUQvxoUuphyP3Qu5zoRPg75xsZ6cV5PRj6CVA9EpYbjfijZNzlL1ObO5mae-RBc5mMeExEjxYj3PdRGi3cZHd9SPji4kjbBiV77bd3OhS0CXp_G1gUiA1P5o6rg6ARW8RVc4buq-ynIaVVwd0JHywFhXAWH4Xp5jQcr9GU38k6eRRgLzcWY6pBmZJlHYDsPrt55Ru9-YUakEBm4Tz8XyNAyzw33xemJFN10p9qAHFlORckFzAYUzMzKji3dYXGMkZXpTtQgzI4RPMyPdTDABXO23T9k1qLUPrJQmovejp2SJlmUfHs49NYgs9VzSnU0pP2qaSSiCoOXZIwt7fjx1UkuAC_nQKvhjzaE5-BX906d7NyiYDqIW9Msp6s3q3wL4szYWiTL1ZlX2pydsdlPCBRdxDbaxD9yNNzlD1Z2sicGSGiePXEODvtf2nTh2DVriDs8oVEzXgDx8QVTL_PvcDn32_3C-v7a645IIuBNnDwtqgYx8r-XpIwUW4jWJXT1mebMIO4FuYcCfMmHAIrLK4ssO6DdOaMP7qsdP72MypTMFdidbEeVOsKEZXW3R9KkR0wfBDzpi1q5JnOW8QjhjI90lgcJHnzBJ8_FfjWe7r05HhHNjq02jpW_gcrTPV-noQS4ozJdbn3WPQt3dGGybOvS_TIw3CFulv3blFULsyZ9MUrZFAPf6F0zMOi1sw25zSPHsmFnhyvWFwURCOcUjK-VTPOadpyD8ZvVC02MDrwCotNCk0uD4mfW9qasBY2GgxgB-pIkhdJDCGws7QgASoJdXMtZWFzdC0yMJsL.m3u8
+https://video-weaver.ord56.hls.ttvnw.net/v1/playlist/CuEExHIiS3uinSPfMNZswgAKHqTD79udQ1KT6n7hpgYUg770LQiIL4BaK0WYrrn1yQz7y2Nv6ljke1SkgZpkijPPruXNL1MvGL_OrJxKdk2DKAGR_xG8Pyobxgrqm5_kyCXgha8Q3w_eVM_gfXwKgT7JeTXa1Hai1XzyvN_ZGuGm1vQ1j4lymDk1ynujeWnni6P9RY3VZrxMC1PvXldES9Nj0-3qZ4r-8KfHzbLAF7WR0ok3xGTF_9nMmsAEFYlqyupUt9XMdES1B9PcwgvIn9kzsA-p2qwwzXumZsbc237o2LyAJsv07k21wkEAB1Chwqq2_3uk76yI70hfysBZyxOStcEx1DVhR9VmHmU_V6TdwV1BSOnPSnEsPIIiWtymjlxVv4hfCYKh1x5i86hU1yrSwydvD7rM5hROuy4DZHWr5bYWfnjGT4-_wLm_IMS22DXaykQWUZ0f-mqo5WN3PGfej_8oDEm9eQVB-7kSTAABQ5-KB_1DZzmv1vz6ruOiLUhWP4V33CmnTUW42KChR_ofajRyrMcDAtR31WoNGSoNlBmSyogzkcQonDIy8FIbGi34SZZo18iyc_vESEOp79TOjd09n_tYpF-8Khklehw_8OY9mPPLiGyl6Tbf1l8C_2AtWnhc0GV_bAUKet8EXfxQ0q6gEIT95w0hD7SuJtiARw3Ah3zqdhmJe7Onyh_KLun5BGrmzZbZ1POzbxZh2omGnWdTD1-2M5MeZgWETGjsgD89pbQz13FkH67x2a28uVmxG79g5_pGiVGe_NUu1az46YCFxR4EsFoZLfX2iCdFInUiGgxhayxnaVy246ZmMcogASoJdXMtZWFzdC0yMJsL.m3u8
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" tvg-id="", DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" tvg-id="", Telemundo
