@@ -465,6 +465,35 @@
   },
   {
     "id": "",
+    "name": "Cartoon Classic",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Variedades"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Warner_Bros._Classic_Animation_1944_Logo.png"
+  },
+  {
+    "id": "",
     "name": "Net TV",
     "alt_names": [
       ""
@@ -1417,7 +1446,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://stream.ads.ottera.tv/cl/250106cttp8id9j1pu3m9p9uh0/1280x720_2300000_0_f.m3u8?i=475_656",
+    "website": "https://stream.ads.ottera.tv/cl/250106cttq2ibb91lcmi2m3at0/1280x720_2300000_0_f.m3u8?i=475_656",
     "logo": "https://hispanicprwire.com/wp-content/uploads/2017/06/84888_1_54838.jpg"
   },
   {
@@ -1448,6 +1477,238 @@
     "replaced_by": "",
     "website": "https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8",
     "logo": "https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png"
+  },
+  {
+    "id": "",
+    "name": "Xtrema Drama",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Pel\u00edculas"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Movies_logo.png"
+  },
+  {
+    "id": "",
+    "name": "Xtrema Accion",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Pel\u00edculas"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Movies_logo.png"
+  },
+  {
+    "id": "",
+    "name": "Xtrema Kids",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Pel\u00edculas"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Movies_logo.png"
+  },
+  {
+    "id": "",
+    "name": "Xtrema Horror",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Pel\u00edculas"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Movies_logo.png"
+  },
+  {
+    "id": "",
+    "name": "Xtrema Comedia",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Pel\u00edculas"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Movies_logo.png"
+  },
+  {
+    "id": "",
+    "name": "Xtrema Suspenso",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Pel\u00edculas"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Movies_logo.png"
+  },
+  {
+    "id": "",
+    "name": "Xtrema Europa",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Pel\u00edculas"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Movies_logo.png"
+  },
+  {
+    "id": "",
+    "name": "Xtrema Familia",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Pel\u00edculas"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Movies_logo.png"
   },
   {
     "id": "",
@@ -1625,6 +1886,35 @@
   },
   {
     "id": "",
+    "name": "El Histonauta",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Documentales"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8",
+    "logo": "https://msinteractiva.com.ar/wp-content/uploads/2021/06/logo.png"
+  },
+  {
+    "id": "",
     "name": "Discovery H&H",
     "alt_names": [
       ""
@@ -1738,6 +2028,35 @@
     "replaced_by": "",
     "website": "http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/11664#checkedby:alliptvlinks.com",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png"
+  },
+  {
+    "id": "",
+    "name": "Xtrema Animal",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Documentales"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Animal_planet.png"
   },
   {
     "id": "",
@@ -2055,7 +2374,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CuAEFu5tIpQNirF_tVKOV7xR7Q89F4GoowSq_6k7TqNdtFltvKd9dLVeg9bBdA1MeMvJVrDo9oFFIbOMN9pxudIwG7DQMovgv9oWVVl_QT9OHz41Xztaq4mq7JAjWl6dGao_97cobizxDBiZRGyWslzyLBC2eOvnWIdyIdMOFudQkY2LnEoZY_SLaA3y0SI2aD95ZisCJtP0yG6miNIxdJqg_KjUSRLICk1yR5mHDEX8DyO-zezwlW2-llvwH4ljh8_8KwK6NFGn3M-Z7-GomIpUDcQVDOK7QW1jfKbPmT3zjhwms7Hr9o70lFQxRGWUFPkLZr7S0VDPxRgWkaeXGIpCeOtixa81IOSRV419p-rj55Ss-5Q0N4AUWd05SezA3D50Mb8wdfKqwsg1-dcQ6ToTovNRZTzC7Oqjw7o-lHWT5MUFRJJr3xzrsqWAeKpCXoTogcKy0o-Cp-zoVhK8AAiqERkV2FIdair9R2cxn3KXJG0bgl5QMlu70zm7vRdAOygo2VdPW-0ATT4VDa0y0I_xwCzwc3tu_RQRuwtxhklIdSqRgJPyjnHXfqaaGIzB4lUg-3tLN3_xeJzrIGraSeN9BYErosA6T3ARsK8X51PB8aC2DR7Uz4WlRhuQJ34N_di4tdQ8Jg1goHVTCMdFM-55wYQol2YaCJdwXYPOyEhNPVzE3QDEYIQT93VBbX8qRyDwuSIAXciX9lplHYJE8ltVpN7fLI2IJwFH219xbJyKlluqv_NIXxgS_t1Zlm5o_stZ4FoiAVbuzRtr8JEaLOVtDnwVcDaxnFJPVuf7_3iO4SYaDMJBE9ihtF1HiHsbRyABKgl1cy13ZXN0LTIwogs.m3u8",
+    "website": "https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CuAEyD_A3b75ou0Rbs1cixyRNJJOLUEQdzWrOWRnDWubl9h74JQLT1YwSjbHKDwPbe2mtsCn-Cdk4Y-ziFoZ-VHVWibI4qs3CGg-4XqHWngem0AcRUlzi4aqab30nSfVwCER3zt-4uPBF0SRGyk9yZXBuEZfyD3-KY3VPX7f7QUyprZZKYYLyCs-XhfJfoXN6SPBBNt990YjLZErgOcEOObOsdSHLeFeW2e7I88rkcbkuzHT_V2Fc4K9jMrguFNuaXX-tZxqYGuqNLFsTSSUNywpNpHI4M6UiB_JRjmqtKhlmfrKVRZT6Ohg-XCOqOTkWk7xzcrtcQmMQD_MScXu2odZhVqplIX6pYxON_gvP-xznK_JZwYeMeSH00Tjfv4T84S_6NMB0lfaAw3u15IEFKP8HbHdgaPgbJq-XB2Rn9rZRkYyaBb2xY0N2G-TB_FeTXehc3OtFIiBSwcMXiykyF62JQhVj9loTn0JEYkF1ktwQFF-h8uijQh9KznWgVEpdP19FhhYxNdLqU9TMLrQPkK8NF6nMvPuUBbV7Bxmc8cnC7g4Q-dBVprdSbS7hxvkSbPvt6WtoOCrNkU4LHrqjl6U9DMfA_r2yrN0dqvXSGadJwnido110lpiohI0CPQsEwKpU6g-NcaIKUOzH4VoCMSeuLcdB-suN_1Ye-LW0SkHwKTwf6CfJ7KV88Uhg9SZF9OP8gYSEu00KSwr_QqcV_pJjJRY7RG7e8hPUZiiicdwUXFlwPKg8iuv8IeY_Mi6zi2xfpV9GjOIj0_JaczvybnHA3pIIszmQJXE3YTL0-m675saDPEB7u69MjzFHLp8VSABKgl1cy1lYXN0LTEw2Ak.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg"
   },
   {
@@ -2173,6 +2492,35 @@
     "replaced_by": "",
     "website": "http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/30694#checkedby:alliptvlinks.com",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/2560px-Logo_del_canal_Encuentro.svg.png"
+  },
+  {
+    "id": "",
+    "name": "Dance TV",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "M\u00fasica"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://stmv1.cnarlatam.com/danncetv/danncetv/playlist.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/12/Q-Dance_logo.svg"
   },
   {
     "id": "",
