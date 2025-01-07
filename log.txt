@@ -176,3 +176,184 @@
 2025-01-07 10:27:18,391 - error - URL Error No PluginError http://abcnew.site:8880/D12m2692/94245219/49978#checkedby:alliptvlinks.com: 
 2025-01-07 10:27:18,567 - error - URL Error No PluginError http://abcnew.site:8880/D12m2668/24493676/2485#checkedby:alliptvlinks.com: 
 2025-01-07 10:27:18,568 - debug - URL ends with a valid streaming suffix: https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+2025-01-07 11:15:05,093 - debug - URL ends with a valid streaming suffix: https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
+2025-01-07 11:15:05,257 - debug - URL ends with a valid streaming suffix: https://bloomberg.com/media-manifest/streams/asia.m3u8
+2025-01-07 11:15:05,448 - debug - URL ends with a valid streaming suffix: https://bloomberg.com/media-manifest/streams/eu-event.m3u8
+2025-01-07 11:15:05,610 - debug - URL ends with a valid streaming suffix: https://bloomberg.com/media-manifest/streams/politics.m3u8
+2025-01-07 11:15:05,767 - debug - URL ends with a valid streaming suffix: https://bloomberg.com/media-manifest/streams/us.m3u8
+2025-01-07 11:15:06,218 - error - URL Error No PluginError http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/9815#checkedby:alliptvlinks.com: 
+2025-01-07 11:15:06,532 - error - URL Error No PluginError https://thegateway.app/BizAndYou/Biz_1080p/playlist.m3u8#checkedby:alliptvlinks.com: 
+2025-01-07 11:15:06,532 - debug - URL ends with a valid streaming suffix: http://41.205.93.154/FOXBUSINESS/index.m3u8
+2025-01-07 11:15:06,921 - debug - URL ends with a valid streaming suffix: https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
+2025-01-07 11:15:07,355 - debug - URL ends with a valid streaming suffix: https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+2025-01-07 11:15:07,442 - debug - URL ends with a valid streaming suffix: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernewsweb-ono/playlist.m3u8
+2025-01-07 11:15:07,706 - error - Connection Error for URL https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernewsweb-ono/playlist.m3u8: HTTPSConnectionPool(host='amg01486-tickernews-tickernewsweb-ono-oda6t.amagi.tv', port=443): Max retries exceeded with url: /playlist/amg01486-tickernews-tickernewsweb-ono/playlist.m3u8 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fa89cc76fc0>: Failed to resolve 'amg01486-tickernews-tickernewsweb-ono-oda6t.amagi.tv' ([Errno -2] Name or service not known)"))
+2025-01-07 11:15:07,706 - error - Valid streaming URL is not reachable: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernewsweb-ono/playlist.m3u8
+2025-01-07 11:15:07,706 - warning - Unreachable or unsupported URL: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernewsweb-ono/playlist.m3u8
+2025-01-07 11:15:27,780 - error - URL Error No PluginError http://168.197.196.98:9981/stream/channelid/442797857?profile=pass&checkedby:alliptvlinks.com: 
+2025-01-07 11:15:27,781 - debug - URL ends with a valid streaming suffix: https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+2025-01-07 11:15:49,565 - error - URL Error No PluginError http://168.197.196.98:9981/stream/channelid/369719429?profile=pass&checkedby:alliptvlinks.com: 
+2025-01-07 11:16:09,638 - error - URL Error No PluginError http://168.197.196.98:9981/stream/channelid/581244389?profile=pass&checkedby:alliptvlinks.com: 
+2025-01-07 11:16:09,638 - debug - URL ends with a valid streaming suffix: https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+2025-01-07 11:16:09,697 - error - Connection Error for URL https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8: HTTPSConnectionPool(host='cntlnk-main-edge-access.secure.footprint.net', port=443): Max retries exceeded with url: /entrypoint/c7_vivo01_dai_source-20001_all.m3u8 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fa89c8f7f20>: Failed to resolve 'cntlnk-main-edge-access.secure.footprint.net' ([Errno -2] Name or service not known)"))
+2025-01-07 11:16:09,697 - error - Valid streaming URL is not reachable: https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+2025-01-07 11:16:09,697 - warning - Unreachable or unsupported URL: https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+2025-01-07 11:16:29,793 - error - URL Error No PluginError http://190.61.43.118:45000/play/a02v#checkedby:alliptvlinks.com: 
+2025-01-07 11:16:30,375 - debug - URL Streams https://www.youtube.com/@CanalKZO/live: {}
+2025-01-07 11:16:30,375 - warning - Unreachable or unsupported URL: https://www.youtube.com/@CanalKZO/live
+2025-01-07 11:16:30,375 - debug - URL ends with a valid streaming suffix: https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
+2025-01-07 11:16:31,013 - debug - URL ends with a valid streaming suffix: https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+2025-01-07 11:16:31,112 - debug - URL ends with a valid streaming suffix: https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+2025-01-07 11:16:31,513 - error - URL Error No PluginError http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/49982#checkedby:alliptvlinks.com: 
+2025-01-07 11:16:31,920 - debug - URL Streams https://www.twitch.tv/anx215: {}
+2025-01-07 11:16:31,920 - warning - Unreachable or unsupported URL: https://www.twitch.tv/anx215
+2025-01-07 11:16:32,262 - debug - URL Streams https://www.twitch.tv/f1leld026: {}
+2025-01-07 11:16:32,262 - warning - Unreachable or unsupported URL: https://www.twitch.tv/f1leld026
+2025-01-07 11:16:32,461 - error - URL Error No PluginError http://200.59.188.3:8000/play/a01h#checkedby:alliptvlinks.com: 
+2025-01-07 11:16:52,534 - error - URL Error No PluginError http://168.197.196.98:9981/stream/channelid/1798914357?profile=pass&checkedby:alliptvlinks.com: 
+2025-01-07 11:16:52,723 - error - URL Error No PluginError http://200.59.188.3:8000/play/a02v#checkedby:alliptvlinks.com: 
+2025-01-07 11:16:52,919 - error - URL Error No PluginError http://200.59.188.3:8000/play/a02v#checkedby:alliptvlinks.com: 
+2025-01-07 11:16:53,628 - error - URL Error No PluginError http://premiumiptvmk.com:8080/F19236/516c41c7/304142#checkedby:alliptvlinks.com: 
+2025-01-07 11:16:53,708 - error - URL Error No PluginError http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/302330#checkedby:alliptvlinks.com: 
+2025-01-07 11:16:53,832 - error - URL Error No PluginError http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1144#checkedby:alliptvlinks.com: 
+2025-01-07 11:16:53,913 - error - URL Error No PluginError http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1143#checkedby:alliptvlinks.com: 
+2025-01-07 11:16:54,018 - error - URL Error No PluginError http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/8994#checkedby:alliptvlinks.com: 
+2025-01-07 11:16:54,077 - error - URL Error No PluginError http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1146#checkedby:alliptvlinks.com: 
+2025-01-07 11:16:54,141 - error - URL Error No PluginError http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1148#checkedby:alliptvlinks.com: 
+2025-01-07 11:16:54,280 - error - URL Error No PluginError http://45.166.92.22:58001/play/a02o/index.m3u8#checkedby:alliptvlinks.com: 
+2025-01-07 11:17:14,350 - error - URL Error No PluginError http://168.197.196.98:9981/stream/channelid/48157996?profile=pass&checkedby:alliptvlinks.com: 
+2025-01-07 11:17:14,434 - error - URL Error No PluginError http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/5770#checkedby:alliptvlinks.com: 
+2025-01-07 11:17:14,528 - error - URL Error No PluginError http://204.157.251.250:8001/play/a02y/index.m3u8#checkedby:alliptvlinks.com: 
+2025-01-07 11:17:14,528 - debug - URL ends with a valid streaming suffix: http://38989879319323210.ofk0601.xyz:80/live/vi915360/hySqrXEtpxA/323210.ts
+2025-01-07 11:17:14,562 - error - Connection Error for URL http://38989879319323210.ofk0601.xyz:80/live/vi915360/hySqrXEtpxA/323210.ts: HTTPConnectionPool(host='38989879319323210.ofk0601.xyz', port=80): Max retries exceeded with url: /live/vi915360/hySqrXEtpxA/323210.ts (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7fa89bda2480>: Failed to resolve '38989879319323210.ofk0601.xyz' ([Errno -2] Name or service not known)"))
+2025-01-07 11:17:14,563 - error - Valid streaming URL is not reachable: http://38989879319323210.ofk0601.xyz:80/live/vi915360/hySqrXEtpxA/323210.ts
+2025-01-07 11:17:14,563 - warning - Unreachable or unsupported URL: http://38989879319323210.ofk0601.xyz:80/live/vi915360/hySqrXEtpxA/323210.ts
+2025-01-07 11:17:34,633 - error - URL Error No PluginError http://168.197.196.98:9981/stream/channelid/1978046079?profile=pass&checkedby:alliptvlinks.com: 
+2025-01-07 11:17:34,804 - error - URL Error No PluginError http://abcnew.site:8880/D12m2185/99818221/49686#checkedby:alliptvlinks.com: 
+2025-01-07 11:17:35,007 - error - URL Error No PluginError http://177.93.41.134:4000/play/a06b/index.m3u8#checkedby:alliptvlinks.com: 
+2025-01-07 11:17:35,102 - error - URL Error No PluginError http://204.157.251.250:8001/play/a008/index.m3u8#checkedby:alliptvlinks.com: 
+2025-01-07 11:17:35,280 - error - URL Error No PluginError http://38.41.8.1:8000/play/a01h#checkedby:alliptvlinks.com: 
+2025-01-07 11:17:35,483 - error - URL Error No PluginError http://177.93.41.134:4000/play/a0ew/index.m3u8#checkedby:alliptvlinks.com: 
+2025-01-07 11:17:35,483 - debug - URL ends with a valid streaming suffix: http://200.24.206.132:8000/play/a07d/index.m3u8
+2025-01-07 11:17:50,499 - error - Connection Error for URL http://200.24.206.132:8000/play/a07d/index.m3u8: HTTPConnectionPool(host='200.24.206.132', port=8000): Max retries exceeded with url: /play/a07d/index.m3u8 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fa89b84e720>, 'Connection to 200.24.206.132 timed out. (connect timeout=15)'))
+2025-01-07 11:17:50,499 - error - Valid streaming URL is not reachable: http://200.24.206.132:8000/play/a07d/index.m3u8
+2025-01-07 11:17:50,499 - warning - Unreachable or unsupported URL: http://200.24.206.132:8000/play/a07d/index.m3u8
+2025-01-07 11:17:50,499 - debug - URL ends with a valid streaming suffix: http://200.24.206.132:8000/play/a00v/index.m3u8
+2025-01-07 11:18:05,516 - error - Connection Error for URL http://200.24.206.132:8000/play/a00v/index.m3u8: HTTPConnectionPool(host='200.24.206.132', port=8000): Max retries exceeded with url: /play/a00v/index.m3u8 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fa89b84f920>, 'Connection to 200.24.206.132 timed out. (connect timeout=15)'))
+2025-01-07 11:18:05,516 - error - Valid streaming URL is not reachable: http://200.24.206.132:8000/play/a00v/index.m3u8
+2025-01-07 11:18:05,516 - warning - Unreachable or unsupported URL: http://200.24.206.132:8000/play/a00v/index.m3u8
+2025-01-07 11:18:05,687 - error - URL Error No PluginError http://abcnew.site:8880/D12m2692/94245219/49705#checkedby:alliptvlinks.com: 
+2025-01-07 11:18:25,759 - error - URL Error No PluginError http://168.197.196.98:9981/stream/channelid/23940887?profile=pass&checkedby:alliptvlinks.com: 
+2025-01-07 11:18:26,000 - error - URL Error No PluginError http://abcnew.site:8880/D12m2692/94245219/49704#checkedby:alliptvlinks.com: 
+2025-01-07 11:18:46,072 - error - URL Error No PluginError http://168.197.196.98:9981/stream/channelid/1926196603?profile=pass&checkedby:alliptvlinks.com: 
+2025-01-07 11:18:46,268 - error - URL Error No PluginError http://200.59.188.3:8000/play/a035#checkedby:alliptvlinks.com: 
+2025-01-07 11:19:06,338 - error - URL Error No PluginError http://168.197.196.98:9981/stream/channelid/1003583900?profile=pass&checkedby:alliptvlinks.com: 
+2025-01-07 11:19:06,403 - error - URL Error No PluginError http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/29305#checkedby:alliptvlinks.com: 
+2025-01-07 11:19:26,475 - error - URL Error No PluginError http://168.197.196.98:9981/stream/channelid/1047753039?profile=pass&checkedby:alliptvlinks.com: 
+2025-01-07 11:19:26,546 - error - URL Error No PluginError http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/49316#checkedby:alliptvlinks.com: 
+2025-01-07 11:19:26,855 - debug - URL Streams https://www.twitch.tv/cicnl1451: {}
+2025-01-07 11:19:26,855 - warning - Unreachable or unsupported URL: https://www.twitch.tv/cicnl1451
+2025-01-07 11:19:26,856 - debug - URL ends with a valid streaming suffix: http://200.24.206.132:8000/play/a0ep/index.m3u8
+2025-01-07 11:19:41,872 - error - Connection Error for URL http://200.24.206.132:8000/play/a0ep/index.m3u8: HTTPConnectionPool(host='200.24.206.132', port=8000): Max retries exceeded with url: /play/a0ep/index.m3u8 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fa89c37d2e0>, 'Connection to 200.24.206.132 timed out. (connect timeout=15)'))
+2025-01-07 11:19:41,872 - error - Valid streaming URL is not reachable: http://200.24.206.132:8000/play/a0ep/index.m3u8
+2025-01-07 11:19:41,872 - warning - Unreachable or unsupported URL: http://200.24.206.132:8000/play/a0ep/index.m3u8
+2025-01-07 11:19:41,872 - debug - URL ends with a valid streaming suffix: https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
+2025-01-07 11:19:57,087 - error - Timeout Error for URL https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8: HTTPSConnectionPool(host='olympusamagi.pc.cdn.bitgravity.com', port=443): Read timed out. (read timeout=15)
+2025-01-07 11:19:57,088 - error - Valid streaming URL is not reachable: https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
+2025-01-07 11:19:57,088 - warning - Unreachable or unsupported URL: https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
+2025-01-07 11:19:57,427 - debug - URL Streams https://stream.ads.ottera.tv/playlist.m3u8?network_id=656: {'360p': <HLSStream ['hls', 'https://stream.ads.ottera.tv/cl/250107ctugrne3iomqklkv6eeg/640x360_350000_2_f.m3u8?i=475_656', 'https://stream.ads.ottera.tv/playlist.m3u8?network_id=656']>, '480p': <HLSStream ['hls', 'https://stream.ads.ottera.tv/cl/250107ctugrne3iomqklkv6eeg/854x480_550000_3_f.m3u8?i=475_656', 'https://stream.ads.ottera.tv/playlist.m3u8?network_id=656']>, '540p': <HLSStream ['hls', 'https://stream.ads.ottera.tv/cl/250107ctugrne3iomqklkv6eeg/960x540_900000_4_f.m3u8?i=475_656', 'https://stream.ads.ottera.tv/playlist.m3u8?network_id=656']>, '720p_alt': <HLSStream ['hls', 'https://stream.ads.ottera.tv/cl/250107ctugrne3iomqklkv6eeg/1280x720_1400000_1_f.m3u8?i=475_656', 'https://stream.ads.ottera.tv/playlist.m3u8?network_id=656']>, '720p': <HLSStream ['hls', 'https://stream.ads.ottera.tv/cl/250107ctugrne3iomqklkv6eeg/1280x720_2300000_0_f.m3u8?i=475_656', 'https://stream.ads.ottera.tv/playlist.m3u8?network_id=656']>, 'worst': <HLSStream ['hls', 'https://stream.ads.ottera.tv/cl/250107ctugrne3iomqklkv6eeg/640x360_350000_2_f.m3u8?i=475_656', 'https://stream.ads.ottera.tv/playlist.m3u8?network_id=656']>, 'best': <HLSStream ['hls', 'https://stream.ads.ottera.tv/cl/250107ctugrne3iomqklkv6eeg/1280x720_2300000_0_f.m3u8?i=475_656', 'https://stream.ads.ottera.tv/playlist.m3u8?network_id=656']>}
+2025-01-07 11:19:57,432 - debug - URL ends with a valid streaming suffix: https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+2025-01-07 11:20:03,471 - error - HTTP Error for URL https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8: 503
+2025-01-07 11:20:03,472 - error - Valid streaming URL is not reachable: https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+2025-01-07 11:20:03,472 - warning - Unreachable or unsupported URL: https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+2025-01-07 11:20:03,472 - debug - URL ends with a valid streaming suffix: https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+2025-01-07 11:20:03,574 - error - HTTP Error for URL https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8: 403
+2025-01-07 11:20:03,575 - error - Valid streaming URL is not reachable: https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+2025-01-07 11:20:03,575 - warning - Unreachable or unsupported URL: https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+2025-01-07 11:20:03,575 - debug - URL ends with a valid streaming suffix: https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+2025-01-07 11:20:03,745 - debug - URL ends with a valid streaming suffix: https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
+2025-01-07 11:20:03,806 - debug - URL ends with a valid streaming suffix: https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+2025-01-07 11:20:03,858 - debug - URL ends with a valid streaming suffix: https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+2025-01-07 11:20:03,912 - debug - URL ends with a valid streaming suffix: https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
+2025-01-07 11:20:03,974 - debug - URL ends with a valid streaming suffix: https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+2025-01-07 11:20:04,045 - debug - URL ends with a valid streaming suffix: https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
+2025-01-07 11:20:04,105 - debug - URL ends with a valid streaming suffix: https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
+2025-01-07 11:20:04,159 - debug - URL ends with a valid streaming suffix: https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
+2025-01-07 11:20:04,218 - debug - URL ends with a valid streaming suffix: https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+2025-01-07 11:20:04,652 - debug - URL ends with a valid streaming suffix: https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
+2025-01-07 11:20:04,759 - error - Connection Error for URL https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8: HTTPSConnectionPool(host='spi-filmstream-1-in.samsung.wurl.tv', port=443): Max retries exceeded with url: /playlist.m3u8 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fa89bda1280>: Failed to resolve 'spi-filmstream-1-in.samsung.wurl.tv' ([Errno -2] Name or service not known)"))
+2025-01-07 11:20:04,759 - error - Valid streaming URL is not reachable: https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
+2025-01-07 11:20:04,759 - warning - Unreachable or unsupported URL: https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
+2025-01-07 11:20:04,842 - error - URL Error No PluginError http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/57625#checkedby:alliptvlinks.com: 
+2025-01-07 11:20:04,937 - error - URL Error No PluginError http://204.157.251.250:8000/play/a063/index.m3u8#checkedby:alliptvlinks.com: 
+2025-01-07 11:20:25,009 - error - URL Error No PluginError http://168.197.196.98:9981/stream/channelid/788658705?profile=pass&checkedby:alliptvlinks.com: 
+2025-01-07 11:20:25,225 - error - URL Error No PluginError http://200.59.188.3:8000/play/a033#checkedby:alliptvlinks.com: 
+2025-01-07 11:20:25,385 - error - URL Error No PluginError http://181.78.105.146:2000/play/a04y/index.m3u8#checkedby:alliptvlinks.com: 
+2025-01-07 11:20:25,385 - debug - URL ends with a valid streaming suffix: https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
+2025-01-07 11:20:45,588 - error - URL Error No PluginError http://168.197.196.98:9981/stream/channelid/650301474?profile=pass&checkedby:alliptvlinks.com: 
+2025-01-07 11:20:45,589 - debug - URL ends with a valid streaming suffix: http://200.24.206.132:8000/play/a0en/index.m3u8
+2025-01-07 11:21:00,600 - error - Connection Error for URL http://200.24.206.132:8000/play/a0en/index.m3u8: HTTPConnectionPool(host='200.24.206.132', port=8000): Max retries exceeded with url: /play/a0en/index.m3u8 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fa89b2c7d40>, 'Connection to 200.24.206.132 timed out. (connect timeout=15)'))
+2025-01-07 11:21:00,600 - error - Valid streaming URL is not reachable: http://200.24.206.132:8000/play/a0en/index.m3u8
+2025-01-07 11:21:00,600 - warning - Unreachable or unsupported URL: http://200.24.206.132:8000/play/a0en/index.m3u8
+2025-01-07 11:21:00,924 - error - URL Error No PluginError http://181.78.27.128:8000/play/a01g/index.m3u8#checkedby:alliptvlinks.com: 
+2025-01-07 11:21:01,113 - error - URL Error No PluginError http://200.59.188.3:8000/play/a02t#checkedby:alliptvlinks.com: 
+2025-01-07 11:21:01,255 - error - URL Error No PluginError http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/11664#checkedby:alliptvlinks.com: 
+2025-01-07 11:21:01,255 - debug - URL ends with a valid streaming suffix: https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
+2025-01-07 11:21:16,281 - error - Connection Error for URL https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8: HTTPSConnectionPool(host='stmv1.cnarlatam.com', port=443): Max retries exceeded with url: /xtremaanimal/xtremaanimal/playlist.m3u8 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa89b9a46e0>, 'Connection to stmv1.cnarlatam.com timed out. (connect timeout=15)'))
+2025-01-07 11:21:16,281 - error - Valid streaming URL is not reachable: https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
+2025-01-07 11:21:16,281 - warning - Unreachable or unsupported URL: https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
+2025-01-07 11:21:36,352 - error - URL Error No PluginError http://168.197.196.98:9981/stream/channelid/283862998?profile=pass&checkedby:alliptvlinks.com: 
+2025-01-07 11:21:36,352 - debug - URL ends with a valid streaming suffix: https://stream1.sersat.com/hls/garagetv.m3u8
+2025-01-07 11:21:37,250 - debug - URL Streams https://www.youtube.com/@canaldeportv/live: {}
+2025-01-07 11:21:37,250 - warning - Unreachable or unsupported URL: https://www.youtube.com/@canaldeportv/live
+2025-01-07 11:21:37,422 - error - URL Error No PluginError http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/49975#checkedby:alliptvlinks.com: 
+2025-01-07 11:21:38,053 - debug - URL Streams https://www.youtube.com/@A24com/live: {}
+2025-01-07 11:21:38,053 - warning - Unreachable or unsupported URL: https://www.youtube.com/@A24com/live
+2025-01-07 11:21:58,123 - error - URL Error No PluginError http://168.197.196.98:9981/stream/channelid/438380873?profile=pass&checkedby:alliptvlinks.com: 
+2025-01-07 11:21:58,227 - error - URL Error No PluginError http://cord-cutter.net:8080/k4Svp2/645504/104884#checkedby:alliptvlinks.com: 
+2025-01-07 11:21:58,307 - error - URL Error No PluginError http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1611#checkedby:alliptvlinks.com: 
+2025-01-07 11:21:58,403 - error - URL Error No PluginError http://cord-cutter.net:8080/X5xRz0/944877/1818#checkedby:alliptvlinks.com: 
+2025-01-07 11:21:59,270 - debug - URL Streams https://www.youtube.com/todonoticias/live: {}
+2025-01-07 11:21:59,271 - warning - Unreachable or unsupported URL: https://www.youtube.com/todonoticias/live
+2025-01-07 11:22:00,811 - error - URL Error No PluginError https://live-01-01-tn.vodgc.net/TN24/index.m3u8#checkedby:alliptvlinks.com: 
+2025-01-07 11:22:01,567 - debug - URL Streams https://www.youtube.com/@c5n/live: {}
+2025-01-07 11:22:01,568 - warning - Unreachable or unsupported URL: https://www.youtube.com/@c5n/live
+2025-01-07 11:22:02,110 - debug - URL Streams https://www.youtube.com/@canal26/live: {}
+2025-01-07 11:22:02,110 - warning - Unreachable or unsupported URL: https://www.youtube.com/@canal26/live
+2025-01-07 11:22:02,782 - debug - URL Streams https://www.youtube.com/@cronicatv/live: {}
+2025-01-07 11:22:02,782 - warning - Unreachable or unsupported URL: https://www.youtube.com/@cronicatv/live
+2025-01-07 11:22:03,366 - debug - URL Streams https://www.youtube.com/watch?v=ocFG3yor--M: {}
+2025-01-07 11:22:03,366 - warning - Unreachable or unsupported URL: https://www.youtube.com/watch?v=ocFG3yor--M
+2025-01-07 11:22:04,371 - error - URL Error No PluginError http://premiumiptvmk.com:8080/F19236/516c41c7/8758#checkedby:alliptvlinks.com: 
+2025-01-07 11:22:04,666 - error - URL Error No PluginError http://yesimes.oknirvana.club:8880/D12m2555/52433416/2487#checkedby:alliptvlinks.com: 
+2025-01-07 11:22:05,070 - debug - URL Streams https://www.twitch.tv/elobservador1079: {}
+2025-01-07 11:22:05,070 - warning - Unreachable or unsupported URL: https://www.twitch.tv/elobservador1079
+2025-01-07 11:22:05,355 - debug - URL Streams https://www.youtube.com/live/CgCBGMTQ9tE: {}
+2025-01-07 11:22:05,355 - warning - Unreachable or unsupported URL: https://www.youtube.com/live/CgCBGMTQ9tE
+2025-01-07 11:22:05,951 - debug - URL Streams https://www.twitch.tv/neuramedia: {}
+2025-01-07 11:22:05,951 - warning - Unreachable or unsupported URL: https://www.twitch.tv/neuramedia
+2025-01-07 11:22:06,322 - debug - URL Streams https://www.twitch.tv/vorterixok: {}
+2025-01-07 11:22:06,322 - warning - Unreachable or unsupported URL: https://www.twitch.tv/vorterixok
+2025-01-07 11:22:06,608 - debug - URL Streams https://www.youtube.com/live/4dpOXuRL50E: {}
+2025-01-07 11:22:06,608 - warning - Unreachable or unsupported URL: https://www.youtube.com/live/4dpOXuRL50E
+2025-01-07 11:22:06,907 - debug - URL Streams https://www.youtube.com/live/IxQ2-6Y4y9w: {}
+2025-01-07 11:22:06,907 - warning - Unreachable or unsupported URL: https://www.youtube.com/live/IxQ2-6Y4y9w
+2025-01-07 11:22:07,657 - debug - URL Streams https://www.youtube.com/live/O9mOtdZ-nSk: {}
+2025-01-07 11:22:07,657 - warning - Unreachable or unsupported URL: https://www.youtube.com/live/O9mOtdZ-nSk
+2025-01-07 11:22:07,657 - debug - URL ends with a valid streaming suffix: https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+2025-01-07 11:22:08,226 - error - URL Error No PluginError http://abcnew.site:8880/D12m2668/24493676/60194#checkedby:alliptvlinks.com: 
+2025-01-07 11:22:08,859 - debug - URL Streams https://www.youtube.com/@France24_es/live: {}
+2025-01-07 11:22:08,859 - warning - Unreachable or unsupported URL: https://www.youtube.com/@France24_es/live
+2025-01-07 11:22:08,859 - debug - URL ends with a valid streaming suffix: https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
+2025-01-07 11:22:10,379 - error - URL Error No PluginError http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/30694#checkedby:alliptvlinks.com: 
+2025-01-07 11:22:10,379 - debug - URL ends with a valid streaming suffix: https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
+2025-01-07 11:22:10,556 - error - HTTP Error for URL https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8: 404
+2025-01-07 11:22:10,557 - error - Valid streaming URL is not reachable: https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
+2025-01-07 11:22:10,557 - warning - Unreachable or unsupported URL: https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
+2025-01-07 11:22:10,923 - error - URL Error https://video.misistemareseller.com/8118/8118/playlist.m3u8?PlaylistM3UCL: Unable to open URL: https://video.misistemareseller.com/8118/8118/playlist.m3u8?PlaylistM3UCL (404 Client Error: Not Found for url: https://video.misistemareseller.com/8118/8118/playlist.m3u8?PlaylistM3UCL)
+2025-01-07 11:22:10,923 - warning - Unreachable or unsupported URL: https://video.misistemareseller.com/8118/8118/playlist.m3u8?PlaylistM3UCL
+2025-01-07 11:22:10,923 - debug - URL ends with a valid streaming suffix: https://stmv1.cnarlatam.com/danncetv/danncetv/playlist.m3u8
+2025-01-07 11:22:11,254 - error - URL Error No PluginError http://yesimes.oknirvana.club:8880/D12m2555/52433416/49711#checkedby:alliptvlinks.com: 
+2025-01-07 11:22:11,425 - error - URL Error No PluginError http://abcnew.site:8880/D12m2692/94245219/49978#checkedby:alliptvlinks.com: 
+2025-01-07 11:22:11,585 - error - URL Error No PluginError http://abcnew.site:8880/D12m2668/24493676/2485#checkedby:alliptvlinks.com: 
+2025-01-07 11:22:11,585 - debug - URL ends with a valid streaming suffix: https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
