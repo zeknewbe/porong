@@ -98,7 +98,7 @@ http://168.197.196.98:9981/stream/channelid/1047753039?profile=pass&checkedby:al
 #EXTINF:-1 group-title="Películas" tvg-logo="https://en.wikipedia.org/wiki/Syfy#/media/File:SYFY.svg" tvg-id="", SYFY
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/49316#checkedby:alliptvlinks.com
 #EXTINF:-1 group-title="Películas" tvg-logo="https://hispanicprwire.com/wp-content/uploads/2017/06/84888_1_54838.jpg" tvg-id="", Cine Romantico
-https://stream.ads.ottera.tv/cl/250107ctuf5phe1mkdn8fk9d40/1280x720_2300000_0_f.m3u8?i=475_656
+https://stream.ads.ottera.tv/cl/250107ctugrne3iomqklkv6eeg/1280x720_2300000_0_f.m3u8?i=475_656
 #EXTINF:-1 group-title="Películas" tvg-logo="https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png" tvg-id="", MegaCine
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Movies_logo.png" tvg-id="", Xtrema Drama
@@ -139,8 +139,6 @@ http://181.78.27.128:8000/play/a01g/index.m3u8#checkedby:alliptvlinks.com
 http://200.59.188.3:8000/play/a02t#checkedby:alliptvlinks.com
 #EXTINF:-1 group-title="Documentales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" tvg-id="", NatGeo Wild
 http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/11664#checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="Documentales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Animal_planet.png" tvg-id="", Xtrema Animal
-https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
 #EXTINF:-1 group-title="Documentales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Volver_Logo.png" tvg-id="", Volver
 http://168.197.196.98:9981/stream/channelid/283862998?profile=pass&checkedby:alliptvlinks.com
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Large.logo_garageTV_HD.png.9288a09ab4d6cbef56c691cd4890aa24.png/revision/latest/scale-to-width-down/400?cb=20200913211748" tvg-id="", El Garage TV
