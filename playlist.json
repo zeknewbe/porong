@@ -1446,37 +1446,8 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://stream.ads.ottera.tv/cl/250108ctvdtl3b91lcmi3j29n0/1280x720_2300000_0_f.m3u8?i=475_656",
+    "website": "https://stream.ads.ottera.tv/cl/250108ctveoe64kafb6tie60lg/1280x720_2300000_0_f.m3u8?i=475_656",
     "logo": "https://hispanicprwire.com/wp-content/uploads/2017/06/84888_1_54838.jpg"
-  },
-  {
-    "id": "",
-    "name": "MegaCine",
-    "alt_names": [
-      ""
-    ],
-    "network": "",
-    "owners": [
-      ""
-    ],
-    "country": "AR",
-    "subdivision": "",
-    "city": "Buenos Aires",
-    "broadcast_area": [
-      ""
-    ],
-    "languages": [
-      "spa"
-    ],
-    "categories": [
-      "Pel\u00edculas"
-    ],
-    "is_nsfw": false,
-    "launched": "2016-07-28",
-    "closed": "2020-05-31",
-    "replaced_by": "",
-    "website": "https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8",
-    "logo": "https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png"
   },
   {
     "id": "",
@@ -1883,6 +1854,35 @@
     "replaced_by": "",
     "website": "http://181.78.105.146:2000/play/a04y/index.m3u8#checkedby:alliptvlinks.com",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png"
+  },
+  {
+    "id": "",
+    "name": "El Histonauta",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Documentales"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8",
+    "logo": "https://msinteractiva.com.ar/wp-content/uploads/2021/06/logo.png"
   },
   {
     "id": "",
@@ -2345,7 +2345,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://video-weaver.ord56.hls.ttvnw.net/v1/playlist/CuEE3k2hgiopX2RQCAijJSKIjVdDvbcFUrk8NVjIuy-lBf1d5K81JWhTLkM1NP_kdvslypr1w9WCcpaFi3VCTtS_x5ZOqfm6NfGegjTN9uHuagQkLAmWnZaLQKot-qtpT-Eqv-pIV8p1F1IrbbwM577DWzrTuMi1N-Vy8nhAnIn0NtB5GQ3D5beqsdmZDj8f8M8LNf_8so1Oe427dHrcL9NZW6BQpkjibu1apuMqfxbeqKwfolE2I7L7NG3EAcVlo7g-6C4bKGDW68ETePIDbVgWnMBY3k3vVAG4wpGUk0ISeqZA3HEV9aUKJvrSmMdlLEIWUZqv4oijl2Uc9mWANnzuMgTGvmYr15-a4e_dhhkrXjT4p-VYZIxp9ry1vm4R28EmCL7lVdcCoegZLxkgZ-lFTwzYk-lXoCfsYJY4E9UQ_ypKfzsqMz133tlexDjuiw8s3B0ydqQY_3vY7GJECMcmf9UIadaKwxnpByWFQikQ0xI5LVZGoSOGkrblSEZO9UPGb6983y-XgKW27RmtkZamst6FqEguELeMd8gbsbPK7dOs4SH-FxQsQY1fzSBOSxdT9CL4cPfkdeI5bBZnzcOV-mPbJExdDhIefLtBdVYDy_Rl1Yprs1HLGJAfid4pyAiO-wwbFg6uTFaYdQcG4_QU0f1XO2o2ONTjfgCgLOvHNPf9EQJFgtYq_kYWRQWlNNRgRtabWfCa8mtmyfAIm31JQImWYuyZyQ9FsH4kFOWJjRfl2hC4sf87x2fPPB9rpK7S1cCiDqwYzKEpd5h1kCOia11tpAcc-LjbZbPhkiT845AzGgw2JpZj9DgVnuj_JFYgASoJdXMtZWFzdC0xMNoJ.m3u8",
+    "website": "https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CuEENiyHMx42CrT-7ezK5ch9C2UCz1n2o3WxUjBsqa56qipzpvkwd9u9lxnfB_X9ZXNq1Oylkonrf6Pd_d7cBCf4krUY1OeqI-hs0ZzJmG_OIHLjmH_7wjq-AZMINmP0Mtxx0U-DppTLaIuckNes1_IB7xyYzUylHhvDc84PJ5QhNWxXguxrC0zbVKqEkrkGWprNWvN2Ki6TLyrU427pU5TPFneLvxdohLco-mkWxT847FGs2iJs8Obx3bqi36hD-9OfH44I3UsdE5Uq0khp3H9WxwWHWFbkkwON9ln1y5AoX7Jdh1ZZcfoggmRtyrticYZKgR1ZTkn4hSBKaMYfLIVUHqf2AyrQc8g66wkpzPFakr9r9IdBw6HrtRgAFmuFrZ2pIiP88oEgZA587xJH4oaURLgWlYtGtNeva3YtmhnGdnXznfivPBs1BcSnMo4GdgpaIzxt-km5WoqI6rJsladKmbwd8sID6sTp-rjctw8oI8TxVZt7qqYqZslX45HhY4OBti4cQN0hy3fp5QonK9YGYOK1sVjQ0DaV6fxo8bKOaLtGj9xG4F-oiD0PY4ubZyfpx5ExwJuZmpDS_wuPg98W3-C2EPXR0DYiIcin-iFzW_xE-nkg9f-YhDBkSsAP50QCKga6ceZL15BzgtkegiSdgc7gMMoRD3jOX9INspJBDqRp_TY8P8x6zfYD2tzn1WvqCKs5SNZEOzNUNM9_ThhBXuuXtULhBosbFxH85D994pTeeitTMtXHdPW19zq4GSO6yubMontDOegCA-fEkoDry9qKC_pSYs5v9nlmgDQZwzLOGgyUm2bZ6d1RXtXkX7cgASoJdXMtd2VzdC0yMKUL.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Radio_y_Televisi%C3%B3n_Argentina_S.E._%282020%29_%28oficial%29.png"
   },
   {
@@ -2374,7 +2374,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://video-weaver.jfk04.hls.ttvnw.net/v1/playlist/Ct8EyzoUkJtO73kDs8GZwdmSyKnjKsbvXqR5rKw8U_YDm6sgd9i1SJniLgSbi_Z_9wzOjbBUezsC9ZoVp0782R3XbAp0VA8ygdOZdlGCE7xksb_IErXWZaahYZDmOU6Cpddok1G1xmOeqv4fp35Wwcn9aFkaa5Ey-F52KQa6EmYpVLrxnFtCQOjVyyOBZeoKoPRwgQYt0x1ShN7UDPP_coA5uv0DqE91RAI-4a3xtcPgDoadH-LkrtS1-dPZWodAQJTPnsCKsbTfZfQ_aHHW1iSqOV4NYOI6JThzW8LPsCBWsk4w_PckJd5a7CtfwdSuUGEy2Sa_J3Okgfv5hBhtmiBys2PKpVPXFqgczbM3olE8QQmSwQf6h8hzaE_GfAvQVaND-MHXgTXUT9PsQjlI16qSaMDumdakFzBWoOBfvWdoox1_XNmvojXu6uP3thjEVW9sioKAI3_AnLKH0Vyt7R3o0NuuQPS9FxtF6VREy7slheZiXO9Oeaq2VDHHeia8-mJEbc90vkz3bgO-LWN5fNYwKysCShdehd7aq9aN9rOdWi5k60cWz6gZdV_KU6nIFKm0aZFrs0xkZtOAuXfwsSp8RaoMA11g0pO8_bgLQKvsB_tlvw3o1FPmit1ZLlmEWNHg2lvOtPx-5ME8uOP3kx1pJzBlJAO98_NOqQXwxSDEBmd2lldpWfDBYDqT6bO_z162rSh-Ls0kC75SX_5-dXfv-__ATfHprEiCkUfbs-7DUxlapkc7P-2FcbcZCi5MPbzOh2NeDrmvMsNxkcZz2v76Pqj1Wv5BkyWopVBOGhx8VBoMKErol7JEpXaZZvgiIAEqCXVzLWVhc3QtMTDaCQ.m3u8",
+    "website": "https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/Ct8EJFhCoe7laOKSu9ts8TM-K3RxprzTb1EQXLlBCWZtfNOoy2hhS-aiBiyT3vBQ39LpgruVYAukJh1jBwtJs6lh7aSPeBWdAhD9Rxg1fOmYCT4GKdFtgvTnDpejr_LsqbYXlxP7gxoaMeFGAS3WgaWcbnaPtRlqZmUyGLNP-1iQAayxEK2yP_GF97MZb25rgG16pG7sOLJexLM2eLfDNtYOkHSjVkbWnpssywmMwDAnSNL4m3blS7w4WmoIgDNhl1Iva2iHVVrgpwf_bc0yd-BgCXADopIY4FCvljJCKw3NlOKYFaDsSjZCLzkteVCpL7ah09cbZps9ePb0mTswhrJ5UR2vuaghyJstRNKZu-ragdBAj-2whgmZgVXNvVeRsiLUAGrTi0cCLyRApeQufZ8OGvr9sEg_Py_6vtqM_6Y1NUmMCKYqIgT6WNNdoULjHdnQamsq7wdkMCo6Wd-zw0rE4HQovLk1DrW6V7qk8DBD1jNYdXpEaXK4Z23rjiz3Vd5A5FEW_8zf5gSC3oYcxQ5rZH_303-fkeHiNjrph_2WbZ1-YTD9mdcYpxHj31eixt2q7YhupIlKjHkZ0_Jof_Hdfo2lzRoEe-kCZ-If0M9QdP2FeIRHLmoI0vtyUsmT57WZHIievNUBEhmHU0IrUegbIAt5x__jVADJMUAG_mxvXkJ5ZxSOcoqB2aAMp05GGDRDQqLJvY46ApyDcPfCb8OGPcOt3-ZeLGWem-hyau9QIWIOmBfvpqbdZ0HsSlAP1AVbh_coLZ_OjATa3Os6PghmppSWQTYC5EG0B0FyiuR8dRoM1GoMT79ASr71kOwcIAEqCXVzLXdlc3QtMjClCw.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg"
   },
   {
