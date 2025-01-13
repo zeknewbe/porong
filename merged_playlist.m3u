@@ -98,7 +98,7 @@ http://168.197.196.98:9981/stream/channelid/1047753039?profile=pass&checkedby:al
 #EXTINF:-1 group-title="Películas" tvg-logo="https://en.wikipedia.org/wiki/Syfy#/media/File:SYFY.svg" tvg-id="", SYFY
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/49316#checkedby:alliptvlinks.com
 #EXTINF:-1 group-title="Películas" tvg-logo="https://hispanicprwire.com/wp-content/uploads/2017/06/84888_1_54838.jpg" tvg-id="", Cine Romantico
-https://stream.ads.ottera.tv/cl/250113cu26tsettcad9gqoki60/1280x720_2300000_0_f.m3u8?i=475_656
+https://stream.ads.ottera.tv/cl/250113cu28i94uhlb4b39k61m0/1280x720_2300000_0_f.m3u8?i=475_656
 #EXTINF:-1 group-title="Películas" tvg-logo="https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png" tvg-id="", MegaCine
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1 group-title="Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Movies_logo.png" tvg-id="", Xtrema Drama
@@ -143,6 +143,8 @@ http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/11664#checkedby:alliptvlinks.com
 https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
 #EXTINF:-1 group-title="Documentales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Volver_Logo.png" tvg-id="", Volver
 http://168.197.196.98:9981/stream/channelid/283862998?profile=pass&checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Large.logo_garageTV_HD.png.9288a09ab4d6cbef56c691cd4890aa24.png/revision/latest/scale-to-width-down/400?cb=20200913211748" tvg-id="", El Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TyC_Sports_logo.svg" tvg-id="", TYC SPORTS
 http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/49975#checkedby:alliptvlinks.com
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png" tvg-id="", CNN Español
@@ -160,7 +162,7 @@ http://premiumiptvmk.com:8080/F19236/516c41c7/8758#checkedby:alliptvlinks.com
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Globo_logo_and_wordmark.svg" tvg-id="", Globo News
 http://yesimes.oknirvana.club:8880/D12m2555/52433416/2487#checkedby:alliptvlinks.com
 #EXTINF:-1 group-title="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg" tvg-id="", Vorterix
-https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CuAEho8H2ntRnZDTjbcyqXlH5y5XTvpSmN4A765XrggAKYAlcaqo8rge9gXNAsWyL1lHIR1rJkh5DFvOiqGyKNk75eVjfPgTUzYQbWO5sC9un2VIBGVsgfx6vQqGxbp8b3e8Ej-5Bz2iRBPh3ckQ2F-UIWWa2OV3c-EqPgRL6lUPhb277uvdFcTJYCAipv9n0qcPVg7qLwMWope03kb0FydYv2NL1fs22rsAJAL_bGZsq0NhME3mzteMCYt6001dSKtRlXyjlq4Fyq1KGLRHMiAh8uNZK43Z3cuDSQjOWFvLQkL_YjNomVvslN6VEv12XYV3cMeJF8TwmTYjVoFBEN1RntoOtcRwvLL2Iru9WXOTBg-_lJduteddNX89AND0MUUbwgK1biYLx20RExmmby0IZZ4sklHhXJofpeAbYyhsLXCLIy6c-Lr6ULqa8OCtCbmnPCf7qIqLgPFLx-omwDaQ3i791N7TzL2u1d8xPPa7qKa174g1OFub8cZ7u2anOqgmKpmkSYBxA9gzqNgwlNXXQ6Hzyo_BMnl7hYVj9y2jZdLmpY8a3Svm2D1_qz3Q59N7RRV-ZoxQQljxj2R8RbYAvfgr8RUZ3a3Vza3Dnrp24GrcRlsY1AYGjVqLhTVx8RyHF-ubk_kiHbZKTvFGX_R667ESS3uNkB9ciEUY2O0sv3xKHZa8ZG52VjnkQcFJDaQCEmQjfaMPo2x8dP7MbAAwZIl8jg7lM64o9-ZjsuAUEeyA84AxQGc8ZUS86z9BsOaOferEo3dN65K5RnIBIIouZ8rqrWrXhhRgJLuM11V1SuoaDJ_Iqo9QbOujSIcp-iABKgl1cy13ZXN0LTIwqQs.m3u8
+https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/Ct8EFi4fS9B-AbTW1twFeADybx4c6iKyh_QLMzZXeweLM3WKxUEetGs58WIauLSXZDjVUSKcSZ3NIXf58kdF1wvN8-O-ZlbA0AW1ZcZZogdKPiH1mst1sWq9TrmQP3o5V9HVQlCJLe1ngLP2I9Z9mlUu7gsrRVZkSOO0Hqg_TvmxvRBHzLiUQgtwgCfBeU3TF3iWJSm9zqWANRF9qhhsipsh1M1EEqUQxQ7i_BfFWHHKKRsV8pE1Y1CpXF5sxPPLIi6btsTIHjrPc_zHXfptwrX4N0KYRtmXZGFYmrnyapktYoueA_LQDuLHQpQ-hYaTWDu2TonVyTfOob0nC0IICP_Afi5BhKXxwjlRYtzJehNz-NNrsqmqSX4QaymzDvkBnvwxgG-NU7vdHNmSCrmpTpHeEQEc8HVFvTWQnbHNvP4fBgfRcb8uP0ioxDw8TTrCtr4bWchmSArXo-hZfQcThpIT86kxF0VpML5Gyz6mdkHMbP-F-A_Fzz-kLCCYbsASm-oQ9QlsZg5a3DzQTiDAjJmgh4o4K_sb8AcwV1jdhc55l91I5rtkooFeDt1mCfTeRvZDe0kX_yEOtQMTLSt8MyRl5QwVRWK7NVTxOT3yzNLi1fZqH77Vbce7rnq_cNM76mvlMxnWO1oAWIC4iMuyJ8_LpC6S1DIY6bTQqNj_n5dtD8PsNsSTkG0SwoaESQvjXuewxt4S2R259h79OmlQgSUxs89NLFjDahGaqzI3yBEzjcHTmci5vmec_4E4HW_LdtMcJWTe3Nr4lMxsAEL3X3_Db-QtwX0xYkPFF08WgB_8dhoMCHM-CiN8Zkq3D4VPIAEqCXVzLXdlc3QtMjCpCw.m3u8
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" tvg-id="", DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" tvg-id="", Telemundo
