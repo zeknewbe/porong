@@ -494,35 +494,6 @@
   },
   {
     "id": "",
-    "name": "Net TV",
-    "alt_names": [
-      ""
-    ],
-    "network": "",
-    "owners": [
-      ""
-    ],
-    "country": "AR",
-    "subdivision": "",
-    "city": "Buenos Aires",
-    "broadcast_area": [
-      ""
-    ],
-    "languages": [
-      "spa"
-    ],
-    "categories": [
-      "Variedades"
-    ],
-    "is_nsfw": false,
-    "launched": "2016-07-28",
-    "closed": "2020-05-31",
-    "replaced_by": "",
-    "website": "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/768px-Net_TV_logo.png"
-  },
-  {
-    "id": "",
     "name": "TNT Series",
     "alt_names": [
       ""
@@ -1446,7 +1417,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://stream.ads.ottera.tv/cl/250117cu57bfsd9k6fs0cpcchg/1280x720_2300000_0_f.m3u8?i=475_656",
+    "website": "https://stream.ads.ottera.tv/cl/250117cu5896e6p0ua2pb9qe3g/1280x720_2300000_0_f.m3u8?i=475_656",
     "logo": "https://hispanicprwire.com/wp-content/uploads/2017/06/84888_1_54838.jpg"
   },
   {
@@ -1709,6 +1680,35 @@
     "replaced_by": "",
     "website": "https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Movies_logo.png"
+  },
+  {
+    "id": "",
+    "name": "Cosmos TV",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Pel\u00edculas"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/80/Tv_cosmos.jpg"
   },
   {
     "id": "",
@@ -2345,7 +2345,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://video-weaver.ord03.hls.ttvnw.net/v1/playlist/CuEEULDQWNAGKRi4DBZluSpJgkQ4zYl502sFlG-B5ei01O_G59WYb_4s8HrN7kpHJ6VezywB70CrRw9FDo7vzRvNHBiEdJ36Fjnjrc6zmE2Vj_UKRcmsTdTvFxt5vl9k7mGQAWWVEhLnQ2vb0dQR6YKsJR56qZt-ddkMN1kwns41wepB_GqAf-cF79xVcqfrZyt2Db-XysWpeOE2RmMAHG1cJBjQjtvOeIphp4TjHGM2RtneoIpphT4sDAnvZCjVOCGRUYY3ccbZ74hrwoA7BpiyOmu28kMxiEo9A5F_h87BHP4AS9twjrQCg8Djv8Cg_Qnlw_cfwEbND0ytTO6qTQllsqPmUurSm5psWMt3wA6bhjOeAswPQeKKt-9VwuQVw0p2xOelFX3gtiQUajXXtzkYuatod-Msm9KsMFffk9YsrbEK9gu8hr47TAcFcsMYvN-AKWBjNe2mHcro4FL49pDN2mYVEm-0M_C4UQi5VZMSPk9Xk4qCfEs8x9bP5wOvDA2IqHVcsMUo5M5O3NpYtjOGJwxn9eydKlBalBRh-NsCYRShpVdy7RH7DaBLg_4O65MK19F-5XOz4Yc1WizURBFZBFiqjIDcJ9v1t373S7n0pd_jwpx0DaxJavKOKRvh0HazJR6y1FbapjPxV6EgscdEThA6RlKoEnzffQpewt-AETJMQpMqmxO_2SXcGV8bTUb8q6vubyLm0c4eo42j04LVITPgvNS6iJHpngJK6-3PmrzhBskGjUu_0KB0bbVdFFaOptdFQzGMGMVRDvc5D1PP9qen4kCTpDKQHO2shvT2jOXsGgybPEbkpqcPH_Wpp4ggASoJdXMtZWFzdC0xMOMJ.m3u8",
+    "website": "https://video-weaver.ord03.hls.ttvnw.net/v1/playlist/CuIEOpyH_VNYm3jdtoLzIl381OTAgf8T0xCPWP8q8k5_lPcaBd_JkmY8wX7khK8ocHOvfS_JUjagRZgyLIwnDLOItVAzlwmrsAhMghcAuUndwx57meDkPdW3g7qBXACIpR3VqyVWw9ZtiWL35J55FMCqXH52T11z9xWCprZ1BG7rprnRtfdtKt7gCeg0NMga4RZNqxfAuzpWtyYg8oCKdfSa6_fEPD7Jk8nEBQdDBhJqd-Z3If00NIi_ecsGZw_XIkMznFecUHZ2LmXIkemiHSlmtIprML7ocwP6F4ZH2tBRq0nTz2mhEuhRBhRDNaCq6tALasIMxxlSL0k1KP3b6BFDu0WDRcWyxKARmc04UrHYhbrWOH4hDybowSNYvbsm5L-zOvN1MAO-6R3gdI7shCxVI4gohp1Ub0WEp0mIdhzZHT6HdG-I8cC-3DpAPTh07ZoiCoQ-Z87EBffSsKHgqmz_G4fprR8auzYdeqkWorvQXgiODyKAM1nWZMZHqYq47V7Rl1EROQINvOdxmcA3Uhwa3uRmW0Zc979OYIx6bl-orF3mN_RT2Ea6yAtwzQvQEsC9AbYKKdYJOrNUF0Pqejw92z26BjNd-o8BxSu9I7X6tQ7u5diMBXaK_a5DOX2ZpPm-v6vVSY4lAIIM6NI_2xZpqM1E7zH9MKO79b5uMY-ORLd8WnrL3BaeE3KXgY7oXue-2s6Ku5nM4mC-IGdfznGf7zOM4q4XA7FDoM9BxJ0F02-uSWCnPgMQ2lmW_XriCqCfep5T20_4MHRonlNjNdjga3QbNL-OQYsWaqnptEIaAYQ0fxoMwUGUs5qgil2LJaO3IAEqCXVzLWVhc3QtMjCsCw.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg"
   },
   {
@@ -2579,34 +2579,5 @@
     "replaced_by": "",
     "website": "http://abcnew.site:8880/D12m2668/24493676/2485#checkedby:alliptvlinks.com",
     "logo": "https://es.m.wikipedia.org/wiki/Archivo:Globo_logo_and_wordmark.svg"
-  },
-  {
-    "id": "",
-    "name": "Net TV",
-    "alt_names": [
-      ""
-    ],
-    "network": "",
-    "owners": [
-      ""
-    ],
-    "country": "AR",
-    "subdivision": "",
-    "city": "Buenos Aires",
-    "broadcast_area": [
-      ""
-    ],
-    "languages": [
-      "spa"
-    ],
-    "categories": [
-      "Variedades"
-    ],
-    "is_nsfw": false,
-    "launched": "2016-07-28",
-    "closed": "2020-05-31",
-    "replaced_by": "",
-    "website": "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/768px-Net_TV_logo.png"
   }
 ]
