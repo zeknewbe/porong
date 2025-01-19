@@ -1446,8 +1446,37 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://stream.ads.ottera.tv/cl/250119cu6hiaibd2okh7tolb2g/1280x720_2300000_0_f.m3u8?i=475_656",
+    "website": "https://stream.ads.ottera.tv/cl/250119cu6ifq7ic8nhdiffk6e0/1280x720_2300000_0_f.m3u8?i=475_656",
     "logo": "https://hispanicprwire.com/wp-content/uploads/2017/06/84888_1_54838.jpg"
+  },
+  {
+    "id": "",
+    "name": "MegaCine",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Pel\u00edculas"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8",
+    "logo": "https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png"
   },
   {
     "id": "",
@@ -2002,35 +2031,6 @@
   },
   {
     "id": "",
-    "name": "Xtrema Animal",
-    "alt_names": [
-      ""
-    ],
-    "network": "",
-    "owners": [
-      ""
-    ],
-    "country": "AR",
-    "subdivision": "",
-    "city": "Buenos Aires",
-    "broadcast_area": [
-      ""
-    ],
-    "languages": [
-      "spa"
-    ],
-    "categories": [
-      "Documentales"
-    ],
-    "is_nsfw": false,
-    "launched": "2016-07-28",
-    "closed": "2020-05-31",
-    "replaced_by": "",
-    "website": "https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Animal_planet.png"
-  },
-  {
-    "id": "",
     "name": "Volver",
     "alt_names": [
       ""
@@ -2345,7 +2345,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://video-weaver.ord03.hls.ttvnw.net/v1/playlist/CuIE_6wq15WKuygYmKT7Rwu6eQ0TqXcklNzBGCnu4hGugzMnIo9oLyoMg_u2dTBNow3MUtiY4ZsW2gXwFE0IMPJevppKV-97_ldbVhb43FESiNRdNGvCQf-2o-kfShd-QrNzZigIwsRUVkqcCAxbYkCMC8E8VRLQ8x_671Soexjms1w1MzKsO9i9gjUP1MTCMauHqPgNW_Qk58OkU_uvrnTmpa2YZC1HfLqUWVDPWlDGBFUfcigylZwiyl9krWBBLYPun8Jv2Sl_bhhNIFhDhAdhdvrrosdwhFYOiHkqqTrhFlxi9oBNkQ1yEeRXBDS9rBxllEph66OEQvCABJakjsPCvww8nFM3h6AwmbDzgLzbzgN5wE1IoC6urSK7VTYpNSiKFi2y_LgdI6pDm_4sLAMMvAlCIq_qI65DuhYOl2BxH8d8hqN78U7qQUtwWJ-XRQWWHnHyLYDszYqF6198lySHn8a7bZKeNUN6fRxelLZD4oYJgvDwDWcyd-RRExfm2oPfxH-LegNuOqpgi8vimTe95K2oREjdK3gLs4eU32U-67IMI-iFD77DPU7nRyGmiadbn89fQf-Tlwnme415ertrS1rulWqHXOsZtc0UQcP4FiXyhgJVXQRaLs6TMRRHDKTRkYPswdNUlut8RRdSrYQ7mtkByOBaQ3SDq4OW_lw--5fiTMWR-a9dSY1vbh01PY85f87fcE_SAiSPh7cDH1x-TsON6jOJAxY9YqHiZbvWjAOSOJVNHfg36LtXYmjGwaU64trC6t2N5-v4C0INWSxuUgr01D_H7A58h06F0Sj3HlNjJhoMF0z9lMYtACAz3MTUIAEqCXVzLWVhc3QtMjCuCw.m3u8",
+    "website": "https://video-weaver.atl01.hls.ttvnw.net/v1/playlist/Ct8EqFW2fxZ59f7b5RGVm0RoV4oW8_4wutEXVDibhCAhHOCgV0_M6jlv_2EMI6qtGq_xweBRL4Gpb1suGE6m2WzaR0Yvo371MQb-9Uo5kYveaqw6AUEHLxglvC0VahZdTZvZ5Ef08ucG5owocwn6zcqXDKxo57CMxa8CJI_9z0r5Lut8hnuUKL3L3boW-v2drQ8DXTSn9ToFzl1lBvtpmXs6ZEjIKSdx40XZE4lfcmBSziEQrjTSzDAg9vV3oifiycxscDVHfGu5-TWCVONTJcMK4ZESkDe327sZ-cBbJASLGuuakynNCQuc7MSRVEKzwG7TGaVYQIZ-Rt9VgYu2yMhj8dpgJOiO9CFU35nADKJkPX5rqRbNJ0VXIVG3D-x7qhfcOB1Q0vG7kmvRPBy-146wKiTHkiUF3vZwlkjbyfk_61DoE_wI5TAyydURpEZl8V2-5fy5BaCtWv4KwgF5HxDEQqv9WuO3Q7SMO5ywEhGTqh_8Q6UUvPLCyi84gYbcWYb5JJzLoUuIk1v8X858WA9CEj-I2EezPsdkpHDNl_oegboJUBvvrFYlibvTibYKkbB6w2OAvzC-SWdNRazvOVJubJNqIddpYNfNevcnFJ2H7qpEMIFetMONqPaXSQoYxaFTuU8XhrANcnqn3w8EyFNty7hU1THJiBfqWxX4ICPJxA1NQdySrICSgGy57pwmxzdtPQ5TTdJ64jTXkRoDh1mke-PLm8ASMCE0fXEGqEpsPH7_nn8w-pAQ3tMgwJv-Kl7rOOL7zYxqYPiplyjBtNsI_iuIM4dw2MLCQnD_Fpo4xRoMoatpmoHkwJnOFIiTIAEqCXVzLWVhc3QtMTDlCQ.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg"
   },
   {
