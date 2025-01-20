@@ -204,6 +204,35 @@
   },
   {
     "id": "",
+    "name": "Fox Business",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Business"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "http://41.205.93.154/FOXBUSINESS/index.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Fox_Business.svg"
+  },
+  {
+    "id": "",
     "name": "Schwab TV Network",
     "alt_names": [
       ""
@@ -1417,7 +1446,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://stream.ads.ottera.tv/cl/250119cu6oimd7c5f0vgf2do00/1280x720_2300000_0_f.m3u8?i=475_656",
+    "website": "https://stream.ads.ottera.tv/cl/250120cu6qeaifdljbtpee1f0g/1280x720_2300000_0_f.m3u8?i=475_656",
     "logo": "https://hispanicprwire.com/wp-content/uploads/2017/06/84888_1_54838.jpg"
   },
   {
@@ -1683,35 +1712,6 @@
   },
   {
     "id": "",
-    "name": "Cosmos TV",
-    "alt_names": [
-      ""
-    ],
-    "network": "",
-    "owners": [
-      ""
-    ],
-    "country": "AR",
-    "subdivision": "",
-    "city": "Buenos Aires",
-    "broadcast_area": [
-      ""
-    ],
-    "languages": [
-      "spa"
-    ],
-    "categories": [
-      "Pel\u00edculas"
-    ],
-    "is_nsfw": false,
-    "launched": "2016-07-28",
-    "closed": "2020-05-31",
-    "replaced_by": "",
-    "website": "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/80/Tv_cosmos.jpg"
-  },
-  {
-    "id": "",
     "name": "Discovery Channel",
     "alt_names": [
       ""
@@ -1857,35 +1857,6 @@
   },
   {
     "id": "",
-    "name": "El Histonauta",
-    "alt_names": [
-      ""
-    ],
-    "network": "",
-    "owners": [
-      ""
-    ],
-    "country": "AR",
-    "subdivision": "",
-    "city": "Buenos Aires",
-    "broadcast_area": [
-      ""
-    ],
-    "languages": [
-      "spa"
-    ],
-    "categories": [
-      "Documentales"
-    ],
-    "is_nsfw": false,
-    "launched": "2016-07-28",
-    "closed": "2020-05-31",
-    "replaced_by": "",
-    "website": "https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8",
-    "logo": "https://msinteractiva.com.ar/wp-content/uploads/2021/06/logo.png"
-  },
-  {
-    "id": "",
     "name": "Discovery H&H",
     "alt_names": [
       ""
@@ -1999,35 +1970,6 @@
     "replaced_by": "",
     "website": "http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/11664#checkedby:alliptvlinks.com",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png"
-  },
-  {
-    "id": "",
-    "name": "Xtrema Animal",
-    "alt_names": [
-      ""
-    ],
-    "network": "",
-    "owners": [
-      ""
-    ],
-    "country": "AR",
-    "subdivision": "",
-    "city": "Buenos Aires",
-    "broadcast_area": [
-      ""
-    ],
-    "languages": [
-      "spa"
-    ],
-    "categories": [
-      "Documentales"
-    ],
-    "is_nsfw": false,
-    "launched": "2016-07-28",
-    "closed": "2020-05-31",
-    "replaced_by": "",
-    "website": "https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Animal_planet.png"
   },
   {
     "id": "",
@@ -2345,7 +2287,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://video-weaver.ord56.hls.ttvnw.net/v1/playlist/CuIEYZfwcjicEvpBfMum0BaK6vkbga0qA-uJBmkSmktb3mlw5u3g7r3G0mIyQzFnyVX6x7UEgUXdYC5oAaHWIZSWQazXSdMTV_VZZXXBez4VHFganJFnNszGmHEnHZmLxsvMu4mhVjCUcfTK1zAgOfGKNRz8_rnk8n2y6X55jKj7M8d1x9E93mNb4HkzDyO5tQ_-mY5Z2fRVry_F0biKdIQkp9v04DS4xAou8reVqXRRrCuAdx4C6H5T7uPktRp5EXn7Wohmnsw0orOicj_DkDclZ2Ygh0a2yFmvaVjtcF27OX5ZTBxr8G4dWTohCEkC58e14h6buF3QRii5a5xmv62Y2asrRj-9YeVedwNXxtXGNLVjsb9kY9wkjD334WQYOWh3JKYU5IFdCUrbL05NiNm4-YaaaQlnkmSpNGQNO5V12Gb57TjBxXEoMcOuwUWcSfhAIiToTaFAOsM0RMXISW6hK32ySxxH9UfRvJvacQzfbz9WJR0C3RkojFK5m9G0uT62rW6oZEewWn-Zyku4-xPvhjAelU9EWMPki9V4UbUfT1OZpe4MPOgvegWm8BA_1gpBGw153sAlA_nf-dGF2cFzyr2OvDFJy9h9SbwXJcRkidzDPBfAav7mQrCLpdgQ5zsa9_obIBJpMWLPNN3Fgdfkp7-UMdDwPr8Sh8oTlfbNVo_QeYVSOoG2p6WZ5dvE7IzqIdCYcDhuLX1XnoLdpcx8lnFfMDzTBg1ipmiRje-OZOwpZCdwMCZZJUNUjNVhk73BwkCgn_fR0Ux6SPag_2SoR42CtJCjSwxJ2SF5FYFn2-rKohoM9D8kg9ZAPKxNVofNIAEqCXVzLWVhc3QtMjCvCw.m3u8",
+    "website": "https://video-weaver.ord03.hls.ttvnw.net/v1/playlist/CuEEPSPhOOD4-jiowhzw6Jo6TAUJUMSQWMu78iMgGqlpmaiVyWeFrPTvQBIgYxTl5gv3CdUdBqNm-IsgakEF9Mk-21arz5KlgnX866es4elQDyu2RlFFbhvVnuZjXm1AQaEJEp16fyw-G0UbsJMfPXaxtCkxcXvPM7luiVcKTlOXk64-WZjW_cE3vC0gSAAgWWcRVcK34nZY0ZIGpGGlgE6m2YNv_q9xgZAfPEl_YpwI0MU4jRUMB8kban8ReKcME9es-ZABDV8zpYiWhDeJGNZ0tpndHyaWfb5PU5NeQbX7JmqA2eXQAyRwGx9EslgGrzu_nxhvXVhitGEnanBLWr7TeOOs23TyPIpcVrm8Cj5CL0fCebs_6PA9HMAkJZWEGhRrpzcCw2PE2TetYVz0AyIVCHsB-KuzX2L0wEeAWGg_dxHc_qY7h6RLZatEWxz6mGFknQjdPhwBW_7WZr6PBAsAZlNO9PN7ttXdEjHPpk2k-sNxq5KXKmeqpmwDenywSMiv3Y-XHTZSF1QqK-CY4pxAqHI3_DvEDUayubF2IIDwQDBKAoYxe5oX27TRClHAmD9xL76zQpDSO9xXfClvEvIBb6IFi87F_sJ_U2e0zvRD-aFdB-fWe26YsBIyHFpnuIeriKpc4PCPAtDQq9u4FiDNOlwL1w0kNGAr-I5DlieOL4UL0lhDJMZD-OvljJKz6_pvQplu6R0qg7v2iRExu166oYr60tKOycerZZWVkUoX-zLf8H-Hv2LsrMjjPLTtzAxrehi91EwXK6kelSLhAEnkynPsMBMh2nWkmma5FWYtqzw8GgycIowGuaBs_V00-tMgASoJdXMtZWFzdC0yMK8L.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg"
   },
   {
