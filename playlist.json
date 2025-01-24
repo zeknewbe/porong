@@ -204,6 +204,35 @@
   },
   {
     "id": "",
+    "name": "Fox Business",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Business"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "http://41.205.93.154/FOXBUSINESS/index.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Fox_Business.svg"
+  },
+  {
+    "id": "",
     "name": "Schwab TV Network",
     "alt_names": [
       ""
@@ -1417,7 +1446,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://stream.ads.ottera.tv/cl/250124cu9k0jrveofpd17aquo0/1280x720_2300000_0_f.m3u8?i=475_656",
+    "website": "https://stream.ads.ottera.tv/cl/250124cu9kvarveofpd17b2d1g/1280x720_2300000_0_f.m3u8?i=475_656",
     "logo": "https://hispanicprwire.com/wp-content/uploads/2017/06/84888_1_54838.jpg"
   },
   {
@@ -2345,7 +2374,7 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://sae11.playlist.ttvnw.net/v1/playlist/CuIECGy4UTzxu4Qh5y-RptPceP8PcbzkEL2mF4pWbaKF_Hmb1SebKj82PGvIVeAvj4hvBnXBwN-rWeYw1ll64UZOEEsAWplVDKOOGORLJFHs18vnVEMVxqUjuBi3hDkVTUmvP0vCGlehTnxI3_TKc6cmgDm6VkvzChHD7is0CPftKBYxVjZiOL3wX2jJK39b_-Q7NCSs4o0gvXchgkHIrl6yAuwhz34ecgVZi00r3349qMGRNQNJnLHf0nRZ-tsnUrMhRTslJF2JM3hLg9vFUws60t1Ipxr79IPYjlSToJJJw0F5mw9ekquaD4haglPF45_CBJuPlFHVtNUWtducHDpuBQIpbafl_Y7FWb11y9yPdkPIwW0bjSbMNfyzd1zWVUVtSnXpYWvJk7CW6xqUKtaHfvpmpyrtGTnXTr2-ZzCUWtApLFNbGRUNZlvU63Yh6X1cv4wYPy9ul1nGE59_ehc_kF5WdvAziWBRYi6vVpQM0y5cAdmqe3mkilxb5ALFqQVzph5kR3rmwsbYdmM8W6sWAS5iPT4ZB-GrCPqCPu1ZFwxbtEvbPu4X6U0WEITssaeGpW7ziz2-eewD2xt2epd3XWqJtWaKNVTOmKiCkd3XRMxkIk30KStf1F9pzQ5k5nZNsq3nw46uolcsMwm1zy0nIZvX7vpnc76PDm7AYKWqLNAkwhDkeTeXR2UcXwgw9-xGzMEhaGuvVlvH1ASV0sqn_a4jassVf35eDoECqUpscTzOOT0TSZgXkpd2LV4dQhKxMwvmNP6OAsCuZtv_nI_Waylb1eNFa4Ila2JGvDzYoOlq4hoM3FZ5KDXVNn-rfmpHIAEqCXVzLXdlc3QtMjC0Cw.m3u8",
+    "website": "https://sae11.playlist.ttvnw.net/v1/playlist/CuEENzAQLcVQ77_UO3drJm3LWayVu31_6qw0JsF3paH7oOOXCZ-2F7cqRK5WMHy91kDNiRU5StEc8RWNWoHeY2Fyab9I8qL9drN0TnTGgUAUc39RuXvGFvAJogk_ASjOzSb99Yh7Q6JwtcPyP8eDvbaS_1N2JPK49Mfkt3kw8OljaPSLHsGjrwAGswG7voi_2bHeqzJ386jVz_0eks3SaXHPMGZvZc5iHriUUSPHK2Dt1v5oYrhvLwiKzPjUP2GGYmvGrdXcmfosizjOKm87RvHxt6Nxcu9a4gokF30E49XUVb89nU_2UxvWzuKsQXLjNnNMTOZYrCgrJuJCJhNN-YA1gs2zGPKpjQ3Jgld7vuOGSSkqFE19gRN9VqkNn2ekOe-QMeeUGRaxn9I1uAnwAwrYBPZb496Z3ThcPovpnuWbjAX-rItmz2JJcFW26waZpEQY4jxVDoifcAzgAGeooFU1McaF5xL_qH4himUcg9BxRwlXvA1NEd3a0bUzXLfu-uaRHZAVgNb2Gh9JjO7-kRIdfhx3Ur71q4VQ0C6C3I7Nk8pzo-J38vbFJXVAmHaT87B7lT9oLdR-aqWL5QbbnjaFr-WORRgNN34sftSYgOiUS0YizEtHnS73qrlyYwnfW12lFAYjrDKjeS8seKcUQUmyxulA3VMeDdki9UatrPITBPDJxrc1lpFxV43jVost57QRKIb8zFIzHUABTW5dp0-USYJnTgtABlAI8hQEQtVhq1RfakdugVmaZtUkj8R7VpVhlsv-G4wdogl-82PLWBDNg7ARARtqZjq_1E-EE-y5yKCAGgzmUdhGubmTYd_Eq08gASoJdXMtd2VzdC0yMLQL.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg"
   },
   {
@@ -2405,35 +2434,6 @@
     "replaced_by": "",
     "website": "http://abcnew.site:8880/D12m2668/24493676/60194#checkedby:alliptvlinks.com",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"
-  },
-  {
-    "id": "",
-    "name": "RT Espa\u00f1ol",
-    "alt_names": [
-      ""
-    ],
-    "network": "",
-    "owners": [
-      ""
-    ],
-    "country": "AR",
-    "subdivision": "",
-    "city": "Buenos Aires",
-    "broadcast_area": [
-      ""
-    ],
-    "languages": [
-      "spa"
-    ],
-    "categories": [
-      "Noticias"
-    ],
-    "is_nsfw": false,
-    "launched": "2016-07-28",
-    "closed": "2020-05-31",
-    "replaced_by": "",
-    "website": "https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8",
-    "logo": "https://commons.wikimedia.org/wiki/Category:Russia_Today_logos#/media/File:RT_America_Logo.png"
   },
   {
     "id": "",
